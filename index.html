@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>LexiPets</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <!-- ===================== SCREENS ===================== -->
+
+    <!-- MENU -->
+    <div id="screen-menu" class="screen active relative overflow-hidden" style="min-height: 100vh;">
+        <!-- TOP BAR -->
+        <div class="absolute top-4 left-4 right-4 flex justify-between items-start z-20">
+            <!-- Profile (Left) -->
+            <div id="auth-status-btn" onclick="UI.openAuth()" class="glass-panel flex items-center gap-3 p-2 pr-6 rounded-full shadow-lg border border-white/50 cursor-pointer hover:scale-105 transition">
+                <div class="w-14 h-14 bg-blue-100 rounded-full flex items-center justify-center text-2xl relative shadow-inner">
+                    <i class="fa-solid fa-user text-blue-500"></i>
+                    <div class="absolute -bottom-1 -right-1 bg-blue-500 text-white text-[10px] font-bold px-2 py-0.5 rounded-full border-2 border-white shadow-sm">Lv 8</div>
+                </div>
+                <div>
+                    <div id="menu-user-name" class="font-bold text-slate-800 text-lg leading-tight">Guest</div>
+                    <div class="text-xs text-slate-500 font-bold">Explorer</div>
+                </div>
+            </div>
+            
+            <!-- Logo (Center) -->
+            <div class="text-center drop-shadow-md">
+                <h1 class="text-5xl font-extrabold text-white flex items-center justify-center gap-2" style="-webkit-text-stroke: 2px #16a34a; text-shadow: 0 4px 0 #15803d;">
+                    LexiPets <i class="fa-solid fa-paw text-yellow-400" style="-webkit-text-stroke: 0;"></i>
+                </h1>
+                <p class="text-white font-bold text-sm bg-black/30 px-3 py-1 rounded-full mt-1 backdrop-blur-sm">Learn English, Collect Pets!</p>
+            </div>
+
+            <!-- Currencies (Right) -->
+            <div class="flex items-center gap-3">
+                <div class="glass-panel flex items-center gap-2 pl-3 pr-2 py-1.5 rounded-full shadow-lg border border-white/50">
+                    <i class="fa-solid fa-coins text-yellow-500 text-xl drop-shadow-sm"></i>
+                    <span id="menu-coin-display" class="font-bold text-slate-800 text-lg w-12 text-center">300</span>
+                    <button class="w-6 h-6 bg-yellow-500 text-white rounded-full flex items-center justify-center text-xs shadow-sm hover:scale-110 active:scale-95 transition"><i class="fa-solid fa-plus"></i></button>
+                </div>
+                <div class="flex gap-2">
+                    <button class="w-10 h-10 glass-panel text-slate-700 rounded-2xl flex items-center justify-center text-xl shadow-lg border border-white/50 hover:scale-110 active:scale-95 relative transition">
+                        <i class="fa-solid fa-envelope"></i>
+                        <span class="absolute -top-2 -right-2 bg-red-500 text-white text-[10px] font-bold px-1.5 rounded-full border-2 border-white shadow-sm">3</span>
+                    </button>
+                    <button class="w-10 h-10 glass-panel text-slate-700 rounded-2xl flex items-center justify-center text-xl shadow-lg border border-white/50 hover:scale-110 active:scale-95 relative transition">
+                        <i class="fa-solid fa-gift"></i>
+                        <span class="absolute -top-2 -right-2 bg-red-500 text-white text-[10px] font-bold px-1.5 rounded-full border-2 border-white shadow-sm">1</span>
+                    </button>
+                    <button onclick="AuthController.resetSaveData()" class="w-10 h-10 glass-panel text-slate-700 rounded-2xl flex items-center justify-center text-xl shadow-lg border border-white/50 hover:scale-110 active:scale-95 transition">
+                        <i class="fa-solid fa-gear"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- LEFT PANEL (Daily Status & Missions) -->
+        <div class="absolute top-24 left-4 w-64 flex flex-col gap-4 z-20">
+            <div class="glass-panel p-4 rounded-3xl shadow-lg border border-white/50 relative overflow-hidden">
+                <div class="absolute -top-1 -left-1 bg-green-500 text-white text-[10px] font-bold px-3 py-1 rounded-br-xl uppercase tracking-wider shadow-sm">Daily Status</div>
+                <div class="mt-4 flex flex-col gap-3">
+                    <div class="flex items-center gap-3">
+                        <div class="w-10 h-10 bg-orange-100 rounded-full flex items-center justify-center text-2xl text-orange-500 shadow-inner"><i class="fa-solid fa-fire"></i></div>
+                        <div>
+                            <div class="text-xs font-bold text-slate-500 uppercase tracking-wider">Streak</div>
+                            <div class="font-bold text-orange-600">12 days</div>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-3">
+                        <div class="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center text-2xl text-blue-500 shadow-inner"><i class="fa-solid fa-bolt"></i></div>
+                        <div class="flex-1">
+                            <div class="text-xs font-bold text-slate-500 uppercase tracking-wider">Energy</div>
+                            <div class="font-bold text-blue-600">80 / 100</div>
+                        </div>
+                        <button class="w-6 h-6 bg-yellow-400 text-white rounded-full flex items-center justify-center text-xs shadow hover:scale-110 active:scale-95 transition"><i class="fa-solid fa-plus"></i></button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="glass-panel p-4 pb-2 rounded-3xl shadow-lg border border-white/50 relative overflow-hidden flex-1 max-h-64 flex flex-col">
+                <div class="absolute -top-1 -left-1 bg-purple-500 text-white text-[10px] font-bold px-3 py-1 rounded-br-xl uppercase tracking-wider shadow-sm">Daily Mission</div>
+                <div id="quests-list" class="mt-6 flex flex-col gap-2 overflow-y-auto flex-1 pr-1 custom-scrollbar">
+                    <!-- Quests go here -->
+                </div>
+                <button class="w-full mt-2 py-1.5 text-purple-600 font-bold text-sm bg-purple-100/50 rounded-xl hover:bg-purple-100 transition shrink-0">View All <i class="fa-solid fa-arrow-right ml-1"></i></button>
+            </div>
+        </div>
+
+        <!-- RIGHT PANEL (Events & Leaderboard) -->
+        <div class="absolute top-24 right-4 w-64 flex flex-col gap-4 z-20">
+            <!-- Event Banner -->
+            <div class="glass-panel rounded-3xl shadow-lg border border-white/50 overflow-hidden relative group cursor-pointer p-0">
+                <div class="absolute -top-1 -left-1 bg-pink-500 text-white text-[10px] font-bold px-3 py-1 rounded-br-xl uppercase tracking-wider shadow-sm z-10">New</div>
+                <div class="absolute top-1 right-2 text-[10px] font-bold text-white bg-black/30 px-2 py-0.5 rounded-full z-10 backdrop-blur-sm">SPRING EVENT</div>
+                <img src="assets/bg.png" class="w-full h-32 object-cover transition-transform duration-500 group-hover:scale-110">
+                <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
+                <div class="absolute bottom-2 left-0 w-full text-center px-2">
+                    <p class="text-white text-xs font-bold leading-tight drop-shadow-md">Collect flowers and get special rewards!</p>
+                    <div class="text-[10px] text-white mt-1 bg-black/50 inline-block px-2 py-0.5 rounded-full font-bold"><i class="fa-solid fa-clock mr-1 text-yellow-400"></i> 6d 14h</div>
+                </div>
+            </div>
+
+            <!-- Top Players -->
+            <div class="glass-panel p-4 rounded-3xl shadow-lg border border-white/50 relative overflow-hidden flex-1 max-h-64 flex flex-col">
+                <div class="text-center mb-2 border-b border-white/30 pb-2 relative">
+                    <div class="absolute -top-1 left-1/2 -translate-x-1/2 bg-blue-500 text-white text-[10px] font-bold px-3 py-1 rounded-b-xl uppercase tracking-wider shadow-sm whitespace-nowrap">Top Players</div>
+                </div>
+                <div id="mini-leaderboard-list" class="mt-4 flex flex-col gap-2 flex-1 overflow-y-auto pr-1 custom-scrollbar">
+                    <div class="text-center text-xs text-slate-500 mt-4">Đang tải...</div>
+                </div>
+                <button onclick="SocialController.openLeaderboard()" class="w-full mt-3 py-2 bg-blue-500 text-white font-bold text-sm rounded-xl shadow-[0_3px_0_#2563eb] active:translate-y-1 active:shadow-none transition shrink-0">View Leaderboard</button>
+            </div>
+        </div>
+
+        <!-- CENTER STAGE (Pet & Actions) -->
+        <div class="absolute inset-0 flex flex-col items-center justify-center pt-10 z-10 pointer-events-none">
+            
+            <!-- Speech Bubble -->
+            <div class="relative bg-white/90 backdrop-blur-md px-5 py-3 rounded-2xl shadow-lg border border-white text-slate-700 font-bold text-sm mb-4 animate-bounce pointer-events-auto max-w-xs text-center">
+                Hi! Let's learn something new today! ✨
+                <div class="absolute -bottom-2 left-1/2 -translate-x-1/2 w-4 h-4 bg-white border-b border-r border-slate-200 rotate-45"></div>
+            </div>
+
+            <!-- Pet Avatar -->
+            <div id="menu-character" class="w-48 h-48 relative z-20 pointer-events-auto cursor-pointer flex items-center justify-center text-8xl drop-shadow-2xl transition-transform hover:scale-105" style="animation: float-up 3s ease-in-out infinite;">
+                <i class="fa-solid fa-dog text-orange-400" id="menu-pet-icon-large"></i>
+            </div>
+
+            <!-- Pedestal -->
+            <div class="w-72 h-16 bg-gradient-to-b from-slate-400 to-slate-600 rounded-full mt-[-40px] border-b-8 border-slate-700 shadow-[0_20px_30px_rgba(0,0,0,0.3)] relative z-10 flex flex-col items-center justify-end pb-3 pointer-events-auto">
+                <div class="bg-black/40 px-6 py-0.5 rounded-full text-white text-sm font-bold mb-1 w-4/5 text-center truncate backdrop-blur-sm" id="menu-pet-name">Fluffy</div>
+                <div class="w-4/5 bg-slate-800 rounded-full h-3 border border-slate-600 relative overflow-hidden flex items-center justify-center shadow-inner">
+                    <div id="menu-pet-exp-bar" class="absolute top-0 left-0 h-full bg-gradient-to-r from-green-400 to-green-500 w-1/2"></div>
+                    <span class="relative text-[9px] font-bold text-white z-10"><span id="menu-pet-exp-text">320 / 600</span> XP</span>
+                </div>
+                <div class="absolute -left-3 top-1/2 -translate-y-1/2 w-10 h-10 bg-gradient-to-br from-teal-400 to-teal-600 text-white rounded-full flex items-center justify-center font-bold border-2 border-slate-700 shadow-lg text-sm">
+                    <span id="menu-pet-level">8</span>
+                </div>
+            </div>
+
+            <!-- Action Buttons -->
+            <div class="flex gap-6 mt-10 pointer-events-auto">
+                <button id="btn-start-learn" onclick="GameController.startGame('learn')" disabled class="w-64 py-5 rounded-3xl text-lg font-bold text-white flex items-center justify-center gap-4 relative cursor-not-allowed bg-gradient-to-b from-amber-400 to-orange-500 shadow-[0_8px_0_#c2410c] border-2 border-white/30 opacity-60">
+                    <div class="w-12 h-12 bg-white/20 rounded-xl flex items-center justify-center text-3xl shadow-inner"><i class="fa-solid fa-book-open"></i></div>
+                    <div class="text-left flex-1">
+                        <div class="text-2xl leading-none drop-shadow-sm">Learn Mode</div>
+                        <div class="text-xs font-medium text-white/90 mt-1">Learn new words</div>
+                    </div>
+                    <span id="menu-level-indicator" class="absolute -top-3 -right-3 bg-red-500 text-white text-sm font-bold px-3 py-1 rounded-full border-2 border-white shadow-lg">Lv 1</span>
+                </button>
+                <button id="btn-start-challenge" onclick="GameController.startGame('challenge')" class="w-64 py-5 rounded-3xl text-lg font-bold text-white flex items-center justify-center gap-4 bg-gradient-to-b from-purple-500 to-purple-600 shadow-[0_8px_0_#6b21a8] border-2 border-white/30 active:translate-y-2 active:shadow-none transition hover:brightness-110">
+                    <div class="w-12 h-12 bg-white/20 rounded-xl flex items-center justify-center text-3xl shadow-inner"><i class="fa-solid fa-bolt"></i></div>
+                    <div class="text-left flex-1">
+                        <div class="text-2xl leading-none drop-shadow-sm">Challenge</div>
+                        <div class="text-xs font-medium text-white/90 mt-1">Test your skills</div>
+                    </div>
+                </button>
+            </div>
+            
+            <p id="menu-extra-loading" class="text-xs text-white/60 font-bold bg-black/30 px-3 py-1 rounded-full mt-4" hidden>Đang tải thêm từ vựng...</p>
+            <p id="menu-word-status" class="text-xs text-white/60 font-bold bg-black/30 px-3 py-1 rounded-full mt-1" hidden>Từ đã gán: 0</p>
+        </div>
+
+        <!-- BOTTOM BAR -->
+        <div class="absolute bottom-0 left-0 right-0 glass-panel border-t border-white/30 p-2 flex justify-between items-end z-30 rounded-t-3xl shadow-[0_-10px_40px_rgba(0,0,0,0.15)] pb-4">
+            <!-- Word of the day -->
+            <div class="flex items-center gap-3 bg-white/70 backdrop-blur-md pl-1 pr-4 py-2 rounded-2xl border border-white ml-4 mb-1 w-72 shadow-lg cursor-pointer hover:bg-white/90 transition">
+                <div class="w-14 h-14 bg-indigo-100 text-indigo-500 rounded-xl flex items-center justify-center text-3xl shadow-inner relative shrink-0">
+                    <i class="fa-solid fa-owl"></i>
+                    <div class="absolute -top-2 -right-2 w-6 h-6 bg-red-500 text-white rounded-full flex items-center justify-center text-[10px] shadow-sm"><i class="fa-solid fa-volume-high"></i></div>
+                </div>
+                <div class="flex-1 min-w-0">
+                    <div class="text-[10px] font-bold text-indigo-600 uppercase tracking-wider mb-0.5">Word of the Day</div>
+                    <div class="font-bold text-slate-800 text-lg leading-none mb-1">Adventure</div>
+                    <div class="text-[10px] text-slate-500 truncate w-full font-medium">A fun or exciting experience.</div>
+                </div>
+            </div>
+
+            <!-- Navigation -->
+            <div class="flex gap-2 mb-1">
+                <button onclick="UI.openStore()" class="flex flex-col items-center justify-center gap-1.5 w-20 py-2 rounded-2xl hover:bg-white/20 transition active:scale-95 group">
+                    <div class="w-12 h-12 bg-white rounded-2xl shadow-md border border-slate-100 flex items-center justify-center text-2xl text-amber-500 group-hover:-translate-y-1 transition-transform"><i class="fa-solid fa-store"></i></div>
+                    <span class="text-[10px] font-bold text-slate-800 drop-shadow-md">Cửa Hàng</span>
+                </button>
+                <button onclick="UI.openCollection()" class="flex flex-col items-center justify-center gap-1.5 w-20 py-2 rounded-2xl hover:bg-white/20 transition active:scale-95 group">
+                    <div class="w-12 h-12 bg-white rounded-2xl shadow-md border border-slate-100 flex items-center justify-center text-2xl text-teal-600 group-hover:-translate-y-1 transition-transform"><i class="fa-solid fa-book"></i></div>
+                    <span class="text-[10px] font-bold text-slate-800 drop-shadow-md">Sưu Tập</span>
+                </button>
+                <button onclick="UI.openStore()" class="flex flex-col items-center justify-center gap-1.5 w-20 py-2 rounded-2xl hover:bg-white/20 transition active:scale-95 group">
+                    <div class="w-12 h-12 bg-white rounded-2xl shadow-md border border-slate-100 flex items-center justify-center text-2xl text-orange-500 group-hover:-translate-y-1 transition-transform"><i class="fa-solid fa-house-chimney-window"></i></div>
+                    <span class="text-[10px] font-bold text-slate-800 drop-shadow-md">Nhà Thú</span>
+                </button>
+                <button onclick="SocialController.openLeaderboard()" class="flex flex-col items-center justify-center gap-1.5 w-20 py-2 rounded-2xl hover:bg-white/20 transition active:scale-95 group">
+                    <div class="w-12 h-12 bg-white rounded-2xl shadow-md border border-slate-100 flex items-center justify-center text-2xl text-purple-600 group-hover:-translate-y-1 transition-transform"><i class="fa-solid fa-trophy"></i></div>
+                    <span class="text-[10px] font-bold text-slate-800 drop-shadow-md">Xếp Hạng</span>
+                </button>
+                <button onclick="SocialController.openFriends()" class="flex flex-col items-center justify-center gap-1.5 w-20 py-2 rounded-2xl hover:bg-white/20 transition active:scale-95 group relative">
+                    <div class="w-12 h-12 bg-white rounded-2xl shadow-md border border-slate-100 flex items-center justify-center text-2xl text-pink-500 group-hover:-translate-y-1 transition-transform"><i class="fa-solid fa-user-group"></i></div>
+                    <span class="text-[10px] font-bold text-slate-800 drop-shadow-md">Bạn Bè</span>
+                </button>
+            </div>
+
+            <!-- PvP Arena Button -->
+            <div class="mr-4 mb-1">
+                <button onclick="MultiplayerController.openMatchmaking()" class="h-16 px-8 bg-gradient-to-r from-rose-400 to-rose-600 rounded-3xl border-2 border-white/50 shadow-[0_6px_0_#9f1239] flex items-center gap-4 active:translate-y-1.5 active:shadow-none transition hover:brightness-110">
+                    <div class="text-3xl text-white drop-shadow"><i class="fa-solid fa-swords"></i></div>
+                    <div class="text-left text-white">
+                        <div class="font-black text-xl leading-tight uppercase tracking-wider drop-shadow-sm">Thi Đấu PvP</div>
+                        <div class="text-xs font-medium opacity-90">So tài cùng người khác!</div>
+                    </div>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- GAME SCREEN -->
+    <div id="screen-game" class="screen relative" style="min-height: 100vh; background: linear-gradient(135deg, #1e293b, #0f172a);">
+        <div class="absolute inset-0 flex flex-col items-center pt-8">
+            <!-- Header -->
+            <div class="w-full max-w-sm flex justify-between items-center px-6 z-20">
+                <button onclick="UI.backToMenu()" class="w-10 h-10 bg-white/10 rounded-full flex items-center justify-center text-white backdrop-blur-sm shadow hover:bg-white/20 active:scale-90 transition"><i class="fa-solid fa-arrow-left"></i></button>
+                <div class="text-white font-bold flex flex-col items-center">
+                    <span id="game-title" class="text-lg">Level 1</span>
+                    <span id="timer-display" class="text-xs text-amber-300">00:00</span>
+                </div>
+                <!-- Opponent score (for PvP) -->
+                <div id="opponent-score-container" class="hidden flex-col items-center bg-white/10 px-3 py-1 rounded-full backdrop-blur-sm">
+                    <span class="text-[9px] text-slate-300 uppercase font-bold">Opponent</span>
+                    <span id="opponent-score-display" class="text-xs text-rose-300 font-bold">0 điểm</span>
+                </div>
+                <div class="w-10 h-10 flex items-center justify-center">
+                    <button onclick="GameController.usePetSkill()" id="btn-use-skill" class="w-10 h-10 rounded-full flex items-center justify-center text-xl bg-gradient-to-br from-amber-400 to-orange-500 text-white shadow shadow-orange-500/50 hover:scale-105 active:scale-95 transition">
+                        <i class="fa-solid fa-bolt"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Pet animated helper (optional) -->
+            <div id="game-pet-helper" class="absolute right-4 top-24 w-16 h-16 text-5xl text-orange-400 opacity-50 pointer-events-none drop-shadow-md animate-bounce hidden">
+                <i class="fa-solid fa-dog"></i>
+            </div>
+
+            <!-- Board Container -->
+            <div id="board-container" class="mt-8 flex justify-center w-full px-4 relative z-10">
+                <div id="board" class="board-grid select-none" style="display: grid;"></div>
+            </div>
+
+            <!-- Word List (Learn mode) -->
+            <div id="word-list-container" class="mt-6 w-full max-w-sm px-6 pb-20 hidden">
+                <div class="text-sm font-bold text-white/50 mb-2 uppercase tracking-widest pl-2">Find Words</div>
+                <div id="word-list" class="grid grid-cols-2 gap-2"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- RESULT SCREEN -->
+    <div id="screen-result" class="screen bg-slate-900/95 z-50 items-center justify-center p-6 backdrop-blur-md">
+        <div class="bg-white p-8 rounded-3xl w-full max-w-xs shadow-2xl flex flex-col items-center text-center relative overflow-hidden">
+            <!-- Decorative bg -->
+            <div class="absolute -top-20 -right-20 w-40 h-40 bg-gradient-to-br from-yellow-300 to-orange-400 rounded-full blur-3xl opacity-30"></div>
+            
+            <div id="result-icon" class="w-24 h-24 rounded-full flex items-center justify-center text-5xl mb-6 shadow-inner z-10 animate-bounce">
+                <i class="fa-solid fa-trophy"></i>
+            </div>
+            <h2 id="result-title" class="text-3xl font-black text-slate-800 mb-2 z-10 drop-shadow-sm">Victory!</h2>
+            <p id="result-message" class="text-slate-500 font-medium mb-8 z-10 leading-tight">You completed the level.</p>
+            
+            <div class="flex gap-4 w-full z-10">
+                <button onclick="UI.backToMenu()" class="flex-1 py-4 bg-slate-200 text-slate-600 font-bold rounded-2xl shadow-[0_4px_0_#cbd5e1] active:translate-y-1 active:shadow-none transition text-lg">Menu</button>
+                <button id="btn-next-level" onclick="GameController.startGame('learn')" class="flex-1 py-4 bg-blue-500 text-white font-bold rounded-2xl shadow-[0_4px_0_#2563eb] active:translate-y-1 active:shadow-none transition text-lg">Next</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- AUTH -->
+    <div id="screen-auth" class="screen bg-slate-900/80 z-50 p-6 backdrop-blur-sm">
+        <div class="bg-white p-6 rounded-3xl w-full max-w-xs shadow-2xl flex flex-col items-center relative">
+            <button onclick="UI.closeAuth()" class="absolute top-4 right-4 text-slate-400 hover:text-slate-600"><i class="fa-solid fa-xmark text-xl"></i></button>
+            <div class="w-16 h-16 bg-blue-100 text-blue-500 rounded-full flex items-center justify-center text-3xl mb-4 shadow-inner"><i class="fa-solid fa-user-astronaut"></i></div>
+            <h2 id="auth-title" class="text-2xl font-bold text-slate-800 mb-6">Đăng Nhập</h2>
+            <div class="flex bg-slate-100 p-1 rounded-xl w-full mb-6 relative">
+                <button id="tab-login" onclick="UI.switchAuthTab('login')" class="flex-1 py-2 rounded-lg font-bold text-blue-600 bg-white shadow-sm transition">Login</button>
+                <button id="tab-register" onclick="UI.switchAuthTab('register')" class="flex-1 py-2 rounded-lg font-bold text-slate-400 transition">Register</button>
+            </div>
+            <div class="w-full flex flex-col gap-4 mb-6">
+                <input type="text" id="auth-username" placeholder="Tên đăng nhập" class="custom-input" autocomplete="off">
+                <input type="password" id="auth-password" placeholder="Mật khẩu" class="custom-input">
+            </div>
+            <p id="auth-error" class="text-red-500 text-sm font-bold mb-4 hidden">Lỗi!</p>
+            <button id="btn-auth-submit" onclick="AuthController.submit()" class="w-full py-4 bg-blue-500 text-white font-bold rounded-2xl shadow-[0_4px_0_#2563eb] active:translate-y-1 active:shadow-none transition">Đăng Nhập</button>
+        </div>
+    </div>
+
+    <!-- STORE -->
+    <div id="screen-store" class="screen p-6 relative">
+        <button onclick="UI.backToMenu()" class="absolute top-6 left-6 w-10 h-10 glass-panel rounded-full flex items-center justify-center text-slate-500 hover:scale-110 active:scale-90 transition z-20">
+            <i class="fa-solid fa-arrow-left"></i>
+        </button>
+        <div class="text-center mt-10 mb-2 z-10 w-full max-w-sm flex justify-between items-center glass-panel p-4 rounded-3xl">
+            <h2 class="text-2xl font-bold text-amber-700">Cửa Hàng Pet</h2>
+            <div class="font-bold text-amber-500 bg-white/80 px-3 py-1 rounded-full shadow flex items-center gap-2"><span id="store-coin-display">300</span> <i class="fa-solid fa-coins"></i></div>
+        </div>
+        <div class="w-full max-w-sm flex glass-panel rounded-2xl p-1 mb-4 shadow-inner mt-4 z-10">
+            <button id="tab-store-pets" onclick="UI.switchStoreTab('pets')" class="flex-1 py-3 font-bold text-amber-600 bg-amber-100/80 transition rounded-xl">Thú Cưng</button>
+            <button id="tab-store-items" onclick="UI.switchStoreTab('items')" class="flex-1 py-3 font-bold text-slate-500 hover:bg-white/50 transition rounded-xl">Vật Phẩm</button>
+            <button id="tab-store-cosmetics" onclick="UI.switchStoreTab('cosmetics')" class="flex-1 py-3 font-bold text-slate-500 hover:bg-white/50 transition rounded-xl">Thời Trang</button>
+        </div>
+
+        <div id="store-list" class="w-full max-w-sm flex flex-col gap-3 overflow-y-auto pb-20"></div>
+
+        <div id="store-items-list" class="w-full max-w-sm hidden flex-col gap-3 overflow-y-auto pb-20">
+            <!-- Pet Food -->
+            <div class="bg-white p-4 rounded-2xl shadow flex items-center gap-4">
+                <div class="w-16 h-16 rounded-2xl bg-orange-100 text-orange-500 flex items-center justify-center text-3xl shadow-inner shrink-0">
+                    <i class="fa-solid fa-bone"></i>
+                </div>
+                <div class="flex-1">
+                    <h3 class="font-bold text-slate-800 text-lg">Thức Ăn Pet</h3>
+                    <p class="text-xs text-slate-500 leading-tight mt-1">+50 EXP cho Pet hiện tại</p>
+                    <p class="text-xs font-bold text-slate-700 mt-1">Đang có: <span id="inv-pet-food-count" class="text-orange-500">0</span></p>
+                    <div class="flex gap-2 mt-3">
+                        <button onclick="StoreController.buyItem('pet_food', 50)" class="flex-1 py-2 bg-amber-500 text-white font-bold rounded-xl active:scale-95 transition shadow-[0_4px_0_#d97706]">50 <i class="fa-solid fa-coins"></i></button>
+                        <button onclick="StoreController.useItem('pet_food')" class="flex-1 py-2 bg-teal-500 text-white font-bold rounded-xl active:scale-95 transition shadow-[0_4px_0_#0f766e]">Dùng</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="store-cosmetics-list" class="w-full max-w-sm hidden flex-col gap-3 overflow-y-auto pb-20">
+            <!-- Cosmetics rendered here -->
+        </div>
+    </div>
+
+    <!-- LEADERBOARD -->
+    <div id="screen-leaderboard" class="screen bg-purple-50 p-6 z-40 justify-start pt-10">
+        <div class="w-full max-w-sm flex justify-between items-center mb-6">
+            <button onclick="UI.backToMenu()" class="w-10 h-10 bg-white rounded-full flex items-center justify-center shadow text-slate-500 active:scale-90 transition"><i class="fa-solid fa-arrow-left"></i></button>
+            <h2 class="text-2xl font-bold text-purple-700">Bảng Xếp Hạng</h2>
+            <div class="w-10"></div>
+        </div>
+        <div id="leaderboard-list" class="w-full max-w-sm flex flex-col gap-3 overflow-y-auto pb-20">
+            <div class="text-center text-slate-500 mt-10">Đang tải...</div>
+        </div>
+    </div>
+
+    <!-- FRIENDS -->
+    <div id="screen-friends" class="screen bg-blue-50 p-6 z-40 justify-start pt-10">
+        <div class="w-full max-w-sm flex justify-between items-center mb-6">
+            <button onclick="UI.backToMenu()" class="w-10 h-10 bg-white rounded-full flex items-center justify-center shadow text-slate-500 active:scale-90 transition"><i class="fa-solid fa-arrow-left"></i></button>
+            <h2 class="text-2xl font-bold text-blue-700">Bạn Bè</h2>
+            <div class="w-10"></div>
+        </div>
+        <div class="w-full max-w-sm bg-white p-2 rounded-2xl shadow-sm mb-4 flex gap-2">
+            <input type="text" id="friend-search-input" placeholder="Nhập tên người chơi..." class="flex-1 custom-input py-2 px-4 rounded-xl border-none bg-slate-50">
+            <button onclick="SocialController.addFriend()" class="bg-blue-500 text-white font-bold px-4 rounded-xl shadow-[0_4px_0_#2563eb] active:translate-y-1 active:shadow-none transition"><i class="fa-solid fa-user-plus"></i></button>
+        </div>
+        <div id="friends-list" class="w-full max-w-sm flex flex-col gap-3 overflow-y-auto pb-20">
+            <div class="text-center text-slate-500 mt-10">Danh sách bạn bè trống.</div>
+        </div>
+    </div>
+
+    <!-- MATCHMAKING -->
+    <div id="screen-matchmaking" class="screen p-6 relative">
+        <button onclick="UI.backToMenu()" class="absolute top-6 left-6 w-10 h-10 glass-panel rounded-full flex items-center justify-center text-slate-500 active:scale-90 transition z-20">
+            <i class="fa-solid fa-arrow-left"></i>
+        </button>
+        <div class="text-center mt-12 mb-6 w-full max-w-sm">
+            <h2 class="text-3xl font-bold text-rose-500 mb-2 drop-shadow-sm">Đấu Trường PvP</h2>
+            <p class="text-slate-600 font-medium">Thi đấu với người chơi khác!</p>
+        </div>
+
+        <div class="w-full max-w-sm glass-panel rounded-3xl p-6 text-center flex flex-col items-center border border-rose-200/50 relative overflow-hidden mb-6 z-10">
+            <div id="matchmaking-status-ui">
+                <i class="fa-solid fa-earth-americas text-6xl text-rose-300 mb-4 animate-bounce"></i>
+                <h3 class="font-bold text-slate-700 text-lg mb-2">Tìm Đối Thủ</h3>
+                <p class="text-sm text-slate-500 mb-6">Hệ thống đang tìm người chơi có cùng trình độ...</p>
+                <button onclick="MultiplayerController.openMatchmaking()" id="btn-find-match" class="btn-primary w-full py-4 rounded-2xl text-lg font-bold text-white !bg-gradient-to-r !from-rose-400 !to-rose-500 !shadow-[0_4px_0_#be123c]">
+                    Tìm Trận Ngay
+                </button>
+            </div>
+            <div id="matchmaking-finding-ui" class="hidden w-full">
+                <i class="fa-solid fa-radar text-6xl text-indigo-400 mb-4 animate-spin"></i>
+                <h3 class="font-bold text-slate-700 text-lg mb-2">Đang tìm kiếm...</h3>
+                <p class="text-sm text-slate-500 mb-6">Vui lòng chờ trong giây lát.</p>
+                <button onclick="MultiplayerController.cancelMatchmaking()" class="w-full py-3 rounded-xl text-slate-500 font-bold bg-slate-200 active:scale-95 transition">Hủy</button>
+            </div>
+        </div>
+
+        <!-- Chat Widget -->
+        <div class="w-full max-w-sm glass-panel rounded-t-3xl border border-white/50 flex-1 flex flex-col z-10" style="max-height: 40vh;"></div>
+    </div>
+
+    <!-- GLOBAL CHAT -->
+    <div id="global-chat-widget" class="fixed bottom-4 right-4 z-50 flex flex-col items-end pointer-events-none">
+        <div id="chat-window" class="bg-white/90 backdrop-blur w-72 rounded-2xl shadow-xl overflow-hidden mb-2 border border-slate-200 flex-col pointer-events-auto hidden transition-all">
+            <div class="bg-indigo-500 text-white px-4 py-2 font-bold flex justify-between items-center cursor-pointer" onclick="MultiplayerController.toggleChat()">
+                <span><i class="fa-solid fa-messages"></i> Kênh Thế Giới</span>
+                <i class="fa-solid fa-chevron-down text-xs"></i>
+            </div>
+            <div id="chat-messages" class="h-48 overflow-y-auto p-3 flex flex-col gap-2 text-sm bg-slate-50">
+            </div>
+            <div class="p-2 bg-white flex gap-2 border-t border-slate-100">
+                <input type="text" id="chat-input" class="flex-1 bg-slate-100 rounded-lg px-3 py-1.5 outline-none text-sm" placeholder="Nhập tin nhắn..." onkeypress="if(event.key==='Enter') MultiplayerController.sendChat()">
+                <button onclick="MultiplayerController.sendChat()" class="bg-indigo-500 text-white w-8 h-8 rounded-lg flex items-center justify-center active:scale-95"><i class="fa-solid fa-paper-plane-top"></i></button>
+            </div>
+        </div>
+        <button id="chat-toggle-btn" onclick="MultiplayerController.toggleChat()" class="w-14 h-14 bg-indigo-500 text-white rounded-full flex items-center justify-center text-xl shadow-lg pointer-events-auto active:scale-95 transition-transform hover:-translate-y-1">
+            <i class="fa-solid fa-message-smile"></i>
+        </button>
+    </div>
+
+    <!-- COLLECTION -->
+    <div id="screen-collection" class="screen bg-teal-50 p-6 z-40 justify-start pt-10">
+        <div class="w-full max-w-sm flex justify-between items-center mb-4">
+            <button onclick="UI.backToMenu()" class="w-10 h-10 bg-white rounded-full flex items-center justify-center shadow text-slate-500 active:scale-90 transition"><i class="fa-solid fa-arrow-left"></i></button>
+            <h2 class="text-2xl font-bold text-teal-700">Bộ Sưu Tập</h2>
+            <div class="w-10"></div>
+        </div>
+        <div class="w-full max-w-sm bg-white rounded-2xl shadow-sm overflow-hidden flex mb-4">
+            <button id="tab-pets" onclick="UI.switchCollectionTab('pets')" class="flex-1 py-3 font-bold text-teal-600 bg-teal-100 transition">Thú Cưng</button>
+            <button id="tab-words" onclick="UI.switchCollectionTab('words')" class="flex-1 py-3 font-bold text-slate-400 bg-white transition">Từ Vựng</button>
+        </div>
+        <div id="collection-pets-view" class="w-full max-w-sm grid grid-cols-2 gap-4 overflow-y-auto pb-20"></div>
+        <div id="collection-words-view" class="w-full max-w-sm hidden flex-col gap-2 overflow-y-auto pb-20" style="max-height: 60vh;"></div>
+    </div>
+
+
+
+    <!-- FLASHCARD -->
+    <div id="screen-flashcard" class="screen p-6 relative">
+        <div class="w-full max-w-sm flex justify-between items-center mb-4 glass-panel p-4 rounded-3xl z-10 mt-10">
+            <h2 class="text-xl font-bold text-indigo-700">Vocabulary Review</h2>
+            <div class="text-sm font-bold text-indigo-600 bg-white/80 px-3 py-1 rounded-full shadow-inner"><span id="fc-current">1</span>/<span id="fc-total">5</span></div>
+        </div>
+        <div class="flashcard-container" onclick="FlashcardController.flip()">
+            <div id="flashcard-inner" class="flashcard">
+                <div class="card-face">
+                    <h3 id="fc-word" class="text-4xl font-bold text-slate-800 mb-2">CAT</h3>
+                    <p id="fc-ipa" class="text-lg text-slate-500 font-mono mb-6">/kat/</p>
+                    <button onclick="FlashcardController.playAudio(event)" class="w-12 h-12 bg-blue-100 text-blue-500 rounded-full flex items-center justify-center text-xl shadow-sm hover:bg-blue-200 transition"><i class="fa-solid fa-volume-high"></i></button>
+                    <p class="text-xs text-slate-400 font-bold mt-auto uppercase tracking-wider"><i class="fa-solid fa-hand-pointer mr-1"></i> Tap to flip</p>
+                </div>
+                <div class="card-face card-back">
+                    <h3 id="fc-vn" class="text-2xl font-bold text-amber-600 mb-4">Con mèo</h3>
+                    <div class="w-full h-px bg-slate-200 mb-4"></div>
+                    <p class="text-xs text-slate-400 font-bold uppercase mb-1">Ví dụ</p>
+                    <p id="fc-ex" class="text-sm text-slate-600 italic">The cat is sleeping on the sofa.</p>
+                </div>
+            </div>
+        </div>
+        <div class="w-full max-w-sm flex justify-between gap-4 mt-8 z-10">
+            <button id="btn-fc-prev" onclick="FlashcardController.prev()" class="flex-1 py-4 btn-glass text-slate-600 font-bold rounded-2xl shadow opacity-50 pointer-events-none transition">Back</button>
+            <button id="btn-fc-next" onclick="FlashcardController.next()" class="flex-1 py-4 btn-primary text-white font-bold rounded-2xl transition">Next</button>
+        </div>
+    </div>
+
+    <div id="toast">Meanings appear here</div>
+
+    <!-- ===================== SCRIPTS (Clean Architecture Layers) ===================== -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <!-- Layer 1: Data (raw constants, DB, storage) -->
+    <script src="js/data/supabaseClient.js"></script>
+    <script src="js/data/wordPools.js"></script>
+    <script src="js/data/loadWordPoolsExtra.js"></script>
+    <script src="js/data/petsDB.js"></script>
+    <script src="js/data/storageRepository.js"></script>
+
+    <!-- Layer 2: Domain (pure business logic, no DOM) -->
+    <script src="js/domain/levelGenerator.js"></script>
+    <script src="js/domain/boardEngine.js"></script>
+    <script src="js/domain/gameState.js"></script>
+
+    <!-- Layer 3: Application (use cases / controllers) -->
+    <script src="js/app/authController.js"></script>
+    <script src="js/app/gameController.js"></script>
+    <script src="js/app/flashcardController.js"></script>
+
+    <!-- Layer 4: Presentation (UI rendering, DOM manipulation) -->
+    <script src="js/ui/audioManager.js"></script>
+    <script src="js/ui/uiHelpers.js"></script>
+    <script src="js/ui/storeRenderer.js"></script>
+    <script src="js/ui/collectionRenderer.js"></script>
+    <script src="js/ui/boardRenderer.js"></script>
+    <script src="js/ui/socialController.js"></script>
+    <script src="js/ui/multiplayerController.js"></script>
+    <script src="js/ui/questController.js"></script>
+    <script src="js/ui/ui.js"></script>
+
+    <!-- External Libs -->
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script>
+    
+    <!-- App Entry Point -->
+    <script src="js/main.js"></script>
+</body>
+</html>

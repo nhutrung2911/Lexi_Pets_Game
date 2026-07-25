@@ -1,0 +1,10252 @@
+[
+  {
+    "en": "time",
+    "vn": "thời gian",
+    "ipa": "tˈaɪm"
+  },
+  {
+    "en": "person",
+    "vn": "người",
+    "ipa": "pˈɜːs̆ʌn"
+  },
+  {
+    "en": "year",
+    "vn": "năm",
+    "ipa": "jˈɪr"
+  },
+  {
+    "en": "way",
+    "vn": "cách",
+    "ipa": "wˈeɪ"
+  },
+  {
+    "en": "day",
+    "vn": "ngày",
+    "ipa": "dˈeɪ"
+  },
+  {
+    "en": "thing",
+    "vn": "điều, vật",
+    "ipa": "θˈɪŋ"
+  },
+  {
+    "en": "man",
+    "vn": "đàn ông",
+    "ipa": "mˈæn"
+  },
+  {
+    "en": "world",
+    "vn": "thế giới",
+    "ipa": "wˈɜːld"
+  },
+  {
+    "en": "life",
+    "vn": "cuộc sống",
+    "ipa": "lˈaɪf"
+  },
+  {
+    "en": "hand",
+    "vn": "bàn tay",
+    "ipa": "hˈænd"
+  },
+  {
+    "en": "part",
+    "vn": "phần",
+    "ipa": "pˈɑrt"
+  },
+  {
+    "en": "child",
+    "vn": "đứa trẻ",
+    "ipa": "tʃˈaɪld"
+  },
+  {
+    "en": "eye",
+    "vn": "mắt",
+    "ipa": "ˈaɪ"
+  },
+  {
+    "en": "woman",
+    "vn": "phụ nữ",
+    "ipa": "wˈʊm̆ʌn"
+  },
+  {
+    "en": "place",
+    "vn": "địa điểm",
+    "ipa": "plˈeɪs"
+  },
+  {
+    "en": "work",
+    "vn": "công việc",
+    "ipa": "wˈɜːk"
+  },
+  {
+    "en": "week",
+    "vn": "tuần",
+    "ipa": "wˈiːk"
+  },
+  {
+    "en": "case",
+    "vn": "trường hợp",
+    "ipa": "kˈeɪs"
+  },
+  {
+    "en": "point",
+    "vn": "điểm",
+    "ipa": "pˈɔɪnt"
+  },
+  {
+    "en": "government",
+    "vn": "chính phủ",
+    "ipa": "ɡˈʌv̆ɜːm̆ʌnt"
+  },
+  {
+    "en": "company",
+    "vn": "công ty",
+    "ipa": "kˈʌmp̆ʌnˌiː"
+  },
+  {
+    "en": "number",
+    "vn": "con số",
+    "ipa": "nˈʌmb̆ɜː"
+  },
+  {
+    "en": "group",
+    "vn": "nhóm",
+    "ipa": "ɡrˈuːp"
+  },
+  {
+    "en": "problem",
+    "vn": "vấn đề",
+    "ipa": "prˈɑbl̆ʌm"
+  },
+  {
+    "en": "fact",
+    "vn": "sự thật",
+    "ipa": "fˈækt"
+  },
+  {
+    "en": "be",
+    "vn": "thì, là, ở",
+    "ipa": "bˈiː"
+  },
+  {
+    "en": "have",
+    "vn": "có",
+    "ipa": "hˈæv"
+  },
+  {
+    "en": "do",
+    "vn": "làm",
+    "ipa": "dˈuː"
+  },
+  {
+    "en": "say",
+    "vn": "nói",
+    "ipa": "sˈeɪ"
+  },
+  {
+    "en": "get",
+    "vn": "lấy, nhận",
+    "ipa": "ɡˈɛt"
+  },
+  {
+    "en": "make",
+    "vn": "làm, chế tạo",
+    "ipa": "mˈeɪk"
+  },
+  {
+    "en": "go",
+    "vn": "đi",
+    "ipa": "ɡˈoʊ"
+  },
+  {
+    "en": "know",
+    "vn": "biết",
+    "ipa": "nˈoʊ"
+  },
+  {
+    "en": "take",
+    "vn": "lấy, mang",
+    "ipa": "tˈeɪk"
+  },
+  {
+    "en": "see",
+    "vn": "thấy",
+    "ipa": "sˈiː"
+  },
+  {
+    "en": "come",
+    "vn": "đến",
+    "ipa": "kˈʌm"
+  },
+  {
+    "en": "think",
+    "vn": "nghĩ",
+    "ipa": "θˈɪŋk"
+  },
+  {
+    "en": "look",
+    "vn": "nhìn",
+    "ipa": "lˈʊk"
+  },
+  {
+    "en": "want",
+    "vn": "muốn",
+    "ipa": "wˈɑnt"
+  },
+  {
+    "en": "give",
+    "vn": "cho",
+    "ipa": "ɡˈɪv"
+  },
+  {
+    "en": "use",
+    "vn": "sử dụng",
+    "ipa": "jˈuːs"
+  },
+  {
+    "en": "find",
+    "vn": "tìm thấy",
+    "ipa": "fˈaɪnd"
+  },
+  {
+    "en": "tell",
+    "vn": "nói, kể",
+    "ipa": "tˈɛl"
+  },
+  {
+    "en": "ask",
+    "vn": "hỏi",
+    "ipa": "ˈæsk"
+  },
+  {
+    "en": "seem",
+    "vn": "có vẻ",
+    "ipa": "sˈiːm"
+  },
+  {
+    "en": "feel",
+    "vn": "cảm thấy",
+    "ipa": "fˈiːl"
+  },
+  {
+    "en": "try",
+    "vn": "thử, cố gắng",
+    "ipa": "trˈaɪ"
+  },
+  {
+    "en": "leave",
+    "vn": "rời đi",
+    "ipa": "lˈiːv"
+  },
+  {
+    "en": "call",
+    "vn": "gọi",
+    "ipa": "kˈɔl"
+  },
+  {
+    "en": "good",
+    "vn": "tốt",
+    "ipa": "ɡˈʊd"
+  },
+  {
+    "en": "new",
+    "vn": "mới",
+    "ipa": "nˈuː"
+  },
+  {
+    "en": "first",
+    "vn": "đầu tiên",
+    "ipa": "fˈɜːst"
+  },
+  {
+    "en": "last",
+    "vn": "cuối cùng",
+    "ipa": "lˈæst"
+  },
+  {
+    "en": "long",
+    "vn": "dài",
+    "ipa": "lˈɔŋ"
+  },
+  {
+    "en": "great",
+    "vn": "tuyệt vời",
+    "ipa": "ɡrˈeɪt"
+  },
+  {
+    "en": "little",
+    "vn": "nhỏ bé",
+    "ipa": "lˈɪt̆ʌl"
+  },
+  {
+    "en": "own",
+    "vn": "của riêng",
+    "ipa": "ˈoʊn"
+  },
+  {
+    "en": "other",
+    "vn": "khác",
+    "ipa": "ˈʌð̆ɜː"
+  },
+  {
+    "en": "old",
+    "vn": "cũ, già",
+    "ipa": "ˈoʊld"
+  },
+  {
+    "en": "right",
+    "vn": "đúng",
+    "ipa": "rˈaɪt"
+  },
+  {
+    "en": "big",
+    "vn": "to lớn",
+    "ipa": "bˈɪɡ"
+  },
+  {
+    "en": "high",
+    "vn": "cao",
+    "ipa": "hˈaɪ"
+  },
+  {
+    "en": "different",
+    "vn": "khác nhau",
+    "ipa": "dˈɪf̆ɜː̆ʌnt"
+  },
+  {
+    "en": "small",
+    "vn": "nhỏ",
+    "ipa": "smˈɔl"
+  },
+  {
+    "en": "large",
+    "vn": "lớn",
+    "ipa": "lˈɑrdʒ"
+  },
+  {
+    "en": "next",
+    "vn": "tiếp theo",
+    "ipa": "nˈɛkst"
+  },
+  {
+    "en": "early",
+    "vn": "sớm",
+    "ipa": "ˈɜːl̆iː"
+  },
+  {
+    "en": "young",
+    "vn": "trẻ",
+    "ipa": "jˈʌŋ"
+  },
+  {
+    "en": "important",
+    "vn": "quan trọng",
+    "ipa": "ˌɪmpˈɔrt̆ʌnt"
+  },
+  {
+    "en": "few",
+    "vn": "một vài",
+    "ipa": "fjˈuː"
+  },
+  {
+    "en": "public",
+    "vn": "công cộng",
+    "ipa": "pˈʌbl̆ɪk"
+  },
+  {
+    "en": "bad",
+    "vn": "xấu",
+    "ipa": "bˈæd"
+  },
+  {
+    "en": "same",
+    "vn": "giống nhau",
+    "ipa": "sˈeɪm"
+  },
+  {
+    "en": "able",
+    "vn": "có thể",
+    "ipa": "ˈeɪb̆ʌl"
+  },
+  {
+    "en": "to",
+    "vn": "tới",
+    "ipa": "tˈuː"
+  },
+  {
+    "en": "of",
+    "vn": "của",
+    "ipa": "ˈʌv"
+  },
+  {
+    "en": "in",
+    "vn": "trong",
+    "ipa": "̆ɪn"
+  },
+  {
+    "en": "for",
+    "vn": "cho",
+    "ipa": "fˈɔr"
+  },
+  {
+    "en": "on",
+    "vn": "trên",
+    "ipa": "ˈɑn"
+  },
+  {
+    "en": "with",
+    "vn": "với",
+    "ipa": "wˈɪð"
+  },
+  {
+    "en": "at",
+    "vn": "tại",
+    "ipa": "ˈæt"
+  },
+  {
+    "en": "by",
+    "vn": "bởi",
+    "ipa": "bˈaɪ"
+  },
+  {
+    "en": "from",
+    "vn": "từ",
+    "ipa": "frˈʌm"
+  },
+  {
+    "en": "up",
+    "vn": "lên",
+    "ipa": "ˈʌp"
+  },
+  {
+    "en": "about",
+    "vn": "về",
+    "ipa": "̆ʌbˈaʊt"
+  },
+  {
+    "en": "into",
+    "vn": "vào trong",
+    "ipa": "ˈɪnt̆uː"
+  },
+  {
+    "en": "over",
+    "vn": "qua",
+    "ipa": "ˈoʊv̆ɜː"
+  },
+  {
+    "en": "after",
+    "vn": "sau",
+    "ipa": "ˈæft̆ɜː"
+  },
+  {
+    "en": "beneath",
+    "vn": "bên dưới",
+    "ipa": "b̆ɪnˈiːθ"
+  },
+  {
+    "en": "under",
+    "vn": "dưới",
+    "ipa": "ˈʌnd̆ɜː"
+  },
+  {
+    "en": "above",
+    "vn": "trên",
+    "ipa": "̆ʌbˈʌv"
+  },
+  {
+    "en": "the",
+    "vn": "cái, con (mạo từ)",
+    "ipa": "ð̆ʌ"
+  },
+  {
+    "en": "and",
+    "vn": "và",
+    "ipa": "̆ʌnd"
+  },
+  {
+    "en": "a",
+    "vn": "một",
+    "ipa": "̆ʌ"
+  },
+  {
+    "en": "that",
+    "vn": "rằng, đó",
+    "ipa": "ðˈæt"
+  },
+  {
+    "en": "I",
+    "vn": "tôi",
+    "ipa": "ˈaɪ"
+  },
+  {
+    "en": "it",
+    "vn": "nó",
+    "ipa": "ˈɪt"
+  },
+  {
+    "en": "not",
+    "vn": "không",
+    "ipa": "nˈɑt"
+  },
+  {
+    "en": "he",
+    "vn": "anh ấy",
+    "ipa": "hˈiː"
+  },
+  {
+    "en": "as",
+    "vn": "như là",
+    "ipa": "ˈæz"
+  },
+  {
+    "en": "you",
+    "vn": "bạn",
+    "ipa": "jˈuː"
+  },
+  {
+    "en": "this",
+    "vn": "này",
+    "ipa": "ðˈɪs"
+  },
+  {
+    "en": "but",
+    "vn": "nhưng",
+    "ipa": "bˈʌt"
+  },
+  {
+    "en": "his",
+    "vn": "của anh ấy",
+    "ipa": "hˈɪz"
+  },
+  {
+    "en": "they",
+    "vn": "họ",
+    "ipa": "ðˈeɪ"
+  },
+  {
+    "en": "her",
+    "vn": "của cô ấy",
+    "ipa": "hˈɜː"
+  },
+  {
+    "en": "she",
+    "vn": "cô ấy",
+    "ipa": "ʃˈiː"
+  },
+  {
+    "en": "or",
+    "vn": "hoặc",
+    "ipa": "ˈɔr"
+  },
+  {
+    "en": "an",
+    "vn": "một",
+    "ipa": "ˈæn"
+  },
+  {
+    "en": "will",
+    "vn": "sẽ",
+    "ipa": "wˈɪl"
+  },
+  {
+    "en": "my",
+    "vn": "của tôi",
+    "ipa": "mˈaɪ"
+  },
+  {
+    "en": "one",
+    "vn": "một",
+    "ipa": "wˈʌn"
+  },
+  {
+    "en": "all",
+    "vn": "tất cả",
+    "ipa": "ˈɔl"
+  },
+  {
+    "en": "would",
+    "vn": "sẽ (quá khứ)",
+    "ipa": "wˈʊd"
+  },
+  {
+    "en": "there",
+    "vn": "ở đó",
+    "ipa": "ðˈɛr"
+  },
+  {
+    "en": "their",
+    "vn": "của họ",
+    "ipa": "ðˈɛr"
+  },
+  {
+    "en": "childhood",
+    "vn": "tuổi thơ",
+    "ipa": "tʃˈaɪldhˌʊd"
+  },
+  {
+    "en": "student",
+    "vn": "học sinh",
+    "ipa": "stˈuːd̆ʌnt"
+  },
+  {
+    "en": "teacher",
+    "vn": "giáo viên",
+    "ipa": "tˈiːtʃ̆ɜː"
+  },
+  {
+    "en": "school",
+    "vn": "trường học",
+    "ipa": "skˈuːl"
+  },
+  {
+    "en": "education",
+    "vn": "giáo dục",
+    "ipa": "ˌɛdʒ̆ʌkˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "class",
+    "vn": "lớp học",
+    "ipa": "klˈæs"
+  },
+  {
+    "en": "book",
+    "vn": "sách",
+    "ipa": "bˈʊk"
+  },
+  {
+    "en": "pen",
+    "vn": "cái bút",
+    "ipa": "pˈɛn"
+  },
+  {
+    "en": "pencil",
+    "vn": "bút chì",
+    "ipa": "pˈɛns̆ʌl"
+  },
+  {
+    "en": "paper",
+    "vn": "giấy",
+    "ipa": "pˈeɪp̆ɜː"
+  },
+  {
+    "en": "table",
+    "vn": "cái bàn",
+    "ipa": "tˈeɪb̆ʌl"
+  },
+  {
+    "en": "chair",
+    "vn": "ghế",
+    "ipa": "tʃˈɛr"
+  },
+  {
+    "en": "board",
+    "vn": "bảng",
+    "ipa": "bˈɔrd"
+  },
+  {
+    "en": "lesson",
+    "vn": "bài học",
+    "ipa": "lˈɛs̆ʌn"
+  },
+  {
+    "en": "knowledge",
+    "vn": "kiến thức",
+    "ipa": "nˈɑl̆ʌdʒ"
+  },
+  {
+    "en": "skill",
+    "vn": "kỹ năng",
+    "ipa": "skˈɪl"
+  },
+  {
+    "en": "science",
+    "vn": "khoa học",
+    "ipa": "sˈaɪ̆ʌns"
+  },
+  {
+    "en": "art",
+    "vn": "nghệ thuật",
+    "ipa": "ˈɑrt"
+  },
+  {
+    "en": "history",
+    "vn": "lịch sử",
+    "ipa": "hˈɪst̆ɜː̆iː"
+  },
+  {
+    "en": "music",
+    "vn": "âm nhạc",
+    "ipa": "mjˈuːz̆ɪk"
+  },
+  {
+    "en": "math",
+    "vn": "toán học",
+    "ipa": "mˈæθ"
+  },
+  {
+    "en": "language",
+    "vn": "ngôn ngữ",
+    "ipa": "lˈæŋɡw̆ʌdʒ"
+  },
+  {
+    "en": "word",
+    "vn": "từ vựng",
+    "ipa": "wˈɜːd"
+  },
+  {
+    "en": "sentence",
+    "vn": "câu",
+    "ipa": "sˈɛnt̆ʌns"
+  },
+  {
+    "en": "paragraph",
+    "vn": "đoạn văn",
+    "ipa": "pˈær̆ʌɡrˌæf"
+  },
+  {
+    "en": "chapter",
+    "vn": "chương",
+    "ipa": "tʃˈæpt̆ɜː"
+  },
+  {
+    "en": "page",
+    "vn": "trang",
+    "ipa": "pˈeɪdʒ"
+  },
+  {
+    "en": "read",
+    "vn": "đọc",
+    "ipa": "rˈɛd"
+  },
+  {
+    "en": "write",
+    "vn": "viết",
+    "ipa": "rˈaɪt"
+  },
+  {
+    "en": "learn",
+    "vn": "học",
+    "ipa": "lˈɜːn"
+  },
+  {
+    "en": "study",
+    "vn": "nghiên cứu",
+    "ipa": "stˈʌd̆iː"
+  },
+  {
+    "en": "test",
+    "vn": "bài kiểm tra",
+    "ipa": "tˈɛst"
+  },
+  {
+    "en": "exam",
+    "vn": "kỳ thi",
+    "ipa": "̆ɪɡzˈæm"
+  },
+  {
+    "en": "result",
+    "vn": "kết quả",
+    "ipa": "r̆ɪzˈʌlt"
+  },
+  {
+    "en": "score",
+    "vn": "điểm số",
+    "ipa": "skˈɔr"
+  },
+  {
+    "en": "question",
+    "vn": "câu hỏi",
+    "ipa": "kwˈɛstʃ̆ʌn"
+  },
+  {
+    "en": "answer",
+    "vn": "câu trả lời",
+    "ipa": "ˈæns̆ɜː"
+  },
+  {
+    "en": "understand",
+    "vn": "hiểu",
+    "ipa": "ˌʌnd̆ɜːstˈænd"
+  },
+  {
+    "en": "remember",
+    "vn": "nhớ",
+    "ipa": "r̆ɪmˈɛmb̆ɜː"
+  },
+  {
+    "en": "forget",
+    "vn": "quên",
+    "ipa": "f̆ɜːɡˈɛt"
+  },
+  {
+    "en": "family",
+    "vn": "gia đình",
+    "ipa": "fˈæm̆ʌl̆iː"
+  },
+  {
+    "en": "parent",
+    "vn": "phụ huynh",
+    "ipa": "pˈɛr̆ʌnt"
+  },
+  {
+    "en": "mother",
+    "vn": "mẹ",
+    "ipa": "mˈʌð̆ɜː"
+  },
+  {
+    "en": "father",
+    "vn": "bố",
+    "ipa": "fˈɑð̆ɜː"
+  },
+  {
+    "en": "sister",
+    "vn": "chị, em gái",
+    "ipa": "sˈɪst̆ɜː"
+  },
+  {
+    "en": "brother",
+    "vn": "anh/em trai",
+    "ipa": "brˈʌð̆ɜː"
+  },
+  {
+    "en": "daughter",
+    "vn": "con gái",
+    "ipa": "dˈɔt̆ɜː"
+  },
+  {
+    "en": "son",
+    "vn": "con trai",
+    "ipa": "sˈʌn"
+  },
+  {
+    "en": "wife",
+    "vn": "vợ",
+    "ipa": "wˈaɪf"
+  },
+  {
+    "en": "husband",
+    "vn": "chồng",
+    "ipa": "hˈʌzb̆ʌnd"
+  },
+  {
+    "en": "uncle",
+    "vn": "chú, bác",
+    "ipa": "ˈʌŋk̆ʌl"
+  },
+  {
+    "en": "aunt",
+    "vn": "cô, dì",
+    "ipa": "ˈænt"
+  },
+  {
+    "en": "cousin",
+    "vn": "anh em họ",
+    "ipa": "kˈʌz̆ʌn"
+  },
+  {
+    "en": "grandfather",
+    "vn": "ông",
+    "ipa": "ɡrˈændfˌɑð̆ɜː"
+  },
+  {
+    "en": "grandmother",
+    "vn": "bà",
+    "ipa": "ɡrˈændmˌʌð̆ɜː"
+  },
+  {
+    "en": "relative",
+    "vn": "họ hàng",
+    "ipa": "rˈɛl̆ʌt̆ɪv"
+  },
+  {
+    "en": "marriage",
+    "vn": "hôn nhân",
+    "ipa": "mˈɛr̆ɪdʒ"
+  },
+  {
+    "en": "wedding",
+    "vn": "đám cưới",
+    "ipa": "wˈɛd̆ɪŋ"
+  },
+  {
+    "en": "friend",
+    "vn": "bạn bè",
+    "ipa": "frˈɛnd"
+  },
+  {
+    "en": "neighbor",
+    "vn": "hàng xóm",
+    "ipa": "nˈeɪb̆ɜː"
+  },
+  {
+    "en": "colleague",
+    "vn": "đồng nghiệp",
+    "ipa": "kˈɑl̆iːɡ"
+  },
+  {
+    "en": "partner",
+    "vn": "đối tác",
+    "ipa": "pˈɑrtn̆ɜː"
+  },
+  {
+    "en": "relationship",
+    "vn": "mối quan hệ",
+    "ipa": "r̆iːlˈeɪʃ̆ʌnʃˌɪp"
+  },
+  {
+    "en": "love",
+    "vn": "yêu",
+    "ipa": "lˈʌv"
+  },
+  {
+    "en": "hate",
+    "vn": "ghét",
+    "ipa": "hˈeɪt"
+  },
+  {
+    "en": "like",
+    "vn": "thích",
+    "ipa": "lˈaɪk"
+  },
+  {
+    "en": "dislike",
+    "vn": "không thích",
+    "ipa": "d̆ɪslˈaɪk"
+  },
+  {
+    "en": "care",
+    "vn": "quan tâm",
+    "ipa": "kˈɛr"
+  },
+  {
+    "en": "share",
+    "vn": "chia sẻ",
+    "ipa": "ʃˈɛr"
+  },
+  {
+    "en": "hug",
+    "vn": "ôm",
+    "ipa": "hˈʌɡ"
+  },
+  {
+    "en": "kiss",
+    "vn": "hôn",
+    "ipa": "kˈɪs"
+  },
+  {
+    "en": "house",
+    "vn": "ngôi nhà",
+    "ipa": "hˈaʊs"
+  },
+  {
+    "en": "home",
+    "vn": "tổ ấm",
+    "ipa": "hˈoʊm"
+  },
+  {
+    "en": "room",
+    "vn": "căn phòng",
+    "ipa": "rˈuːm"
+  },
+  {
+    "en": "door",
+    "vn": "cửa ra vào",
+    "ipa": "dˈɔr"
+  },
+  {
+    "en": "window",
+    "vn": "cửa sổ",
+    "ipa": "wˈɪnd̆oʊ"
+  },
+  {
+    "en": "wall",
+    "vn": "bức tường",
+    "ipa": "wˈɔl"
+  },
+  {
+    "en": "floor",
+    "vn": "sàn nhà",
+    "ipa": "flˈɔr"
+  },
+  {
+    "en": "ceiling",
+    "vn": "trần nhà",
+    "ipa": "sˈiːl̆ɪŋ"
+  },
+  {
+    "en": "roof",
+    "vn": "mái nhà",
+    "ipa": "rˈuːf"
+  },
+  {
+    "en": "kitchen",
+    "vn": "nhà bếp",
+    "ipa": "kˈɪtʃ̆ʌn"
+  },
+  {
+    "en": "bedroom",
+    "vn": "phòng ngủ",
+    "ipa": "bˈɛdrˌuːm"
+  },
+  {
+    "en": "bathroom",
+    "vn": "phòng tắm",
+    "ipa": "bˈæθrˌuːm"
+  },
+  {
+    "en": "living room",
+    "vn": "phòng khách",
+    "ipa": "lˈɪv̆ɪŋ rˈuːm"
+  },
+  {
+    "en": "garden",
+    "vn": "khu vườn",
+    "ipa": "ɡˈɑrd̆ʌn"
+  },
+  {
+    "en": "yard",
+    "vn": "cái sân",
+    "ipa": "jˈɑrd"
+  },
+  {
+    "en": "garage",
+    "vn": "nhà để xe",
+    "ipa": "ɡ̆ɜːˈɑʒ"
+  },
+  {
+    "en": "furniture",
+    "vn": "đồ nội thất",
+    "ipa": "fˈɜːn̆ɪtʃ̆ɜː"
+  },
+  {
+    "en": "bed",
+    "vn": "giường",
+    "ipa": "bˈɛd"
+  },
+  {
+    "en": "sofa",
+    "vn": "ghế sofa",
+    "ipa": "sˈoʊf̆ʌ"
+  },
+  {
+    "en": "television",
+    "vn": "tivi",
+    "ipa": "tˈɛl̆ʌvˌɪʒ̆ʌn"
+  },
+  {
+    "en": "radio",
+    "vn": "đài phát thanh",
+    "ipa": "rˈeɪd̆iːˌoʊ"
+  },
+  {
+    "en": "computer",
+    "vn": "máy tính",
+    "ipa": "k̆ʌmpjˈuːt̆ɜː"
+  },
+  {
+    "en": "laptop",
+    "vn": "máy tính xách tay",
+    "ipa": "lˈæptˌɑp"
+  },
+  {
+    "en": "phone",
+    "vn": "điện thoại",
+    "ipa": "fˈoʊn"
+  },
+  {
+    "en": "clock",
+    "vn": "đồng hồ",
+    "ipa": "klˈɑk"
+  },
+  {
+    "en": "watch",
+    "vn": "đồng hồ đeo tay",
+    "ipa": "wˈɑtʃ"
+  },
+  {
+    "en": "mirror",
+    "vn": "chiếc gương",
+    "ipa": "mˈɪr̆ɜː"
+  },
+  {
+    "en": "picture",
+    "vn": "bức tranh",
+    "ipa": "pˈɪktʃ̆ɜː"
+  },
+  {
+    "en": "food",
+    "vn": "thức ăn",
+    "ipa": "fˈuːd"
+  },
+  {
+    "en": "water",
+    "vn": "nước",
+    "ipa": "wˈɔt̆ɜː"
+  },
+  {
+    "en": "drink",
+    "vn": "đồ uống",
+    "ipa": "drˈɪŋk"
+  },
+  {
+    "en": "rice",
+    "vn": "cơm, gạo",
+    "ipa": "rˈaɪs"
+  },
+  {
+    "en": "noodle",
+    "vn": "mì",
+    "ipa": "nˈuːd̆ʌl"
+  },
+  {
+    "en": "bread",
+    "vn": "bánh mì",
+    "ipa": "brˈɛd"
+  },
+  {
+    "en": "meat",
+    "vn": "thịt",
+    "ipa": "mˈiːt"
+  },
+  {
+    "en": "fish",
+    "vn": "cá",
+    "ipa": "fˈɪʃ"
+  },
+  {
+    "en": "chicken",
+    "vn": "gà",
+    "ipa": "tʃˈɪk̆ʌn"
+  },
+  {
+    "en": "beef",
+    "vn": "thịt bò",
+    "ipa": "bˈiːf"
+  },
+  {
+    "en": "pork",
+    "vn": "thịt lợn",
+    "ipa": "pˈɔrk"
+  },
+  {
+    "en": "egg",
+    "vn": "quả trứng",
+    "ipa": "ˈɛɡ"
+  },
+  {
+    "en": "milk",
+    "vn": "sữa",
+    "ipa": "mˈɪlk"
+  },
+  {
+    "en": "cheese",
+    "vn": "pho mát",
+    "ipa": "tʃˈiːz"
+  },
+  {
+    "en": "butter",
+    "vn": "bơ",
+    "ipa": "bˈʌt̆ɜː"
+  },
+  {
+    "en": "oil",
+    "vn": "dầu ăn",
+    "ipa": "ˈɔɪl"
+  },
+  {
+    "en": "sugar",
+    "vn": "đường",
+    "ipa": "ʃˈʊɡ̆ɜː"
+  },
+  {
+    "en": "salt",
+    "vn": "muối",
+    "ipa": "sˈɔlt"
+  },
+  {
+    "en": "pepper",
+    "vn": "hạt tiêu",
+    "ipa": "pˈɛp̆ɜː"
+  },
+  {
+    "en": "vegetable",
+    "vn": "rau củ",
+    "ipa": "vˈɛdʒt̆ʌb̆ʌl"
+  },
+  {
+    "en": "fruit",
+    "vn": "trái cây",
+    "ipa": "frˈuːt"
+  },
+  {
+    "en": "apple",
+    "vn": "táo",
+    "ipa": "ˈæp̆ʌl"
+  },
+  {
+    "en": "banana",
+    "vn": "quả chuối",
+    "ipa": "b̆ʌnˈæn̆ʌ"
+  },
+  {
+    "en": "orange",
+    "vn": "quả cam",
+    "ipa": "ˈɔr̆ʌndʒ"
+  },
+  {
+    "en": "grape",
+    "vn": "quả nho",
+    "ipa": "ɡrˈeɪp"
+  },
+  {
+    "en": "lemon",
+    "vn": "quả chanh",
+    "ipa": "lˈɛm̆ʌn"
+  },
+  {
+    "en": "tomato",
+    "vn": "cà chua",
+    "ipa": "t̆ʌmˈeɪtˌoʊ"
+  },
+  {
+    "en": "potato",
+    "vn": "khoai tây",
+    "ipa": "p̆ʌtˈeɪtˌoʊ"
+  },
+  {
+    "en": "onion",
+    "vn": "hành tây",
+    "ipa": "ˈʌnj̆ʌn"
+  },
+  {
+    "en": "garlic",
+    "vn": "tỏi",
+    "ipa": "ɡˈɑrl̆ɪk"
+  },
+  {
+    "en": "soup",
+    "vn": "món súp",
+    "ipa": "sˈuːp"
+  },
+  {
+    "en": "cake",
+    "vn": "bánh ngọt",
+    "ipa": "kˈeɪk"
+  },
+  {
+    "en": "candy",
+    "vn": "kẹo",
+    "ipa": "kˈænd̆iː"
+  },
+  {
+    "en": "chocolate",
+    "vn": "sô cô la",
+    "ipa": "tʃˈɔkl̆ʌt"
+  },
+  {
+    "en": "ice cream",
+    "vn": "kem",
+    "ipa": "ˈaɪs krˈiːm"
+  },
+  {
+    "en": "coffee",
+    "vn": "cà phê",
+    "ipa": "kˈɑf̆iː"
+  },
+  {
+    "en": "tea",
+    "vn": "trà",
+    "ipa": "tˈiː"
+  },
+  {
+    "en": "juice",
+    "vn": "nước ép",
+    "ipa": "dʒˈuːs"
+  },
+  {
+    "en": "beer",
+    "vn": "bia",
+    "ipa": "bˈɪr"
+  },
+  {
+    "en": "wine",
+    "vn": "rượu vang",
+    "ipa": "wˈaɪn"
+  },
+  {
+    "en": "breakfast",
+    "vn": "bữa sáng",
+    "ipa": "brˈɛkf̆ʌst"
+  },
+  {
+    "en": "lunch",
+    "vn": "bữa trưa",
+    "ipa": "lˈʌntʃ"
+  },
+  {
+    "en": "dinner",
+    "vn": "bữa tối",
+    "ipa": "dˈɪn̆ɜː"
+  },
+  {
+    "en": "snack",
+    "vn": "bữa ăn nhẹ",
+    "ipa": "snˈæk"
+  },
+  {
+    "en": "restaurant",
+    "vn": "nhà hàng",
+    "ipa": "rˈɛst̆ɜːˌɑnt"
+  },
+  {
+    "en": "menu",
+    "vn": "thực đơn",
+    "ipa": "mˈɛnj̆uː"
+  },
+  {
+    "en": "waiter",
+    "vn": "bồi bàn nam",
+    "ipa": "wˈeɪt̆ɜː"
+  },
+  {
+    "en": "waitress",
+    "vn": "bồi bàn nữ",
+    "ipa": "wˈeɪtr̆ʌs"
+  },
+  {
+    "en": "bill",
+    "vn": "hóa đơn",
+    "ipa": "bˈɪl"
+  },
+  {
+    "en": "tip",
+    "vn": "tiền boa",
+    "ipa": "tˈɪp"
+  },
+  {
+    "en": "cook",
+    "vn": "nấu ăn",
+    "ipa": "kˈʊk"
+  },
+  {
+    "en": "boil",
+    "vn": "đun sôi",
+    "ipa": "bˈɔɪl"
+  },
+  {
+    "en": "fry",
+    "vn": "chiên, rán",
+    "ipa": "frˈaɪ"
+  },
+  {
+    "en": "bake",
+    "vn": "nướng bánh",
+    "ipa": "bˈeɪk"
+  },
+  {
+    "en": "grill",
+    "vn": "nướng thịt",
+    "ipa": "ɡrˈɪl"
+  },
+  {
+    "en": "eat",
+    "vn": "ăn",
+    "ipa": "ˈiːt"
+  },
+  {
+    "en": "body",
+    "vn": "cơ thể",
+    "ipa": "bˈɑd̆iː"
+  },
+  {
+    "en": "head",
+    "vn": "cái đầu",
+    "ipa": "hˈɛd"
+  },
+  {
+    "en": "hair",
+    "vn": "tóc",
+    "ipa": "hˈɛr"
+  },
+  {
+    "en": "face",
+    "vn": "khuôn mặt",
+    "ipa": "fˈeɪs"
+  },
+  {
+    "en": "ear",
+    "vn": "cái tai",
+    "ipa": "ˈiːr"
+  },
+  {
+    "en": "nose",
+    "vn": "cái mũi",
+    "ipa": "nˈoʊz"
+  },
+  {
+    "en": "mouth",
+    "vn": "cái miệng",
+    "ipa": "mˈaʊθ"
+  },
+  {
+    "en": "lip",
+    "vn": "môi",
+    "ipa": "lˈɪp"
+  },
+  {
+    "en": "tooth",
+    "vn": "răng",
+    "ipa": "tˈuːθ"
+  },
+  {
+    "en": "tongue",
+    "vn": "lưỡi",
+    "ipa": "tˈʌŋ"
+  },
+  {
+    "en": "neck",
+    "vn": "cái cổ",
+    "ipa": "nˈɛk"
+  },
+  {
+    "en": "shoulder",
+    "vn": "bờ vai",
+    "ipa": "ʃˈoʊld̆ɜː"
+  },
+  {
+    "en": "arm",
+    "vn": "cánh tay",
+    "ipa": "ˈɑrm"
+  },
+  {
+    "en": "elbow",
+    "vn": "khuỷu tay",
+    "ipa": "ˈɛlbˌoʊ"
+  },
+  {
+    "en": "wrist",
+    "vn": "cổ tay",
+    "ipa": "rˈɪst"
+  },
+  {
+    "en": "finger",
+    "vn": "ngón tay",
+    "ipa": "fˈɪŋɡ̆ɜː"
+  },
+  {
+    "en": "thumb",
+    "vn": "ngón cái",
+    "ipa": "θˈʌm"
+  },
+  {
+    "en": "chest",
+    "vn": "ngực, tủ",
+    "ipa": "tʃˈɛst"
+  },
+  {
+    "en": "stomach",
+    "vn": "dạ dày",
+    "ipa": "stˈʌm̆ʌk"
+  },
+  {
+    "en": "back",
+    "vn": "lưng, trở lại",
+    "ipa": "bˈæk"
+  },
+  {
+    "en": "leg",
+    "vn": "cẳng chân",
+    "ipa": "lˈɛɡ"
+  },
+  {
+    "en": "knee",
+    "vn": "đầu gối",
+    "ipa": "nˈiː"
+  },
+  {
+    "en": "ankle",
+    "vn": "mắt cá chân",
+    "ipa": "ˈæŋk̆ʌl"
+  },
+  {
+    "en": "foot",
+    "vn": "bàn chân",
+    "ipa": "fˈʊt"
+  },
+  {
+    "en": "toe",
+    "vn": "ngón chân",
+    "ipa": "tˈoʊ"
+  },
+  {
+    "en": "skin",
+    "vn": "làn da",
+    "ipa": "skˈɪn"
+  },
+  {
+    "en": "blood",
+    "vn": "máu",
+    "ipa": "blˈʌd"
+  },
+  {
+    "en": "heart",
+    "vn": "trái tim",
+    "ipa": "hˈɑrt"
+  },
+  {
+    "en": "brain",
+    "vn": "não",
+    "ipa": "brˈeɪn"
+  },
+  {
+    "en": "bone",
+    "vn": "xương",
+    "ipa": "bˈoʊn"
+  },
+  {
+    "en": "muscle",
+    "vn": "cơ bắp",
+    "ipa": "mˈʌs̆ʌl"
+  },
+  {
+    "en": "health",
+    "vn": "sức khỏe",
+    "ipa": "hˈɛlθ"
+  },
+  {
+    "en": "disease",
+    "vn": "bệnh tật",
+    "ipa": "d̆ɪzˈiːz"
+  },
+  {
+    "en": "medicine",
+    "vn": "thuốc",
+    "ipa": "mˈɛd̆ʌs̆ʌn"
+  },
+  {
+    "en": "doctor",
+    "vn": "bác sĩ",
+    "ipa": "dˈɑkt̆ɜː"
+  },
+  {
+    "en": "nurse",
+    "vn": "y tá",
+    "ipa": "nˈɜːs"
+  },
+  {
+    "en": "hospital",
+    "vn": "bệnh viện",
+    "ipa": "hˈɑspˌɪt̆ʌl"
+  },
+  {
+    "en": "clinic",
+    "vn": "phòng khám",
+    "ipa": "klˈɪn̆ɪk"
+  },
+  {
+    "en": "patient",
+    "vn": "bệnh nhân",
+    "ipa": "pˈeɪʃ̆ʌnt"
+  },
+  {
+    "en": "pain",
+    "vn": "cơn đau",
+    "ipa": "pˈeɪn"
+  },
+  {
+    "en": "fever",
+    "vn": "cơn sốt",
+    "ipa": "fˈiːv̆ɜː"
+  },
+  {
+    "en": "cough",
+    "vn": "ho",
+    "ipa": "kˈɑf"
+  },
+  {
+    "en": "cold",
+    "vn": "lạnh",
+    "ipa": "kˈoʊld"
+  },
+  {
+    "en": "city",
+    "vn": "thành phố",
+    "ipa": "sˈɪt̆iː"
+  },
+  {
+    "en": "town",
+    "vn": "thị trấn",
+    "ipa": "tˈaʊn"
+  },
+  {
+    "en": "village",
+    "vn": "ngôi làng",
+    "ipa": "vˈɪl̆ʌdʒ"
+  },
+  {
+    "en": "capital",
+    "vn": "thủ đô, vốn",
+    "ipa": "kˈæp̆ʌt̆ʌl"
+  },
+  {
+    "en": "country",
+    "vn": "đất nước",
+    "ipa": "kˈʌntr̆iː"
+  },
+  {
+    "en": "street",
+    "vn": "đường phố",
+    "ipa": "strˈiːt"
+  },
+  {
+    "en": "road",
+    "vn": "con đường",
+    "ipa": "rˈoʊd"
+  },
+  {
+    "en": "bridge",
+    "vn": "cầu",
+    "ipa": "brˈɪdʒ"
+  },
+  {
+    "en": "park",
+    "vn": "công viên",
+    "ipa": "pˈɑrk"
+  },
+  {
+    "en": "square",
+    "vn": "quảng trường",
+    "ipa": "skwˈɛr"
+  },
+  {
+    "en": "market",
+    "vn": "chợ",
+    "ipa": "mˈɑrk̆ʌt"
+  },
+  {
+    "en": "shop",
+    "vn": "cửa hàng",
+    "ipa": "ʃˈɑp"
+  },
+  {
+    "en": "store",
+    "vn": "cửa hiệu",
+    "ipa": "stˈɔr"
+  },
+  {
+    "en": "mall",
+    "vn": "trung tâm thương mại",
+    "ipa": "mˈɔl"
+  },
+  {
+    "en": "bank",
+    "vn": "ngân hàng",
+    "ipa": "bˈæŋk"
+  },
+  {
+    "en": "post office",
+    "vn": "bưu điện",
+    "ipa": "pˈoʊst ˈɔf̆ɪs"
+  },
+  {
+    "en": "police station",
+    "vn": "đồn cảnh sát",
+    "ipa": "p̆ʌlˈiːs stˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "fire station",
+    "vn": "trạm cứu hỏa",
+    "ipa": "fˈaɪ̆ɜː stˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "airport",
+    "vn": "sân bay",
+    "ipa": "ˈɛrpˌɔrt"
+  },
+  {
+    "en": "station",
+    "vn": "nhà ga",
+    "ipa": "stˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "bus stop",
+    "vn": "trạm xe buýt",
+    "ipa": "bˈʌs stˈɑp"
+  },
+  {
+    "en": "train",
+    "vn": "tàu hỏa",
+    "ipa": "trˈeɪn"
+  },
+  {
+    "en": "subway",
+    "vn": "tàu điện ngầm",
+    "ipa": "sˈʌbwˌeɪ"
+  },
+  {
+    "en": "car",
+    "vn": "xe hơi",
+    "ipa": "kˈɑr"
+  },
+  {
+    "en": "bus",
+    "vn": "xe buýt",
+    "ipa": "bˈʌs"
+  },
+  {
+    "en": "taxi",
+    "vn": "xe taxi",
+    "ipa": "tˈæks̆iː"
+  },
+  {
+    "en": "truck",
+    "vn": "xe tải",
+    "ipa": "trˈʌk"
+  },
+  {
+    "en": "motorcycle",
+    "vn": "xe máy",
+    "ipa": "mˈoʊt̆ɜːsˌaɪk̆ʌl"
+  },
+  {
+    "en": "bicycle",
+    "vn": "xe đạp",
+    "ipa": "bˈaɪs̆ɪk̆ʌl"
+  },
+  {
+    "en": "plane",
+    "vn": "máy bay",
+    "ipa": "plˈeɪn"
+  },
+  {
+    "en": "boat",
+    "vn": "thuyền",
+    "ipa": "bˈoʊt"
+  },
+  {
+    "en": "ship",
+    "vn": "tàu thủy",
+    "ipa": "ʃˈɪp"
+  },
+  {
+    "en": "driver",
+    "vn": "tài xế",
+    "ipa": "drˈaɪv̆ɜː"
+  },
+  {
+    "en": "ticket",
+    "vn": "vé",
+    "ipa": "tˈɪk̆ʌt"
+  },
+  {
+    "en": "trip",
+    "vn": "chuyến đi",
+    "ipa": "trˈɪp"
+  },
+  {
+    "en": "tour",
+    "vn": "chuyến du lịch",
+    "ipa": "tˈʊr"
+  },
+  {
+    "en": "journey",
+    "vn": "hành trình",
+    "ipa": "dʒˈɜːn̆iː"
+  },
+  {
+    "en": "flight",
+    "vn": "chuyến bay",
+    "ipa": "flˈaɪt"
+  },
+  {
+    "en": "hotel",
+    "vn": "khách sạn",
+    "ipa": "h̆oʊtˈɛl"
+  },
+  {
+    "en": "money",
+    "vn": "tiền",
+    "ipa": "mˈʌn̆iː"
+  },
+  {
+    "en": "coin",
+    "vn": "đồng xu",
+    "ipa": "kˈɔɪn"
+  },
+  {
+    "en": "cash",
+    "vn": "tiền mặt",
+    "ipa": "kˈæʃ"
+  },
+  {
+    "en": "credit card",
+    "vn": "thẻ tín dụng",
+    "ipa": "krˈɛd̆ʌt kˈɑrd"
+  },
+  {
+    "en": "price",
+    "vn": "giá cả",
+    "ipa": "prˈaɪs"
+  },
+  {
+    "en": "cost",
+    "vn": "chi phí",
+    "ipa": "kˈɑst"
+  },
+  {
+    "en": "value",
+    "vn": "giá trị",
+    "ipa": "vˈælj̆uː"
+  },
+  {
+    "en": "tax",
+    "vn": "thuế",
+    "ipa": "tˈæks"
+  },
+  {
+    "en": "discount",
+    "vn": "giảm giá",
+    "ipa": "d̆ɪskˈaʊnt"
+  },
+  {
+    "en": "sale",
+    "vn": "bán hàng",
+    "ipa": "sˈeɪl"
+  },
+  {
+    "en": "buy",
+    "vn": "mua",
+    "ipa": "bˈaɪ"
+  },
+  {
+    "en": "sell",
+    "vn": "bán",
+    "ipa": "sˈɛl"
+  },
+  {
+    "en": "pay",
+    "vn": "trả tiền",
+    "ipa": "pˈeɪ"
+  },
+  {
+    "en": "spend",
+    "vn": "tiêu xài",
+    "ipa": "spˈɛnd"
+  },
+  {
+    "en": "save",
+    "vn": "tiết kiệm",
+    "ipa": "sˈeɪv"
+  },
+  {
+    "en": "borrow",
+    "vn": "mượn",
+    "ipa": "bˈɑrˌoʊ"
+  },
+  {
+    "en": "lend",
+    "vn": "cho mượn",
+    "ipa": "lˈɛnd"
+  },
+  {
+    "en": "earn",
+    "vn": "kiếm được",
+    "ipa": "ˈɜːn"
+  },
+  {
+    "en": "win",
+    "vn": "chiến thắng",
+    "ipa": "wˈɪn"
+  },
+  {
+    "en": "lose",
+    "vn": "thua, mất",
+    "ipa": "lˈuːz"
+  },
+  {
+    "en": "clothes",
+    "vn": "quần áo",
+    "ipa": "klˈoʊðz"
+  },
+  {
+    "en": "shirt",
+    "vn": "áo sơ mi",
+    "ipa": "ʃˈɜːt"
+  },
+  {
+    "en": "t-shirt",
+    "vn": "áo thun",
+    "ipa": "tˈiːʃˌɜːt"
+  },
+  {
+    "en": "pants",
+    "vn": "quần dài",
+    "ipa": "pˈænts"
+  },
+  {
+    "en": "jeans",
+    "vn": "quần bò",
+    "ipa": "dʒˈiːnz"
+  },
+  {
+    "en": "shorts",
+    "vn": "quần đùi",
+    "ipa": "ʃˈɔrts"
+  },
+  {
+    "en": "skirt",
+    "vn": "chân váy",
+    "ipa": "skˈɜːt"
+  },
+  {
+    "en": "dress",
+    "vn": "váy liền",
+    "ipa": "drˈɛs"
+  },
+  {
+    "en": "coat",
+    "vn": "áo khoác",
+    "ipa": "kˈoʊt"
+  },
+  {
+    "en": "jacket",
+    "vn": "áo khoác",
+    "ipa": "dʒˈæk̆ʌt"
+  },
+  {
+    "en": "sweater",
+    "vn": "áo len",
+    "ipa": "swˈɛt̆ɜː"
+  },
+  {
+    "en": "suit",
+    "vn": "bộ com lê",
+    "ipa": "sˈuːt"
+  },
+  {
+    "en": "tie",
+    "vn": "cà vạt",
+    "ipa": "tˈaɪ"
+  },
+  {
+    "en": "shoe",
+    "vn": "đôi giày",
+    "ipa": "ʃˈuː"
+  },
+  {
+    "en": "boot",
+    "vn": "ủng",
+    "ipa": "bˈuːt"
+  },
+  {
+    "en": "sock",
+    "vn": "chiếc tất",
+    "ipa": "sˈɑk"
+  },
+  {
+    "en": "hat",
+    "vn": "cái mũ",
+    "ipa": "hˈæt"
+  },
+  {
+    "en": "cap",
+    "vn": "mũ lưỡi trai",
+    "ipa": "kˈæp"
+  },
+  {
+    "en": "glove",
+    "vn": "găng tay",
+    "ipa": "ɡlˈʌv"
+  },
+  {
+    "en": "scarf",
+    "vn": "khăn quàng cổ",
+    "ipa": "skˈɑrf"
+  },
+  {
+    "en": "belt",
+    "vn": "thắt lưng",
+    "ipa": "bˈɛlt"
+  },
+  {
+    "en": "ring",
+    "vn": "chiếc nhẫn",
+    "ipa": "rˈɪŋ"
+  },
+  {
+    "en": "necklace",
+    "vn": "dây chuyền",
+    "ipa": "nˈɛkl̆ʌs"
+  },
+  {
+    "en": "glasses",
+    "vn": "kính mắt",
+    "ipa": "ɡlˈæs̆ʌz"
+  },
+  {
+    "en": "umbrella",
+    "vn": "cái ô",
+    "ipa": "̆ʌmbrˈɛl̆ʌ"
+  },
+  {
+    "en": "bag",
+    "vn": "túi",
+    "ipa": "bˈæɡ"
+  },
+  {
+    "en": "wallet",
+    "vn": "ví tiền",
+    "ipa": "wˈɔl̆ʌt"
+  },
+  {
+    "en": "purse",
+    "vn": "ví nữ",
+    "ipa": "pˈɜːs"
+  },
+  {
+    "en": "color",
+    "vn": "màu sắc",
+    "ipa": "kˈʌl̆ɜː"
+  },
+  {
+    "en": "red",
+    "vn": "màu đỏ",
+    "ipa": "rˈɛd"
+  },
+  {
+    "en": "blue",
+    "vn": "xanh dương",
+    "ipa": "blˈuː"
+  },
+  {
+    "en": "green",
+    "vn": "màu xanh lá",
+    "ipa": "ɡrˈiːn"
+  },
+  {
+    "en": "yellow",
+    "vn": "màu vàng",
+    "ipa": "jˈɛl̆oʊ"
+  },
+  {
+    "en": "black",
+    "vn": "đen",
+    "ipa": "blˈæk"
+  },
+  {
+    "en": "white",
+    "vn": "màu trắng",
+    "ipa": "wˈaɪt"
+  },
+  {
+    "en": "gray",
+    "vn": "màu xám",
+    "ipa": "ɡrˈeɪ"
+  },
+  {
+    "en": "brown",
+    "vn": "nâu",
+    "ipa": "brˈaʊn"
+  },
+  {
+    "en": "pink",
+    "vn": "màu hồng",
+    "ipa": "pˈɪŋk"
+  },
+  {
+    "en": "purple",
+    "vn": "màu tím",
+    "ipa": "pˈɜːp̆ʌl"
+  },
+  {
+    "en": "animal",
+    "vn": "động vật",
+    "ipa": "ˈæn̆ʌm̆ʌl"
+  },
+  {
+    "en": "dog",
+    "vn": "con chó",
+    "ipa": "dˈɔɡ"
+  },
+  {
+    "en": "cat",
+    "vn": "mèo",
+    "ipa": "kˈæt"
+  },
+  {
+    "en": "mouse",
+    "vn": "con chuột",
+    "ipa": "mˈaʊs"
+  },
+  {
+    "en": "cow",
+    "vn": "bò",
+    "ipa": "kˈaʊ"
+  },
+  {
+    "en": "pig",
+    "vn": "con lợn",
+    "ipa": "pˈɪɡ"
+  },
+  {
+    "en": "sheep",
+    "vn": "con cừu",
+    "ipa": "ʃˈiːp"
+  },
+  {
+    "en": "goat",
+    "vn": "con dê",
+    "ipa": "ɡˈoʊt"
+  },
+  {
+    "en": "horse",
+    "vn": "con ngựa",
+    "ipa": "hˈɔrs"
+  },
+  {
+    "en": "bird",
+    "vn": "chim",
+    "ipa": "bˈɜːd"
+  },
+  {
+    "en": "duck",
+    "vn": "con vịt",
+    "ipa": "dˈʌk"
+  },
+  {
+    "en": "bear",
+    "vn": "chịu đựng, gấu",
+    "ipa": "bˈɛr"
+  },
+  {
+    "en": "lion",
+    "vn": "sư tử",
+    "ipa": "lˈaɪ̆ʌn"
+  },
+  {
+    "en": "tiger",
+    "vn": "con hổ",
+    "ipa": "tˈaɪɡ̆ɜː"
+  },
+  {
+    "en": "elephant",
+    "vn": "con voi",
+    "ipa": "ˈɛl̆ʌf̆ʌnt"
+  },
+  {
+    "en": "monkey",
+    "vn": "con khỉ",
+    "ipa": "mˈʌŋk̆iː"
+  },
+  {
+    "en": "snake",
+    "vn": "con rắn",
+    "ipa": "snˈeɪk"
+  },
+  {
+    "en": "frog",
+    "vn": "con ếch",
+    "ipa": "frˈɑɡ"
+  },
+  {
+    "en": "turtle",
+    "vn": "con rùa",
+    "ipa": "tˈɜːt̆ʌl"
+  },
+  {
+    "en": "insect",
+    "vn": "côn trùng",
+    "ipa": "ˈɪnsˌɛkt"
+  },
+  {
+    "en": "bee",
+    "vn": "con ong",
+    "ipa": "bˈiː"
+  },
+  {
+    "en": "ant",
+    "vn": "con kiến",
+    "ipa": "ˈænt"
+  },
+  {
+    "en": "butterfly",
+    "vn": "bướm",
+    "ipa": "bˈʌt̆ɜːflˌaɪ"
+  },
+  {
+    "en": "spider",
+    "vn": "con nhện",
+    "ipa": "spˈaɪd̆ɜː"
+  },
+  {
+    "en": "weather",
+    "vn": "thời tiết",
+    "ipa": "wˈɛð̆ɜː"
+  },
+  {
+    "en": "sun",
+    "vn": "mặt trời",
+    "ipa": "sˈʌn"
+  },
+  {
+    "en": "moon",
+    "vn": "mặt trăng",
+    "ipa": "mˈuːn"
+  },
+  {
+    "en": "star",
+    "vn": "ngôi sao",
+    "ipa": "stˈɑr"
+  },
+  {
+    "en": "sky",
+    "vn": "bầu trời",
+    "ipa": "skˈaɪ"
+  },
+  {
+    "en": "cloud",
+    "vn": "mây",
+    "ipa": "klˈaʊd"
+  },
+  {
+    "en": "rain",
+    "vn": "cơn mưa",
+    "ipa": "rˈeɪn"
+  },
+  {
+    "en": "snow",
+    "vn": "tuyết",
+    "ipa": "snˈoʊ"
+  },
+  {
+    "en": "wind",
+    "vn": "cơn gió",
+    "ipa": "wˈaɪnd"
+  },
+  {
+    "en": "storm",
+    "vn": "cơn bão",
+    "ipa": "stˈɔrm"
+  },
+  {
+    "en": "lightning",
+    "vn": "chớp",
+    "ipa": "lˈaɪtn̆ɪŋ"
+  },
+  {
+    "en": "thunder",
+    "vn": "sấm",
+    "ipa": "θˈʌnd̆ɜː"
+  },
+  {
+    "en": "hot",
+    "vn": "nóng",
+    "ipa": "hˈɑt"
+  },
+  {
+    "en": "warm",
+    "vn": "ấm áp",
+    "ipa": "wˈɔrm"
+  },
+  {
+    "en": "cool",
+    "vn": "mát mẻ",
+    "ipa": "kˈuːl"
+  },
+  {
+    "en": "nature",
+    "vn": "thiên nhiên",
+    "ipa": "nˈeɪtʃ̆ɜː"
+  },
+  {
+    "en": "earth",
+    "vn": "trái đất",
+    "ipa": "ˈɜːθ"
+  },
+  {
+    "en": "mountain",
+    "vn": "ngọn núi",
+    "ipa": "mˈaʊnt̆ʌn"
+  },
+  {
+    "en": "hill",
+    "vn": "ngọn đồi",
+    "ipa": "hˈɪl"
+  },
+  {
+    "en": "valley",
+    "vn": "thung lũng",
+    "ipa": "vˈæl̆iː"
+  },
+  {
+    "en": "forest",
+    "vn": "khu rừng",
+    "ipa": "fˈɔr̆ʌst"
+  },
+  {
+    "en": "tree",
+    "vn": "cái cây",
+    "ipa": "trˈiː"
+  },
+  {
+    "en": "flower",
+    "vn": "bông hoa",
+    "ipa": "flˈaʊ̆ɜː"
+  },
+  {
+    "en": "grass",
+    "vn": "bãi cỏ",
+    "ipa": "ɡrˈæs"
+  },
+  {
+    "en": "leaf",
+    "vn": "chiếc lá",
+    "ipa": "lˈiːf"
+  },
+  {
+    "en": "plant",
+    "vn": "thực vật",
+    "ipa": "plˈænt"
+  },
+  {
+    "en": "river",
+    "vn": "con sông",
+    "ipa": "rˈɪv̆ɜː"
+  },
+  {
+    "en": "lake",
+    "vn": "hồ nước",
+    "ipa": "lˈeɪk"
+  },
+  {
+    "en": "sea",
+    "vn": "biển",
+    "ipa": "sˈiː"
+  },
+  {
+    "en": "ocean",
+    "vn": "đại dương",
+    "ipa": "ˈoʊʃ̆ʌn"
+  },
+  {
+    "en": "beach",
+    "vn": "bãi biển",
+    "ipa": "bˈiːtʃ"
+  },
+  {
+    "en": "sand",
+    "vn": "cát",
+    "ipa": "sˈænd"
+  },
+  {
+    "en": "stone",
+    "vn": "hòn đá",
+    "ipa": "stˈoʊn"
+  },
+  {
+    "en": "rock",
+    "vn": "tảng đá",
+    "ipa": "rˈɑk"
+  },
+  {
+    "en": "fire",
+    "vn": "ngọn lửa",
+    "ipa": "fˈaɪ̆ɜː"
+  },
+  {
+    "en": "ice",
+    "vn": "băng",
+    "ipa": "ˈaɪs"
+  },
+  {
+    "en": "sport",
+    "vn": "thể thao",
+    "ipa": "spˈɔrt"
+  },
+  {
+    "en": "football",
+    "vn": "bóng đá",
+    "ipa": "fˈʊtbˌɔl"
+  },
+  {
+    "en": "basketball",
+    "vn": "bóng rổ",
+    "ipa": "bˈæsk̆ʌtbˌɔl"
+  },
+  {
+    "en": "baseball",
+    "vn": "bóng chày",
+    "ipa": "bˈeɪsbˈɔl"
+  },
+  {
+    "en": "tennis",
+    "vn": "quần vợt",
+    "ipa": "tˈɛn̆ʌs"
+  },
+  {
+    "en": "volleyball",
+    "vn": "bóng chuyền",
+    "ipa": "vˈɑl̆iːbˌɔl"
+  },
+  {
+    "en": "swimming",
+    "vn": "bơi lội",
+    "ipa": "swˈɪm̆ɪŋ"
+  },
+  {
+    "en": "running",
+    "vn": "chạy bộ",
+    "ipa": "rˈʌn̆ɪŋ"
+  },
+  {
+    "en": "gym",
+    "vn": "phòng tập thể hình",
+    "ipa": "dʒˈɪm"
+  },
+  {
+    "en": "exercise",
+    "vn": "tập thể dục",
+    "ipa": "ˈɛks̆ɜːsˌaɪz"
+  },
+  {
+    "en": "game",
+    "vn": "trò chơi",
+    "ipa": "ɡˈeɪm"
+  },
+  {
+    "en": "match",
+    "vn": "trận đấu",
+    "ipa": "mˈætʃ"
+  },
+  {
+    "en": "team",
+    "vn": "đội tuyển",
+    "ipa": "tˈiːm"
+  },
+  {
+    "en": "player",
+    "vn": "cầu thủ",
+    "ipa": "plˈeɪ̆ɜː"
+  },
+  {
+    "en": "stadium",
+    "vn": "sân vận động",
+    "ipa": "stˈeɪd̆iː̆ʌm"
+  },
+  {
+    "en": "ball",
+    "vn": "bóng",
+    "ipa": "bˈɔl"
+  },
+  {
+    "en": "goal",
+    "vn": "bàn thắng",
+    "ipa": "ɡˈoʊl"
+  },
+  {
+    "en": "draw",
+    "vn": "hòa",
+    "ipa": "drˈɔ"
+  },
+  {
+    "en": "job",
+    "vn": "công việc",
+    "ipa": "dʒˈɑb"
+  },
+  {
+    "en": "career",
+    "vn": "sự nghiệp",
+    "ipa": "k̆ɜːˈɪr"
+  },
+  {
+    "en": "profession",
+    "vn": "nghề nghiệp",
+    "ipa": "pr̆ʌfˈɛʃ̆ʌn"
+  },
+  {
+    "en": "manager",
+    "vn": "người quản lý",
+    "ipa": "mˈæn̆ʌdʒ̆ɜː"
+  },
+  {
+    "en": "employee",
+    "vn": "nhân viên",
+    "ipa": "̆ɛmplˈɔɪ̆iː"
+  },
+  {
+    "en": "worker",
+    "vn": "công nhân",
+    "ipa": "wˈɜːk̆ɜː"
+  },
+  {
+    "en": "engineer",
+    "vn": "kỹ sư",
+    "ipa": "ˈɛndʒ̆ʌnˈɪr"
+  },
+  {
+    "en": "architect",
+    "vn": "kiến trúc sư",
+    "ipa": "ˈɑrk̆ʌtˌɛkt"
+  },
+  {
+    "en": "lawyer",
+    "vn": "luật sư",
+    "ipa": "lˈɔj̆ɜː"
+  },
+  {
+    "en": "judge",
+    "vn": "thẩm phán",
+    "ipa": "dʒˈʌdʒ"
+  },
+  {
+    "en": "police",
+    "vn": "cảnh sát",
+    "ipa": "p̆ʌlˈiːs"
+  },
+  {
+    "en": "soldier",
+    "vn": "người lính",
+    "ipa": "sˈoʊldʒ̆ɜː"
+  },
+  {
+    "en": "farmer",
+    "vn": "nông dân",
+    "ipa": "fˈɑrm̆ɜː"
+  },
+  {
+    "en": "mechanic",
+    "vn": "thợ cơ khí",
+    "ipa": "m̆ʌkˈæn̆ɪk"
+  },
+  {
+    "en": "electrician",
+    "vn": "thợ điện",
+    "ipa": "̆ɪl̆ɛktrˈɪʃ̆ʌn"
+  },
+  {
+    "en": "plumber",
+    "vn": "thợ sửa ống nước",
+    "ipa": "plˈʌm̆ɜː"
+  },
+  {
+    "en": "carpenter",
+    "vn": "thợ mộc",
+    "ipa": "kˈɑrp̆ʌnt̆ɜː"
+  },
+  {
+    "en": "tailor",
+    "vn": "thợ may",
+    "ipa": "tˈeɪl̆ɜː"
+  },
+  {
+    "en": "baker",
+    "vn": "thợ làm bánh",
+    "ipa": "bˈeɪk̆ɜː"
+  },
+  {
+    "en": "butcher",
+    "vn": "người bán thịt",
+    "ipa": "bˈʊtʃ̆ɜː"
+  },
+  {
+    "en": "barber",
+    "vn": "thợ cắt tóc",
+    "ipa": "bˈɑrb̆ɜː"
+  },
+  {
+    "en": "actor",
+    "vn": "nam diễn viên",
+    "ipa": "ˈækt̆ɜː"
+  },
+  {
+    "en": "actress",
+    "vn": "nữ diễn viên",
+    "ipa": "ˈæktr̆ʌs"
+  },
+  {
+    "en": "singer",
+    "vn": "ca sĩ",
+    "ipa": "sˈɪŋ̆ɜː"
+  },
+  {
+    "en": "dancer",
+    "vn": "vũ công",
+    "ipa": "dˈæns̆ɜː"
+  },
+  {
+    "en": "artist",
+    "vn": "nghệ sĩ",
+    "ipa": "ˈɑrt̆ʌst"
+  },
+  {
+    "en": "writer",
+    "vn": "nhà văn",
+    "ipa": "rˈaɪt̆ɜː"
+  },
+  {
+    "en": "journalist",
+    "vn": "nhà báo",
+    "ipa": "dʒˈɜːn̆ʌl̆ʌst"
+  },
+  {
+    "en": "photographer",
+    "vn": "nhiếp ảnh gia",
+    "ipa": "f̆ʌtˈɑɡr̆ʌf̆ɜː"
+  },
+  {
+    "en": "secretary",
+    "vn": "thư ký",
+    "ipa": "sˈɛkr̆ʌtˌɛr̆iː"
+  },
+  {
+    "en": "accountant",
+    "vn": "kế toán",
+    "ipa": "̆ʌkˈaʊnt̆ʌnt"
+  },
+  {
+    "en": "business",
+    "vn": "kinh doanh",
+    "ipa": "bˈɪzn̆ʌs"
+  },
+  {
+    "en": "trade",
+    "vn": "thương mại",
+    "ipa": "trˈeɪd"
+  },
+  {
+    "en": "industry",
+    "vn": "công nghiệp",
+    "ipa": "ˈɪnd̆ʌstr̆iː"
+  },
+  {
+    "en": "factory",
+    "vn": "nhà máy",
+    "ipa": "fˈækt̆ɜː̆iː"
+  },
+  {
+    "en": "product",
+    "vn": "sản phẩm",
+    "ipa": "prˈɑd̆ʌkt"
+  },
+  {
+    "en": "service",
+    "vn": "dịch vụ",
+    "ipa": "sˈɜːv̆ʌs"
+  },
+  {
+    "en": "customer",
+    "vn": "khách hàng",
+    "ipa": "kˈʌst̆ʌm̆ɜː"
+  },
+  {
+    "en": "client",
+    "vn": "khách hàng",
+    "ipa": "klˈaɪ̆ʌnt"
+  },
+  {
+    "en": "contract",
+    "vn": "hợp đồng",
+    "ipa": "kˈɑntrˌækt"
+  },
+  {
+    "en": "agreement",
+    "vn": "thỏa thuận",
+    "ipa": "̆ʌɡrˈiːm̆ʌnt"
+  },
+  {
+    "en": "profit",
+    "vn": "lợi nhuận",
+    "ipa": "prˈɑf̆ʌt"
+  },
+  {
+    "en": "loss",
+    "vn": "thua lỗ",
+    "ipa": "lˈɔs"
+  },
+  {
+    "en": "risk",
+    "vn": "rủi ro",
+    "ipa": "rˈɪsk"
+  },
+  {
+    "en": "success",
+    "vn": "thành công",
+    "ipa": "s̆ʌksˈɛs"
+  },
+  {
+    "en": "failure",
+    "vn": "sự thất bại",
+    "ipa": "fˈeɪlj̆ɜː"
+  },
+  {
+    "en": "plan",
+    "vn": "kế hoạch",
+    "ipa": "plˈæn"
+  },
+  {
+    "en": "strategy",
+    "vn": "chiến lược",
+    "ipa": "strˈæt̆ʌdʒ̆iː"
+  },
+  {
+    "en": "meeting",
+    "vn": "cuộc họp",
+    "ipa": "mˈiːt̆ɪŋ"
+  },
+  {
+    "en": "project",
+    "vn": "dự án",
+    "ipa": "prˈɑdʒ̆ɛkt"
+  },
+  {
+    "en": "report",
+    "vn": "báo cáo",
+    "ipa": "r̆iːpˈɔrt"
+  },
+  {
+    "en": "document",
+    "vn": "tài liệu",
+    "ipa": "dˈɑkj̆ʌm̆ɛnt"
+  },
+  {
+    "en": "file",
+    "vn": "tệp tin",
+    "ipa": "fˈaɪl"
+  },
+  {
+    "en": "data",
+    "vn": "dữ liệu",
+    "ipa": "dˈeɪt̆ʌ"
+  },
+  {
+    "en": "information",
+    "vn": "thông tin",
+    "ipa": "ˌɪnf̆ɜːmˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "message",
+    "vn": "tin nhắn",
+    "ipa": "mˈɛs̆ʌdʒ"
+  },
+  {
+    "en": "letter",
+    "vn": "bức thư",
+    "ipa": "lˈɛt̆ɜː"
+  },
+  {
+    "en": "email",
+    "vn": "thư điện tử",
+    "ipa": "̆iːmˈeɪl"
+  },
+  {
+    "en": "internet",
+    "vn": "mạng internet",
+    "ipa": "ˈɪnt̆ɜːnˌɛt"
+  },
+  {
+    "en": "website",
+    "vn": "trang web",
+    "ipa": "wˈɛbsˌaɪt"
+  },
+  {
+    "en": "network",
+    "vn": "mạng lưới",
+    "ipa": "nˈɛtwˌɜːk"
+  },
+  {
+    "en": "software",
+    "vn": "phần mềm",
+    "ipa": "sˈɔftwˌɛr"
+  },
+  {
+    "en": "hardware",
+    "vn": "phần cứng",
+    "ipa": "hˈɑrdwˌɛr"
+  },
+  {
+    "en": "screen",
+    "vn": "màn hình",
+    "ipa": "skrˈiːn"
+  },
+  {
+    "en": "keyboard",
+    "vn": "bàn phím",
+    "ipa": "kˈiːbˌɔrd"
+  },
+  {
+    "en": "battery",
+    "vn": "pin",
+    "ipa": "bˈæt̆ɜː̆iː"
+  },
+  {
+    "en": "charger",
+    "vn": "cục sạc",
+    "ipa": "tʃˈɑrdʒ̆ɜː"
+  },
+  {
+    "en": "camera",
+    "vn": "máy ảnh",
+    "ipa": "kˈæm̆ɜː̆ʌ"
+  },
+  {
+    "en": "video",
+    "vn": "băng hình",
+    "ipa": "vˈɪd̆iː̆oʊ"
+  },
+  {
+    "en": "audio",
+    "vn": "âm thanh",
+    "ipa": "ˈɑd̆iːˌoʊ"
+  },
+  {
+    "en": "image",
+    "vn": "hình ảnh",
+    "ipa": "ˈɪm̆ʌdʒ"
+  },
+  {
+    "en": "music_note",
+    "vn": "nốt nhạc",
+    "ipa": "mjˈuːz̆ɪk nˈoʊt"
+  },
+  {
+    "en": "song",
+    "vn": "bài hát",
+    "ipa": "sˈɔŋ"
+  },
+  {
+    "en": "film",
+    "vn": "bộ phim",
+    "ipa": "fˈɪlm"
+  },
+  {
+    "en": "movie",
+    "vn": "phim điện ảnh",
+    "ipa": "mˈuːv̆iː"
+  },
+  {
+    "en": "theater",
+    "vn": "nhà hát",
+    "ipa": "θˈiː̆ʌt̆ɜː"
+  },
+  {
+    "en": "cinema",
+    "vn": "rạp phim",
+    "ipa": "sˈɪn̆ʌm̆ʌ"
+  },
+  {
+    "en": "ticket_cinema",
+    "vn": "vé xem phim",
+    "ipa": "tˈɪk̆ʌt sˈɪn̆ʌm̆ʌ"
+  },
+  {
+    "en": "stage",
+    "vn": "sân khấu",
+    "ipa": "stˈeɪdʒ"
+  },
+  {
+    "en": "show",
+    "vn": "buổi trình diễn",
+    "ipa": "ʃˈoʊ"
+  },
+  {
+    "en": "party",
+    "vn": "bữa tiệc",
+    "ipa": "pˈɑrt̆iː"
+  },
+  {
+    "en": "dance",
+    "vn": "nhảy múa",
+    "ipa": "dˈæns"
+  },
+  {
+    "en": "sing",
+    "vn": "hát",
+    "ipa": "sˈɪŋ"
+  },
+  {
+    "en": "play_game",
+    "vn": "chơi game",
+    "ipa": "plˈeɪ ɡˈeɪm"
+  },
+  {
+    "en": "enjoy",
+    "vn": "thưởng thức",
+    "ipa": "ˌɛndʒˈɔɪ"
+  },
+  {
+    "en": "relax",
+    "vn": "thư giãn",
+    "ipa": "r̆ɪlˈæks"
+  },
+  {
+    "en": "travel",
+    "vn": "du lịch",
+    "ipa": "trˈæv̆ʌl"
+  },
+  {
+    "en": "holiday",
+    "vn": "ngày lễ",
+    "ipa": "hˈɑl̆ʌdˌeɪ"
+  },
+  {
+    "en": "vacation",
+    "vn": "kỳ nghỉ",
+    "ipa": "v̆eɪkˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "tourist",
+    "vn": "du khách",
+    "ipa": "tˈʊr̆ʌst"
+  },
+  {
+    "en": "guide",
+    "vn": "hướng dẫn viên",
+    "ipa": "ɡˈaɪd"
+  },
+  {
+    "en": "map",
+    "vn": "bản đồ",
+    "ipa": "mˈæp"
+  },
+  {
+    "en": "passport",
+    "vn": "hộ chiếu",
+    "ipa": "pˈæspˌɔrt"
+  },
+  {
+    "en": "visa",
+    "vn": "thị thực",
+    "ipa": "vˈiːz̆ʌ"
+  },
+  {
+    "en": "luggage",
+    "vn": "hành lý",
+    "ipa": "lˈʌɡ̆ʌdʒ"
+  },
+  {
+    "en": "suitcase",
+    "vn": "vali",
+    "ipa": "sˈuːtkˌeɪs"
+  },
+  {
+    "en": "pack",
+    "vn": "đóng gói",
+    "ipa": "pˈæk"
+  },
+  {
+    "en": "arrive",
+    "vn": "đến",
+    "ipa": "̆ɜːˈaɪv"
+  },
+  {
+    "en": "depart",
+    "vn": "khởi hành",
+    "ipa": "d̆ɪpˈɑrt"
+  },
+  {
+    "en": "delay",
+    "vn": "trì hoãn",
+    "ipa": "d̆ɪlˈeɪ"
+  },
+  {
+    "en": "cancel",
+    "vn": "hủy bỏ",
+    "ipa": "kˈæns̆ʌl"
+  },
+  {
+    "en": "book_ticket",
+    "vn": "đặt vé",
+    "ipa": "bˈʊk tˈɪk̆ʌt"
+  },
+  {
+    "en": "reserve",
+    "vn": "đặt trước",
+    "ipa": "r̆ɪzˈɜːv"
+  },
+  {
+    "en": "stay",
+    "vn": "ở lại",
+    "ipa": "stˈeɪ"
+  },
+  {
+    "en": "visit",
+    "vn": "chuyến thăm",
+    "ipa": "vˈɪz̆ɪt"
+  },
+  {
+    "en": "explore",
+    "vn": "khám phá",
+    "ipa": "̆ɪksplˈɔr"
+  },
+  {
+    "en": "discover",
+    "vn": "khám phá",
+    "ipa": "d̆ɪskˈʌv̆ɜː"
+  },
+  {
+    "en": "technology",
+    "vn": "công nghệ",
+    "ipa": "t̆ɛknˈɑl̆ʌdʒ̆iː"
+  },
+  {
+    "en": "engineering",
+    "vn": "kỹ thuật",
+    "ipa": "ˈɛndʒ̆ʌnˈɪr̆ɪŋ"
+  },
+  {
+    "en": "mathematics",
+    "vn": "toán học",
+    "ipa": "mˌæθ̆ʌmˈæt̆ɪks"
+  },
+  {
+    "en": "physics",
+    "vn": "vật lý",
+    "ipa": "fˈɪz̆ɪks"
+  },
+  {
+    "en": "chemistry",
+    "vn": "hóa học",
+    "ipa": "kˈɛm̆ʌstr̆iː"
+  },
+  {
+    "en": "biology",
+    "vn": "sinh học",
+    "ipa": "b̆aɪˈɑl̆ʌdʒ̆iː"
+  },
+  {
+    "en": "geography",
+    "vn": "địa lý",
+    "ipa": "dʒ̆iːˈɑɡr̆ʌf̆iː"
+  },
+  {
+    "en": "astronomy",
+    "vn": "thiên văn học",
+    "ipa": "̆ʌstrˈɑn̆ʌm̆iː"
+  },
+  {
+    "en": "psychology",
+    "vn": "tâm lý học",
+    "ipa": "s̆aɪkˈɑl̆ʌdʒ̆iː"
+  },
+  {
+    "en": "philosophy",
+    "vn": "triết học",
+    "ipa": "f̆ʌlˈɑs̆ʌf̆iː"
+  },
+  {
+    "en": "literature",
+    "vn": "văn học",
+    "ipa": "lˈɪt̆ɜː̆ʌtʃ̆ɜː"
+  },
+  {
+    "en": "poetry",
+    "vn": "thơ ca",
+    "ipa": "pˈoʊ̆ʌtr̆iː"
+  },
+  {
+    "en": "religion",
+    "vn": "tôn giáo",
+    "ipa": "r̆ɪlˈɪdʒ̆ʌn"
+  },
+  {
+    "en": "politics",
+    "vn": "chính trị",
+    "ipa": "pˈɑl̆ʌtˌɪks"
+  },
+  {
+    "en": "law",
+    "vn": "pháp luật",
+    "ipa": "lˈɔ"
+  },
+  {
+    "en": "justice",
+    "vn": "công lý",
+    "ipa": "dʒˈʌst̆ʌs"
+  },
+  {
+    "en": "crime",
+    "vn": "tội phạm",
+    "ipa": "krˈaɪm"
+  },
+  {
+    "en": "murder",
+    "vn": "kẻ giết người",
+    "ipa": "mˈɜːd̆ɜː"
+  },
+  {
+    "en": "thief",
+    "vn": "tên trộm",
+    "ipa": "θˈiːf"
+  },
+  {
+    "en": "robber",
+    "vn": "kẻ cướp",
+    "ipa": "rˈɑb̆ɜː"
+  },
+  {
+    "en": "prison",
+    "vn": "nhà tù",
+    "ipa": "prˈɪz̆ʌn"
+  },
+  {
+    "en": "jail",
+    "vn": "trại giam",
+    "ipa": "dʒˈeɪl"
+  },
+  {
+    "en": "punishment",
+    "vn": "hình phạt",
+    "ipa": "pˈʌn̆ɪʃm̆ʌnt"
+  },
+  {
+    "en": "guilty",
+    "vn": "có tội",
+    "ipa": "ɡˈɪlt̆iː"
+  },
+  {
+    "en": "innocent",
+    "vn": "vô tội",
+    "ipa": "ˈɪn̆ʌs̆ʌnt"
+  },
+  {
+    "en": "freedom",
+    "vn": "sự tự do",
+    "ipa": "frˈiːd̆ʌm"
+  },
+  {
+    "en": "peace",
+    "vn": "hòa bình",
+    "ipa": "pˈiːs"
+  },
+  {
+    "en": "war",
+    "vn": "chiến tranh",
+    "ipa": "wˈɔr"
+  },
+  {
+    "en": "battle",
+    "vn": "trận chiến",
+    "ipa": "bˈæt̆ʌl"
+  },
+  {
+    "en": "weapon",
+    "vn": "vũ khí",
+    "ipa": "wˈɛp̆ʌn"
+  },
+  {
+    "en": "gun",
+    "vn": "khẩu súng",
+    "ipa": "ɡˈʌn"
+  },
+  {
+    "en": "sword",
+    "vn": "thanh kiếm",
+    "ipa": "sˈɔrd"
+  },
+  {
+    "en": "knife",
+    "vn": "con dao",
+    "ipa": "nˈaɪf"
+  },
+  {
+    "en": "bomb",
+    "vn": "quả bom",
+    "ipa": "bˈɑm"
+  },
+  {
+    "en": "army",
+    "vn": "quân đội",
+    "ipa": "ˈɑrm̆iː"
+  },
+  {
+    "en": "navy",
+    "vn": "hải quân",
+    "ipa": "nˈeɪv̆iː"
+  },
+  {
+    "en": "air_force",
+    "vn": "không quân",
+    "ipa": "ˈɛr fˈɔrs"
+  },
+  {
+    "en": "attack",
+    "vn": "tấn công",
+    "ipa": "̆ʌtˈæk"
+  },
+  {
+    "en": "defend",
+    "vn": "bảo vệ",
+    "ipa": "d̆ɪfˈɛnd"
+  },
+  {
+    "en": "destroy",
+    "vn": "phá hủy",
+    "ipa": "d̆ɪstrˈɔɪ"
+  },
+  {
+    "en": "protect",
+    "vn": "bảo vệ",
+    "ipa": "pr̆ʌtˈɛkt"
+  },
+  {
+    "en": "help",
+    "vn": "giúp đỡ",
+    "ipa": "hˈɛlp"
+  },
+  {
+    "en": "support",
+    "vn": "ủng hộ",
+    "ipa": "s̆ʌpˈɔrt"
+  },
+  {
+    "en": "encourage",
+    "vn": "khuyến khích",
+    "ipa": "̆ɛnkˈɜː̆ɪdʒ"
+  },
+  {
+    "en": "comfort",
+    "vn": "thoải mái",
+    "ipa": "kˈʌmf̆ɜːt"
+  },
+  {
+    "en": "advice",
+    "vn": "lời khuyên",
+    "ipa": "̆ædvˈaɪs"
+  },
+  {
+    "en": "suggestion",
+    "vn": "sự gợi ý",
+    "ipa": "s̆ʌdʒˈɛstʃ̆ʌn"
+  },
+  {
+    "en": "decision",
+    "vn": "quyết định",
+    "ipa": "d̆ɪsˈɪʒ̆ʌn"
+  },
+  {
+    "en": "choice",
+    "vn": "sự lựa chọn",
+    "ipa": "tʃˈɔɪs"
+  },
+  {
+    "en": "opinion",
+    "vn": "ý kiến",
+    "ipa": "̆ʌpˈɪnj̆ʌn"
+  },
+  {
+    "en": "belief",
+    "vn": "niềm tin",
+    "ipa": "b̆ɪlˈiːf"
+  },
+  {
+    "en": "doubt",
+    "vn": "sự nghi ngờ",
+    "ipa": "dˈaʊt"
+  },
+  {
+    "en": "truth",
+    "vn": "sự thật",
+    "ipa": "trˈuːθ"
+  },
+  {
+    "en": "lie",
+    "vn": "lời nói dối",
+    "ipa": "lˈaɪ"
+  },
+  {
+    "en": "promise",
+    "vn": "lời hứa",
+    "ipa": "prˈɑm̆ʌs"
+  },
+  {
+    "en": "secret",
+    "vn": "bí mật",
+    "ipa": "sˈiːkr̆ʌt"
+  },
+  {
+    "en": "surprise",
+    "vn": "sự ngạc nhiên",
+    "ipa": "s̆ɜːprˈaɪz"
+  },
+  {
+    "en": "shock",
+    "vn": "cú sốc",
+    "ipa": "ʃˈɑk"
+  },
+  {
+    "en": "fear",
+    "vn": "nỗi sợ",
+    "ipa": "fˈɪr"
+  },
+  {
+    "en": "anger",
+    "vn": "sự tức giận",
+    "ipa": "ˈæŋɡ̆ɜː"
+  },
+  {
+    "en": "sadness",
+    "vn": "nỗi buồn",
+    "ipa": "sˈædn̆ʌs"
+  },
+  {
+    "en": "happiness",
+    "vn": "niềm hạnh phúc",
+    "ipa": "hˈæp̆iːn̆ʌs"
+  },
+  {
+    "en": "joy",
+    "vn": "niềm vui",
+    "ipa": "dʒˈɔɪ"
+  },
+  {
+    "en": "hope",
+    "vn": "hy vọng",
+    "ipa": "hˈoʊp"
+  },
+  {
+    "en": "dream",
+    "vn": "giấc mơ",
+    "ipa": "drˈiːm"
+  },
+  {
+    "en": "nightmare",
+    "vn": "ác mộng",
+    "ipa": "nˈaɪtmˌɛr"
+  },
+  {
+    "en": "mind",
+    "vn": "tâm trí",
+    "ipa": "mˈaɪnd"
+  },
+  {
+    "en": "thought",
+    "vn": "suy nghĩ",
+    "ipa": "θˈɔt"
+  },
+  {
+    "en": "memory",
+    "vn": "trí nhớ",
+    "ipa": "mˈɛm̆ɜː̆iː"
+  },
+  {
+    "en": "idea",
+    "vn": "ý tưởng",
+    "ipa": "̆aɪdˈiː̆ʌ"
+  },
+  {
+    "en": "imagination",
+    "vn": "trí tưởng tượng",
+    "ipa": "ˌɪmˌædʒ̆ʌnˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "creativity",
+    "vn": "tính sáng tạo",
+    "ipa": "krˌiː̆eɪtˈɪv̆ʌt̆iː"
+  },
+  {
+    "en": "ability",
+    "vn": "khả năng",
+    "ipa": "̆ʌbˈɪl̆ʌtˌiː"
+  },
+  {
+    "en": "talent",
+    "vn": "tài năng",
+    "ipa": "tˈæl̆ʌnt"
+  },
+  {
+    "en": "skillful",
+    "vn": "khéo léo",
+    "ipa": "skˈɪlf̆ʌl"
+  },
+  {
+    "en": "clumsy",
+    "vn": "vụng về",
+    "ipa": "klˈʌmz̆iː"
+  },
+  {
+    "en": "smart",
+    "vn": "thông minh",
+    "ipa": "smˈɑrt"
+  },
+  {
+    "en": "clever",
+    "vn": "thông minh",
+    "ipa": "klˈɛv̆ɜː"
+  },
+  {
+    "en": "stupid",
+    "vn": "ngu ngốc",
+    "ipa": "stˈuːp̆ʌd"
+  },
+  {
+    "en": "foolish",
+    "vn": "khờ dại",
+    "ipa": "fˈuːl̆ɪʃ"
+  },
+  {
+    "en": "crazy",
+    "vn": "điên rồ",
+    "ipa": "krˈeɪz̆iː"
+  },
+  {
+    "en": "mad",
+    "vn": "điên",
+    "ipa": "mˈæd"
+  },
+  {
+    "en": "sane",
+    "vn": "tỉnh táo",
+    "ipa": "sˈeɪn"
+  },
+  {
+    "en": "drunk",
+    "vn": "say xỉn",
+    "ipa": "drˈʌŋk"
+  },
+  {
+    "en": "sober",
+    "vn": "tỉnh rượu",
+    "ipa": "sˈoʊb̆ɜː"
+  },
+  {
+    "en": "beautiful",
+    "vn": "đẹp",
+    "ipa": "bjˈuːt̆ʌf̆ʌl"
+  },
+  {
+    "en": "handsome",
+    "vn": "đẹp trai",
+    "ipa": "hˈæns̆ʌm"
+  },
+  {
+    "en": "ugly",
+    "vn": "xấu xí",
+    "ipa": "ˈʌɡl̆iː"
+  },
+  {
+    "en": "cute",
+    "vn": "dễ thương",
+    "ipa": "kjˈuːt"
+  },
+  {
+    "en": "pretty",
+    "vn": "xinh xắn",
+    "ipa": "prˈɪt̆iː"
+  },
+  {
+    "en": "attractive",
+    "vn": "hấp dẫn",
+    "ipa": "̆ʌtrˈækt̆ɪv"
+  },
+  {
+    "en": "charming",
+    "vn": "quyến rũ",
+    "ipa": "tʃˈɑrm̆ɪŋ"
+  },
+  {
+    "en": "elegant",
+    "vn": "thanh lịch",
+    "ipa": "ˈɛl̆ʌɡ̆ʌnt"
+  },
+  {
+    "en": "fashionable",
+    "vn": "hợp thời trang",
+    "ipa": "fˈæʃ̆ʌn̆ʌb̆ʌl"
+  },
+  {
+    "en": "stylish",
+    "vn": "sành điệu",
+    "ipa": "stˈaɪl̆ɪʃ"
+  },
+  {
+    "en": "clean",
+    "vn": "sạch sẽ",
+    "ipa": "klˈiːn"
+  },
+  {
+    "en": "dirty",
+    "vn": "bẩn",
+    "ipa": "dˈɜːt̆iː"
+  },
+  {
+    "en": "neat",
+    "vn": "gọn gàng",
+    "ipa": "nˈiːt"
+  },
+  {
+    "en": "messy",
+    "vn": "bừa bộn",
+    "ipa": "mˈɛs̆iː"
+  },
+  {
+    "en": "tidy",
+    "vn": "ngăn nắp",
+    "ipa": "tˈaɪd̆iː"
+  },
+  {
+    "en": "loud",
+    "vn": "ồn ào",
+    "ipa": "lˈaʊd"
+  },
+  {
+    "en": "quiet",
+    "vn": "yên tĩnh",
+    "ipa": "kwˈaɪ̆ʌt"
+  },
+  {
+    "en": "silent",
+    "vn": "im lặng",
+    "ipa": "sˈaɪl̆ʌnt"
+  },
+  {
+    "en": "noisy",
+    "vn": "náo nhiệt",
+    "ipa": "nˈɔɪz̆iː"
+  },
+  {
+    "en": "calm",
+    "vn": "bình tĩnh",
+    "ipa": "kˈɑm"
+  },
+  {
+    "en": "peaceful",
+    "vn": "thanh bình",
+    "ipa": "pˈiːsf̆ʌl"
+  },
+  {
+    "en": "violent",
+    "vn": "bạo lực",
+    "ipa": "vˈaɪ̆ʌl̆ʌnt"
+  },
+  {
+    "en": "gentle",
+    "vn": "nhẹ nhàng",
+    "ipa": "dʒˈɛnt̆ʌl"
+  },
+  {
+    "en": "rough",
+    "vn": "thô ráp",
+    "ipa": "rˈʌf"
+  },
+  {
+    "en": "smooth",
+    "vn": "mềm mại",
+    "ipa": "smˈuːð"
+  },
+  {
+    "en": "soft",
+    "vn": "mềm",
+    "ipa": "sˈɑft"
+  },
+  {
+    "en": "hard",
+    "vn": "cứng",
+    "ipa": "hˈɑrd"
+  },
+  {
+    "en": "heavy",
+    "vn": "nặng",
+    "ipa": "hˈɛv̆iː"
+  },
+  {
+    "en": "light",
+    "vn": "nhẹ",
+    "ipa": "lˈaɪt"
+  },
+  {
+    "en": "strong",
+    "vn": "mạnh mẽ",
+    "ipa": "strˈɔŋ"
+  },
+  {
+    "en": "weak",
+    "vn": "yếu ớt",
+    "ipa": "wˈiːk"
+  },
+  {
+    "en": "fast",
+    "vn": "nhanh",
+    "ipa": "fˈæst"
+  },
+  {
+    "en": "slow",
+    "vn": "chậm",
+    "ipa": "slˈoʊ"
+  },
+  {
+    "en": "quick",
+    "vn": "nhanh nhẹn",
+    "ipa": "kwˈɪk"
+  },
+  {
+    "en": "rapid",
+    "vn": "nhanh chóng",
+    "ipa": "rˈæp̆ʌd"
+  },
+  {
+    "en": "sudden",
+    "vn": "đột ngột",
+    "ipa": "sˈʌd̆ʌn"
+  },
+  {
+    "en": "gradual",
+    "vn": "dần dần",
+    "ipa": "ɡrˈædʒ̆uː̆ʌl"
+  },
+  {
+    "en": "frequent",
+    "vn": "thường xuyên",
+    "ipa": "frˈiːkw̆ʌnt"
+  },
+  {
+    "en": "rare",
+    "vn": "hiếm khi",
+    "ipa": "rˈɛr"
+  },
+  {
+    "en": "common",
+    "vn": "phổ biến",
+    "ipa": "kˈɑm̆ʌn"
+  },
+  {
+    "en": "usual",
+    "vn": "thông thường",
+    "ipa": "jˈuːʒ̆ʌw̆ʌl"
+  },
+  {
+    "en": "unusual",
+    "vn": "bất thường",
+    "ipa": "̆ʌnjˈuːʒˌuː̆ʌl"
+  },
+  {
+    "en": "normal",
+    "vn": "bình thường",
+    "ipa": "nˈɔrm̆ʌl"
+  },
+  {
+    "en": "strange",
+    "vn": "kỳ lạ",
+    "ipa": "strˈeɪndʒ"
+  },
+  {
+    "en": "weird",
+    "vn": "kỳ cục",
+    "ipa": "wˈɪrd"
+  },
+  {
+    "en": "odd",
+    "vn": "kỳ quặc",
+    "ipa": "ˈɑd"
+  },
+  {
+    "en": "familiar",
+    "vn": "quen thuộc",
+    "ipa": "f̆ʌmˈɪlj̆ɜː"
+  },
+  {
+    "en": "unknown",
+    "vn": "không xác định",
+    "ipa": "̆ʌnnˈoʊn"
+  },
+  {
+    "en": "famous",
+    "vn": "nổi tiếng",
+    "ipa": "fˈeɪm̆ʌs"
+  },
+  {
+    "en": "popular",
+    "vn": "được yêu thích",
+    "ipa": "pˈɑpj̆ʌl̆ɜː"
+  },
+  {
+    "en": "notorious",
+    "vn": "khét tiếng",
+    "ipa": "n̆oʊtˈɔr̆iː̆ʌs"
+  },
+  {
+    "en": "rich",
+    "vn": "giàu có",
+    "ipa": "rˈɪtʃ"
+  },
+  {
+    "en": "wealthy",
+    "vn": "thịnh vượng",
+    "ipa": "wˈɛlθ̆iː"
+  },
+  {
+    "en": "poor",
+    "vn": "nghèo",
+    "ipa": "pˈuːr"
+  },
+  {
+    "en": "broke",
+    "vn": "hết tiền",
+    "ipa": "brˈoʊk"
+  },
+  {
+    "en": "expensive",
+    "vn": "đắt đỏ",
+    "ipa": "̆ɪkspˈɛns̆ɪv"
+  },
+  {
+    "en": "cheap",
+    "vn": "rẻ",
+    "ipa": "tʃˈiːp"
+  },
+  {
+    "en": "affordable",
+    "vn": "phải chăng",
+    "ipa": "̆ʌfˈɔrd̆ʌb̆ʌl"
+  },
+  {
+    "en": "valuable",
+    "vn": "có giá trị",
+    "ipa": "vˈælj̆ʌb̆ʌl"
+  },
+  {
+    "en": "worthless",
+    "vn": "vô giá trị",
+    "ipa": "wˈɜːθl̆ʌs"
+  },
+  {
+    "en": "useful",
+    "vn": "hữu ích",
+    "ipa": "jˈuːsf̆ʌl"
+  },
+  {
+    "en": "useless",
+    "vn": "vô dụng",
+    "ipa": "jˈuːsl̆ʌs"
+  },
+  {
+    "en": "significant",
+    "vn": "đáng kể",
+    "ipa": "s̆ʌɡnˈɪf̆ɪk̆ʌnt"
+  },
+  {
+    "en": "minor",
+    "vn": "nhỏ nhặt",
+    "ipa": "mˈaɪn̆ɜː"
+  },
+  {
+    "en": "major",
+    "vn": "trọng đại",
+    "ipa": "mˈeɪdʒ̆ɜː"
+  },
+  {
+    "en": "essential",
+    "vn": "thiết yếu",
+    "ipa": "̆ɛsˈɛnʃ̆ʌl"
+  },
+  {
+    "en": "necessary",
+    "vn": "cần thiết",
+    "ipa": "nˈɛs̆ʌsˌɛr̆iː"
+  },
+  {
+    "en": "optional",
+    "vn": "tùy chọn",
+    "ipa": "ˈɑpʃ̆ʌn̆ʌl"
+  },
+  {
+    "en": "possible",
+    "vn": "có thể",
+    "ipa": "pˈɑs̆ʌb̆ʌl"
+  },
+  {
+    "en": "impossible",
+    "vn": "không thể",
+    "ipa": "ˌɪmpˈɑs̆ʌb̆ʌl"
+  },
+  {
+    "en": "probable",
+    "vn": "có khả năng",
+    "ipa": "prˈɑb̆ʌb̆ʌl"
+  },
+  {
+    "en": "likely",
+    "vn": "chắc hẳn",
+    "ipa": "lˈaɪkl̆iː"
+  },
+  {
+    "en": "unlikely",
+    "vn": "không chắc",
+    "ipa": "̆ʌnlˈaɪkl̆iː"
+  },
+  {
+    "en": "certain",
+    "vn": "chắc chắn",
+    "ipa": "sˈɜːt̆ʌn"
+  },
+  {
+    "en": "sure",
+    "vn": "chắc",
+    "ipa": "ʃˈʊr"
+  },
+  {
+    "en": "doubtful",
+    "vn": "đáng nghi",
+    "ipa": "dˈaʊtf̆ʌl"
+  },
+  {
+    "en": "true",
+    "vn": "đúng",
+    "ipa": "trˈuː"
+  },
+  {
+    "en": "false",
+    "vn": "sai",
+    "ipa": "fˈɔls"
+  },
+  {
+    "en": "correct",
+    "vn": "đúng",
+    "ipa": "k̆ɜːˈɛkt"
+  },
+  {
+    "en": "incorrect",
+    "vn": "không chính xác",
+    "ipa": "ˌɪnk̆ɜːˈɛkt"
+  },
+  {
+    "en": "exact",
+    "vn": "tuyệt đối",
+    "ipa": "̆ɪɡzˈækt"
+  },
+  {
+    "en": "perfect",
+    "vn": "hoàn hảo",
+    "ipa": "p̆ɜːfˈɛkt"
+  },
+  {
+    "en": "flawed",
+    "vn": "có lỗi",
+    "ipa": "flˈɔd"
+  },
+  {
+    "en": "excellent",
+    "vn": "xuất sắc",
+    "ipa": "ˈɛks̆ʌl̆ʌnt"
+  },
+  {
+    "en": "terrible",
+    "vn": "tồi tệ",
+    "ipa": "tˈɛr̆ʌb̆ʌl"
+  },
+  {
+    "en": "awful",
+    "vn": "khủng khiếp",
+    "ipa": "ˈɑf̆ʌl"
+  },
+  {
+    "en": "horrible",
+    "vn": "đáng sợ",
+    "ipa": "hˈɔr̆ʌb̆ʌl"
+  },
+  {
+    "en": "wonderful",
+    "vn": "tuyệt diệu",
+    "ipa": "wˈʌnd̆ɜːf̆ʌl"
+  },
+  {
+    "en": "fantastic",
+    "vn": "tuyệt trần",
+    "ipa": "f̆æntˈæst̆ɪk"
+  },
+  {
+    "en": "amazing",
+    "vn": "đáng kinh ngạc",
+    "ipa": "̆ʌmˈeɪz̆ɪŋ"
+  },
+  {
+    "en": "awesome",
+    "vn": "cực kỳ tuyệt",
+    "ipa": "ˈɑs̆ʌm"
+  },
+  {
+    "en": "interesting",
+    "vn": "thú vị",
+    "ipa": "ˈɪntr̆ʌst̆ɪŋ"
+  },
+  {
+    "en": "boring",
+    "vn": "nhàm chán",
+    "ipa": "bˈɔr̆ɪŋ"
+  },
+  {
+    "en": "exciting",
+    "vn": "hứng thú",
+    "ipa": "̆ɪksˈaɪt̆ɪŋ"
+  },
+  {
+    "en": "dull",
+    "vn": "tẻ nhạt",
+    "ipa": "dˈʌl"
+  },
+  {
+    "en": "funny",
+    "vn": "buồn cười",
+    "ipa": "fˈʌn̆iː"
+  },
+  {
+    "en": "serious",
+    "vn": "nghiêm túc",
+    "ipa": "sˈɪr̆iː̆ʌs"
+  },
+  {
+    "en": "silly",
+    "vn": "ngớ ngẩn",
+    "ipa": "sˈɪl̆iː"
+  },
+  {
+    "en": "joke",
+    "vn": "trò đùa",
+    "ipa": "dʒˈoʊk"
+  },
+  {
+    "en": "laugh",
+    "vn": "cười",
+    "ipa": "lˈæf"
+  },
+  {
+    "en": "smile",
+    "vn": "mỉm cười",
+    "ipa": "smˈaɪl"
+  },
+  {
+    "en": "cry",
+    "vn": "khóc",
+    "ipa": "krˈaɪ"
+  },
+  {
+    "en": "weep",
+    "vn": "khóc lóc",
+    "ipa": "wˈiːp"
+  },
+  {
+    "en": "shout",
+    "vn": "hét",
+    "ipa": "ʃˈaʊt"
+  },
+  {
+    "en": "scream",
+    "vn": "la hét",
+    "ipa": "skrˈiːm"
+  },
+  {
+    "en": "whisper",
+    "vn": "thì thầm",
+    "ipa": "wˈɪsp̆ɜː"
+  },
+  {
+    "en": "speak",
+    "vn": "nói",
+    "ipa": "spˈiːk"
+  },
+  {
+    "en": "talk",
+    "vn": "nói chuyện",
+    "ipa": "tˈɔk"
+  },
+  {
+    "en": "chat",
+    "vn": "tán gẫu",
+    "ipa": "tʃˈæt"
+  },
+  {
+    "en": "discuss",
+    "vn": "thảo luận",
+    "ipa": "d̆ɪskˈʌs"
+  },
+  {
+    "en": "argue",
+    "vn": "tranh luận",
+    "ipa": "ˈɑrɡj̆uː"
+  },
+  {
+    "en": "fight",
+    "vn": "đánh nhau",
+    "ipa": "fˈaɪt"
+  },
+  {
+    "en": "agree",
+    "vn": "đồng ý",
+    "ipa": "̆ʌɡrˈiː"
+  },
+  {
+    "en": "disagree",
+    "vn": "không đồng ý",
+    "ipa": "d̆ɪs̆ʌɡrˈiː"
+  },
+  {
+    "en": "accept",
+    "vn": "chấp nhận",
+    "ipa": "̆æksˈɛpt"
+  },
+  {
+    "en": "refuse",
+    "vn": "từ chối",
+    "ipa": "r̆ʌfjˈuːz"
+  },
+  {
+    "en": "deny",
+    "vn": "phủ nhận",
+    "ipa": "d̆ɪnˈaɪ"
+  },
+  {
+    "en": "admit",
+    "vn": "thừa nhận",
+    "ipa": "̆ʌdmˈɪt"
+  },
+  {
+    "en": "confess",
+    "vn": "thú nhận",
+    "ipa": "k̆ʌnfˈɛs"
+  },
+  {
+    "en": "apologize",
+    "vn": "xin lỗi",
+    "ipa": "̆ʌpˈɑl̆ʌdʒˌaɪz"
+  },
+  {
+    "en": "forgive",
+    "vn": "tha thứ",
+    "ipa": "f̆ɜːɡˈɪv"
+  },
+  {
+    "en": "blame",
+    "vn": "đổ lỗi",
+    "ipa": "blˈeɪm"
+  },
+  {
+    "en": "praise",
+    "vn": "khen ngợi",
+    "ipa": "prˈeɪz"
+  },
+  {
+    "en": "compliment",
+    "vn": "lời khen",
+    "ipa": "kˈɑmpl̆ʌm̆ɛnt"
+  },
+  {
+    "en": "criticize",
+    "vn": "phê bình",
+    "ipa": "krˈɪt̆ɪsˌaɪz"
+  },
+  {
+    "en": "complain",
+    "vn": "phàn nàn",
+    "ipa": "k̆ʌmplˈeɪn"
+  },
+  {
+    "en": "suggest",
+    "vn": "đề nghị",
+    "ipa": "s̆ʌdʒˈɛst"
+  },
+  {
+    "en": "recommend",
+    "vn": "giới thiệu",
+    "ipa": "rˌɛk̆ʌmˈɛnd"
+  },
+  {
+    "en": "advise",
+    "vn": "khuyên",
+    "ipa": "̆ædvˈaɪz"
+  },
+  {
+    "en": "warn",
+    "vn": "cảnh báo",
+    "ipa": "wˈɔrn"
+  },
+  {
+    "en": "threaten",
+    "vn": "đe dọa",
+    "ipa": "θrˈɛt̆ʌn"
+  },
+  {
+    "en": "swear",
+    "vn": "thề",
+    "ipa": "swˈɛr"
+  },
+  {
+    "en": "invite",
+    "vn": "mời",
+    "ipa": "ˌɪnvˈaɪt"
+  },
+  {
+    "en": "welcome",
+    "vn": "chào mừng",
+    "ipa": "wˈɛlk̆ʌm"
+  },
+  {
+    "en": "greet",
+    "vn": "chào hỏi",
+    "ipa": "ɡrˈiːt"
+  },
+  {
+    "en": "introduce",
+    "vn": "giới thiệu",
+    "ipa": "ˌɪntr̆ʌdˈuːs"
+  },
+  {
+    "en": "meet",
+    "vn": "gặp gỡ",
+    "ipa": "mˈiːt"
+  },
+  {
+    "en": "return",
+    "vn": "trở về",
+    "ipa": "r̆ɪtˈɜːn"
+  },
+  {
+    "en": "reach",
+    "vn": "vươn tới",
+    "ipa": "rˈiːtʃ"
+  },
+  {
+    "en": "enter",
+    "vn": "đi vào",
+    "ipa": "ˈɛnt̆ɜː"
+  },
+  {
+    "en": "exit",
+    "vn": "lối ra",
+    "ipa": "ˈɛɡz̆ɪt"
+  },
+  {
+    "en": "open",
+    "vn": "mở",
+    "ipa": "ˈoʊp̆ʌn"
+  },
+  {
+    "en": "close",
+    "vn": "đóng",
+    "ipa": "klˈoʊs"
+  },
+  {
+    "en": "shut",
+    "vn": "sập",
+    "ipa": "ʃˈʌt"
+  },
+  {
+    "en": "lock",
+    "vn": "khóa",
+    "ipa": "lˈɑk"
+  },
+  {
+    "en": "unlock",
+    "vn": "mở khóa",
+    "ipa": "̆ʌnlˈɑk"
+  },
+  {
+    "en": "turn on",
+    "vn": "bật",
+    "ipa": "tˈɜːn ˈɑn"
+  },
+  {
+    "en": "turn off",
+    "vn": "tắt",
+    "ipa": "tˈɜːn ˈɔf"
+  },
+  {
+    "en": "start",
+    "vn": "bắt đầu",
+    "ipa": "stˈɑrt"
+  },
+  {
+    "en": "begin",
+    "vn": "bắt đầu",
+    "ipa": "b̆ɪɡˈɪn"
+  },
+  {
+    "en": "end",
+    "vn": "kết thúc",
+    "ipa": "ˈɛnd"
+  },
+  {
+    "en": "finish",
+    "vn": "hoàn thành",
+    "ipa": "fˈɪn̆ɪʃ"
+  },
+  {
+    "en": "stop",
+    "vn": "dừng",
+    "ipa": "stˈɑp"
+  },
+  {
+    "en": "quit",
+    "vn": "từ bỏ",
+    "ipa": "kwˈɪt"
+  },
+  {
+    "en": "continue",
+    "vn": "tiếp tục",
+    "ipa": "k̆ʌntˈɪnj̆uː"
+  },
+  {
+    "en": "resume",
+    "vn": "bắt đầu lại",
+    "ipa": "r̆ɪzˈuːm"
+  },
+  {
+    "en": "pause",
+    "vn": "tạm dừng",
+    "ipa": "pˈɔz"
+  },
+  {
+    "en": "play",
+    "vn": "chơi",
+    "ipa": "plˈeɪ"
+  },
+  {
+    "en": "rest",
+    "vn": "nghỉ ngơi",
+    "ipa": "rˈɛst"
+  },
+  {
+    "en": "sleep",
+    "vn": "ngủ",
+    "ipa": "slˈiːp"
+  },
+  {
+    "en": "wake",
+    "vn": "thức dậy",
+    "ipa": "wˈeɪk"
+  },
+  {
+    "en": "get up",
+    "vn": "đứng lên",
+    "ipa": "ɡˈɛt ˈʌp"
+  },
+  {
+    "en": "sit",
+    "vn": "ngồi",
+    "ipa": "sˈɪt"
+  },
+  {
+    "en": "stand",
+    "vn": "đứng",
+    "ipa": "stˈænd"
+  },
+  {
+    "en": "walk",
+    "vn": "đi bộ",
+    "ipa": "wˈɔk"
+  },
+  {
+    "en": "run",
+    "vn": "chạy",
+    "ipa": "rˈʌn"
+  },
+  {
+    "en": "jump",
+    "vn": "nhảy",
+    "ipa": "dʒˈʌmp"
+  },
+  {
+    "en": "hop",
+    "vn": "nhảy lò cò",
+    "ipa": "hˈɑp"
+  },
+  {
+    "en": "skip",
+    "vn": "bỏ qua",
+    "ipa": "skˈɪp"
+  },
+  {
+    "en": "climb",
+    "vn": "leo núi",
+    "ipa": "klˈaɪm"
+  },
+  {
+    "en": "fall",
+    "vn": "rơi",
+    "ipa": "fˈɔl"
+  },
+  {
+    "en": "drop",
+    "vn": "đánh rơi",
+    "ipa": "drˈɑp"
+  },
+  {
+    "en": "throw",
+    "vn": "ném",
+    "ipa": "θrˈoʊ"
+  },
+  {
+    "en": "catch",
+    "vn": "bắt",
+    "ipa": "kˈætʃ"
+  },
+  {
+    "en": "hit",
+    "vn": "đánh",
+    "ipa": "hˈɪt"
+  },
+  {
+    "en": "kick",
+    "vn": "đá",
+    "ipa": "kˈɪk"
+  },
+  {
+    "en": "punch",
+    "vn": "đấm",
+    "ipa": "pˈʌntʃ"
+  },
+  {
+    "en": "push",
+    "vn": "đẩy",
+    "ipa": "pˈʊʃ"
+  },
+  {
+    "en": "pull",
+    "vn": "kéo",
+    "ipa": "pˈʊl"
+  },
+  {
+    "en": "drag",
+    "vn": "lôi",
+    "ipa": "drˈæɡ"
+  },
+  {
+    "en": "lift",
+    "vn": "nâng",
+    "ipa": "lˈɪft"
+  },
+  {
+    "en": "carry",
+    "vn": "mang",
+    "ipa": "kˈær̆iː"
+  },
+  {
+    "en": "hold",
+    "vn": "cầm",
+    "ipa": "hˈoʊld"
+  },
+  {
+    "en": "touch",
+    "vn": "chạm",
+    "ipa": "tˈʌtʃ"
+  },
+  {
+    "en": "taste",
+    "vn": "nếm",
+    "ipa": "tˈeɪst"
+  },
+  {
+    "en": "smell",
+    "vn": "ngửi",
+    "ipa": "smˈɛl"
+  },
+  {
+    "en": "hear",
+    "vn": "nghe",
+    "ipa": "hˈiːr"
+  },
+  {
+    "en": "listen",
+    "vn": "lắng nghe",
+    "ipa": "lˈɪs̆ʌn"
+  },
+  {
+    "en": "observe",
+    "vn": "quan sát",
+    "ipa": "̆ʌbzˈɜːv"
+  },
+  {
+    "en": "notice",
+    "vn": "chú ý",
+    "ipa": "nˈoʊt̆ʌs"
+  },
+  {
+    "en": "ignore",
+    "vn": "phớt lờ",
+    "ipa": "ˌɪɡnˈɔr"
+  },
+  {
+    "en": "search",
+    "vn": "tìm kiếm",
+    "ipa": "sˈɜːtʃ"
+  },
+  {
+    "en": "hide",
+    "vn": "giấu",
+    "ipa": "hˈaɪd"
+  },
+  {
+    "en": "reveal",
+    "vn": "tiết lộ",
+    "ipa": "r̆ɪvˈiːl"
+  },
+  {
+    "en": "display",
+    "vn": "hiển thị",
+    "ipa": "d̆ɪsplˈeɪ"
+  },
+  {
+    "en": "cover",
+    "vn": "che phủ",
+    "ipa": "kˈʌv̆ɜː"
+  },
+  {
+    "en": "uncover",
+    "vn": "mở ra",
+    "ipa": "̆ʌnkˈʌv̆ɜː"
+  },
+  {
+    "en": "wrap",
+    "vn": "gói",
+    "ipa": "rˈæp"
+  },
+  {
+    "en": "unwrap",
+    "vn": "mở gói",
+    "ipa": "̆ʌnrˈæp"
+  },
+  {
+    "en": "unpack",
+    "vn": "mở hành lý",
+    "ipa": "̆ʌnpˈæk"
+  },
+  {
+    "en": "build",
+    "vn": "xây dựng",
+    "ipa": "bˈɪld"
+  },
+  {
+    "en": "create",
+    "vn": "tạo ra",
+    "ipa": "kr̆iːˈeɪt"
+  },
+  {
+    "en": "design",
+    "vn": "thiết kế",
+    "ipa": "d̆ɪzˈaɪn"
+  },
+  {
+    "en": "invent",
+    "vn": "phát minh",
+    "ipa": "ˌɪnvˈɛnt"
+  },
+  {
+    "en": "repair",
+    "vn": "sửa chữa",
+    "ipa": "r̆ɪpˈɛr"
+  },
+  {
+    "en": "fix",
+    "vn": "cố định",
+    "ipa": "fˈɪks"
+  },
+  {
+    "en": "break",
+    "vn": "phá vỡ",
+    "ipa": "brˈeɪk"
+  },
+  {
+    "en": "damage",
+    "vn": "thiệt hại",
+    "ipa": "dˈæm̆ʌdʒ"
+  },
+  {
+    "en": "hurt",
+    "vn": "làm đau",
+    "ipa": "hˈɜːt"
+  },
+  {
+    "en": "injure",
+    "vn": "gây thương tích",
+    "ipa": "ˈɪndʒ̆ɜː"
+  },
+  {
+    "en": "heal",
+    "vn": "chữa lành",
+    "ipa": "hˈiːl"
+  },
+  {
+    "en": "cure",
+    "vn": "chữa trị",
+    "ipa": "kjˈʊr"
+  },
+  {
+    "en": "treat",
+    "vn": "đối xử",
+    "ipa": "trˈiːt"
+  },
+  {
+    "en": "kill",
+    "vn": "giết",
+    "ipa": "kˈɪl"
+  },
+  {
+    "en": "die",
+    "vn": "chết",
+    "ipa": "dˈaɪ"
+  },
+  {
+    "en": "survive",
+    "vn": "sống sót",
+    "ipa": "s̆ɜːvˈaɪv"
+  },
+  {
+    "en": "live",
+    "vn": "sống",
+    "ipa": "lˈaɪv"
+  },
+  {
+    "en": "exist",
+    "vn": "tồn tại",
+    "ipa": "̆ɪɡzˈɪst"
+  },
+  {
+    "en": "breathe",
+    "vn": "thở",
+    "ipa": "brˈiːð"
+  },
+  {
+    "en": "grow",
+    "vn": "phát triển",
+    "ipa": "ɡrˈoʊ"
+  },
+  {
+    "en": "change",
+    "vn": "thay đổi",
+    "ipa": "tʃˈeɪndʒ"
+  },
+  {
+    "en": "stay_same",
+    "vn": "giữ nguyên",
+    "ipa": "stˈeɪ sˈeɪm"
+  },
+  {
+    "en": "increase",
+    "vn": "tăng",
+    "ipa": "ˌɪnkrˈiːs"
+  },
+  {
+    "en": "decrease",
+    "vn": "giảm",
+    "ipa": "d̆ɪkrˈiːs"
+  },
+  {
+    "en": "add",
+    "vn": "thêm",
+    "ipa": "ˈæd"
+  },
+  {
+    "en": "subtract",
+    "vn": "trừ",
+    "ipa": "s̆ʌbtrˈækt"
+  },
+  {
+    "en": "multiply",
+    "vn": "nhân",
+    "ipa": "mˈʌlt̆ʌplˌaɪ"
+  },
+  {
+    "en": "divide",
+    "vn": "chia",
+    "ipa": "d̆ɪvˈaɪd"
+  },
+  {
+    "en": "measure",
+    "vn": "đo lường",
+    "ipa": "mˈɛʒ̆ɜː"
+  },
+  {
+    "en": "weigh",
+    "vn": "cân",
+    "ipa": "wˈeɪ"
+  },
+  {
+    "en": "count",
+    "vn": "đếm",
+    "ipa": "kˈaʊnt"
+  },
+  {
+    "en": "calculate",
+    "vn": "tính toán",
+    "ipa": "kˈælkj̆ʌlˌeɪt"
+  },
+  {
+    "en": "estimate",
+    "vn": "ước lượng",
+    "ipa": "ˈɛst̆ʌm̆ʌt"
+  },
+  {
+    "en": "guess",
+    "vn": "đoán",
+    "ipa": "ɡˈɛs"
+  },
+  {
+    "en": "realize",
+    "vn": "nhận ra",
+    "ipa": "rˈiː̆ʌlˌaɪz"
+  },
+  {
+    "en": "recognize",
+    "vn": "nhận diện",
+    "ipa": "rˈɛk̆ʌɡnˌaɪz"
+  },
+  {
+    "en": "remind",
+    "vn": "nhắc nhở",
+    "ipa": "r̆iːmˈaɪnd"
+  },
+  {
+    "en": "teach",
+    "vn": "dạy",
+    "ipa": "tˈiːtʃ"
+  },
+  {
+    "en": "educate",
+    "vn": "giáo dục",
+    "ipa": "ˈɛdʒ̆ʌkˌeɪt"
+  },
+  {
+    "en": "practice",
+    "vn": "thực hành",
+    "ipa": "prˈækt̆ʌs"
+  },
+  {
+    "en": "examine",
+    "vn": "khảo sát",
+    "ipa": "̆ɪɡzˈæm̆ɪn"
+  },
+  {
+    "en": "evaluate",
+    "vn": "đánh giá",
+    "ipa": "̆ɪvˈælj̆uːˌeɪt"
+  },
+  {
+    "en": "compare",
+    "vn": "so sánh",
+    "ipa": "k̆ʌmpˈɛr"
+  },
+  {
+    "en": "contrast",
+    "vn": "tương phản",
+    "ipa": "kˈɑntr̆æst"
+  },
+  {
+    "en": "prefer",
+    "vn": "thích hơn",
+    "ipa": "pr̆ʌfˈɜː"
+  },
+  {
+    "en": "choose",
+    "vn": "chọn",
+    "ipa": "tʃˈuːz"
+  },
+  {
+    "en": "select",
+    "vn": "tuyển chọn",
+    "ipa": "s̆ʌlˈɛkt"
+  },
+  {
+    "en": "pick",
+    "vn": "nhặt",
+    "ipa": "pˈɪk"
+  },
+  {
+    "en": "decide",
+    "vn": "quyết định",
+    "ipa": "dˌɪsˈaɪd"
+  },
+  {
+    "en": "organize",
+    "vn": "tổ chức",
+    "ipa": "ˈɔrɡ̆ʌnˌaɪz"
+  },
+  {
+    "en": "arrange",
+    "vn": "sắp xếp",
+    "ipa": "̆ɜːˈeɪndʒ"
+  },
+  {
+    "en": "prepare",
+    "vn": "chuẩn bị",
+    "ipa": "pr̆iːpˈɛr"
+  },
+  {
+    "en": "ready",
+    "vn": "sẵn sàng",
+    "ipa": "rˈɛd̆iː"
+  },
+  {
+    "en": "unready",
+    "vn": "chưa sẵn sàng",
+    "ipa": "ʌn ˈrɛdi"
+  },
+  {
+    "en": "wait",
+    "vn": "chờ đợi",
+    "ipa": "wˈeɪt"
+  },
+  {
+    "en": "expect",
+    "vn": "mong đợi",
+    "ipa": "̆ɪkspˈɛkt"
+  },
+  {
+    "en": "wish",
+    "vn": "ước",
+    "ipa": "wˈɪʃ"
+  },
+  {
+    "en": "need",
+    "vn": "cần",
+    "ipa": "nˈiːd"
+  },
+  {
+    "en": "require",
+    "vn": "yêu cầu",
+    "ipa": "rˌiːkwˈaɪ̆ɜː"
+  },
+  {
+    "en": "demand",
+    "vn": "nhu cầu",
+    "ipa": "d̆ɪmˈænd"
+  },
+  {
+    "en": "inquire",
+    "vn": "thăm dò",
+    "ipa": "ˌɪnkwˈaɪr"
+  },
+  {
+    "en": "request",
+    "vn": "thỉnh cầu",
+    "ipa": "r̆ɪkwˈɛst"
+  },
+  {
+    "en": "beg",
+    "vn": "cầu xin",
+    "ipa": "bˈɛɡ"
+  },
+  {
+    "en": "offer",
+    "vn": "đề nghị",
+    "ipa": "ˈɔf̆ɜː"
+  },
+  {
+    "en": "provide",
+    "vn": "cung cấp",
+    "ipa": "pr̆ʌvˈaɪd"
+  },
+  {
+    "en": "supply",
+    "vn": "cung ứng",
+    "ipa": "s̆ʌplˈaɪ"
+  },
+  {
+    "en": "receive",
+    "vn": "nhận",
+    "ipa": "r̆ʌsˈiːv"
+  },
+  {
+    "en": "reject",
+    "vn": "bác bỏ",
+    "ipa": "r̆ɪdʒˈɛkt"
+  },
+  {
+    "en": "punish",
+    "vn": "trừng phạt",
+    "ipa": "pˈʌn̆ɪʃ"
+  },
+  {
+    "en": "reward",
+    "vn": "khen thưởng",
+    "ipa": "r̆ɪwˈɔrd"
+  },
+  {
+    "en": "charge",
+    "vn": "tính phí, chỉ đạo",
+    "ipa": "tʃˈɑrdʒ"
+  },
+  {
+    "en": "rent",
+    "vn": "thuê",
+    "ipa": "rˈɛnt"
+  },
+  {
+    "en": "lease",
+    "vn": "cho thuê",
+    "ipa": "lˈiːs"
+  },
+  {
+    "en": "hire",
+    "vn": "thuê mướn",
+    "ipa": "hˈaɪ̆ɜː"
+  },
+  {
+    "en": "fail",
+    "vn": "thất bại",
+    "ipa": "fˈeɪl"
+  },
+  {
+    "en": "succeed",
+    "vn": "thành công",
+    "ipa": "s̆ʌksˈiːd"
+  },
+  {
+    "en": "attempt",
+    "vn": "nỗ lực",
+    "ipa": "̆ʌtˈɛmpt"
+  },
+  {
+    "en": "effort",
+    "vn": "nỗ lực",
+    "ipa": "ˈɛf̆ɜːt"
+  },
+  {
+    "en": "struggle",
+    "vn": "đấu tranh",
+    "ipa": "strˈʌɡ̆ʌl"
+  },
+  {
+    "en": "overcome",
+    "vn": "vượt qua",
+    "ipa": "ˈoʊv̆ɜːkˌʌm"
+  },
+  {
+    "en": "achieve",
+    "vn": "đạt được",
+    "ipa": "̆ʌtʃˈiːv"
+  },
+  {
+    "en": "move",
+    "vn": "di chuyển",
+    "ipa": "mˈuːv"
+  },
+  {
+    "en": "turn",
+    "vn": "rẽ",
+    "ipa": "tˈɜːn"
+  },
+  {
+    "en": "straight",
+    "vn": "thẳng",
+    "ipa": "strˈeɪt"
+  },
+  {
+    "en": "left",
+    "vn": "trái",
+    "ipa": "lˈɛft"
+  },
+  {
+    "en": "down",
+    "vn": "dưới",
+    "ipa": "dˈaʊn"
+  },
+  {
+    "en": "forward",
+    "vn": "phía trước",
+    "ipa": "fˈɔrw̆ɜːd"
+  },
+  {
+    "en": "backward",
+    "vn": "lùi",
+    "ipa": "bˈækw̆ɜːd"
+  },
+  {
+    "en": "out",
+    "vn": "ra",
+    "ipa": "ˈaʊt"
+  },
+  {
+    "en": "inside",
+    "vn": "bên trong",
+    "ipa": "ˌɪnsˈaɪd"
+  },
+  {
+    "en": "outside",
+    "vn": "bên ngoài",
+    "ipa": "ˈaʊtsˈaɪd"
+  },
+  {
+    "en": "here",
+    "vn": "ở đây",
+    "ipa": "hˈiːr"
+  },
+  {
+    "en": "near",
+    "vn": "gần",
+    "ipa": "nˈɪr"
+  },
+  {
+    "en": "far",
+    "vn": "xa",
+    "ipa": "fˈɑr"
+  },
+  {
+    "en": "distant",
+    "vn": "cách xa",
+    "ipa": "dˈɪst̆ʌnt"
+  },
+  {
+    "en": "low",
+    "vn": "thấp",
+    "ipa": "lˈoʊ"
+  },
+  {
+    "en": "deep",
+    "vn": "sâu",
+    "ipa": "dˈiːp"
+  },
+  {
+    "en": "shallow",
+    "vn": "nông",
+    "ipa": "ʃˈæl̆oʊ"
+  },
+  {
+    "en": "wide",
+    "vn": "rộng",
+    "ipa": "wˈaɪd"
+  },
+  {
+    "en": "narrow",
+    "vn": "hẹp",
+    "ipa": "nˈɛr̆oʊ"
+  },
+  {
+    "en": "thick",
+    "vn": "dày",
+    "ipa": "θˈɪk"
+  },
+  {
+    "en": "thin",
+    "vn": "mỏng",
+    "ipa": "θˈɪn"
+  },
+  {
+    "en": "short",
+    "vn": "ngắn",
+    "ipa": "ʃˈɔrt"
+  },
+  {
+    "en": "tall",
+    "vn": "cao",
+    "ipa": "tˈɔl"
+  },
+  {
+    "en": "tiny",
+    "vn": "bé xíu",
+    "ipa": "tˈaɪn̆iː"
+  },
+  {
+    "en": "huge",
+    "vn": "khổng lồ",
+    "ipa": "hjˈuːdʒ"
+  },
+  {
+    "en": "giant",
+    "vn": "to lớn",
+    "ipa": "dʒˈaɪ̆ʌnt"
+  },
+  {
+    "en": "empty",
+    "vn": "trống",
+    "ipa": "ˈɛmpt̆iː"
+  },
+  {
+    "en": "full",
+    "vn": "đầy",
+    "ipa": "fˈʊl"
+  },
+  {
+    "en": "crowded",
+    "vn": "đông đúc",
+    "ipa": "krˈaʊd̆ʌd"
+  },
+  {
+    "en": "easy",
+    "vn": "dễ dàng",
+    "ipa": "ˈiːz̆iː"
+  },
+  {
+    "en": "simple",
+    "vn": "đơn giản",
+    "ipa": "sˈɪmp̆ʌl"
+  },
+  {
+    "en": "complex",
+    "vn": "phức tạp",
+    "ipa": "kˈɑmpl̆ɛks"
+  },
+  {
+    "en": "difficult",
+    "vn": "khó khăn",
+    "ipa": "dˈɪf̆ʌk̆ʌlt"
+  },
+  {
+    "en": "safe",
+    "vn": "an toàn",
+    "ipa": "sˈeɪf"
+  },
+  {
+    "en": "dangerous",
+    "vn": "nguy hiểm",
+    "ipa": "dˈeɪndʒ̆ɜː̆ʌs"
+  },
+  {
+    "en": "secure",
+    "vn": "bảo mật",
+    "ipa": "s̆ɪkjˈʊr"
+  },
+  {
+    "en": "risky",
+    "vn": "rủi ro",
+    "ipa": "rˈɪsk̆iː"
+  },
+  {
+    "en": "plain",
+    "vn": "trơn",
+    "ipa": "plˈeɪn"
+  },
+  {
+    "en": "fancy",
+    "vn": "sang trọng",
+    "ipa": "fˈæns̆iː"
+  },
+  {
+    "en": "wrong",
+    "vn": "sai",
+    "ipa": "rˈɔŋ"
+  },
+  {
+    "en": "real",
+    "vn": "thực tế",
+    "ipa": "rˈiːl"
+  },
+  {
+    "en": "fake",
+    "vn": "giả mạo",
+    "ipa": "fˈeɪk"
+  },
+  {
+    "en": "genuine",
+    "vn": "chân thật",
+    "ipa": "dʒˈɛnj̆ʌw̆ʌn"
+  },
+  {
+    "en": "artificial",
+    "vn": "nhân tạo",
+    "ipa": "ˌɑrt̆ʌfˈɪʃ̆ʌl"
+  },
+  {
+    "en": "natural",
+    "vn": "tự nhiên",
+    "ipa": "nˈætʃ̆ɜː̆ʌl"
+  },
+  {
+    "en": "ancient",
+    "vn": "cổ đại",
+    "ipa": "ˈeɪntʃ̆ʌnt"
+  },
+  {
+    "en": "modern",
+    "vn": "hiện đại",
+    "ipa": "mˈɑd̆ɜːn"
+  },
+  {
+    "en": "recent",
+    "vn": "gần đây",
+    "ipa": "rˈiːs̆ʌnt"
+  },
+  {
+    "en": "past",
+    "vn": "quá khứ",
+    "ipa": "pˈæst"
+  },
+  {
+    "en": "present",
+    "vn": "hiện tại",
+    "ipa": "prˈɛz̆ʌnt"
+  },
+  {
+    "en": "future",
+    "vn": "tương lai",
+    "ipa": "fjˈuːtʃ̆ɜː"
+  },
+  {
+    "en": "late",
+    "vn": "muộn",
+    "ipa": "lˈeɪt"
+  },
+  {
+    "en": "punctual",
+    "vn": "đúng giờ",
+    "ipa": "pˈʌŋktʃ̆uː̆ʌl"
+  },
+  {
+    "en": "delayed",
+    "vn": "bị trì hoãn",
+    "ipa": "d̆ɪlˈeɪd"
+  },
+  {
+    "en": "private",
+    "vn": "riêng tư",
+    "ipa": "prˈaɪv̆ʌt"
+  },
+  {
+    "en": "closed",
+    "vn": "đóng",
+    "ipa": "klˈoʊzd"
+  },
+  {
+    "en": "locked",
+    "vn": "bị khóa",
+    "ipa": "lˈɑkt"
+  },
+  {
+    "en": "unlocked",
+    "vn": "mở khóa",
+    "ipa": "̆ʌnlˈɑkt"
+  },
+  {
+    "en": "available",
+    "vn": "có sẵn",
+    "ipa": "̆ʌvˈeɪl̆ʌb̆ʌl"
+  },
+  {
+    "en": "unavailable",
+    "vn": "không có sẵn",
+    "ipa": "ˌʌn̆ʌvˈeɪl̆ʌb̆ʌl"
+  },
+  {
+    "en": "prepared",
+    "vn": "được chuẩn bị",
+    "ipa": "pr̆iːpˈɛrd"
+  },
+  {
+    "en": "finished",
+    "vn": "đã xong",
+    "ipa": "fˈɪn̆ɪʃt"
+  },
+  {
+    "en": "incomplete",
+    "vn": "chưa hoàn thiện",
+    "ipa": "ˌɪnk̆ʌmplˈiːt"
+  },
+  {
+    "en": "complete",
+    "vn": "hoàn thành",
+    "ipa": "k̆ʌmplˈiːt"
+  },
+  {
+    "en": "partial",
+    "vn": "một phần",
+    "ipa": "pˈɑrʃ̆ʌl"
+  },
+  {
+    "en": "whole",
+    "vn": "toàn bộ",
+    "ipa": "hˈoʊl"
+  },
+  {
+    "en": "half",
+    "vn": "một nửa",
+    "ipa": "hˈæf"
+  },
+  {
+    "en": "quarter",
+    "vn": "một phần tư",
+    "ipa": "kwˈɔrt̆ɜː"
+  },
+  {
+    "en": "some",
+    "vn": "một vài",
+    "ipa": "sˈʌm"
+  },
+  {
+    "en": "many",
+    "vn": "nhiều",
+    "ipa": "mˈɛn̆iː"
+  },
+  {
+    "en": "much",
+    "vn": "nhiều",
+    "ipa": "mˈʌtʃ"
+  },
+  {
+    "en": "more",
+    "vn": "thêm",
+    "ipa": "mˈɔr"
+  },
+  {
+    "en": "less",
+    "vn": "kém",
+    "ipa": "lˈɛs"
+  },
+  {
+    "en": "most",
+    "vn": "hầu hết",
+    "ipa": "mˈoʊst"
+  },
+  {
+    "en": "least",
+    "vn": "ít nhất",
+    "ipa": "lˈiːst"
+  },
+  {
+    "en": "enough",
+    "vn": "đủ",
+    "ipa": "̆ɪnˈʌf"
+  },
+  {
+    "en": "too",
+    "vn": "quá",
+    "ipa": "tˈuː"
+  },
+  {
+    "en": "very",
+    "vn": "rất",
+    "ipa": "vˈɛr̆iː"
+  },
+  {
+    "en": "extremely",
+    "vn": "vô cùng",
+    "ipa": "̆ɛkstrˈiːml̆iː"
+  },
+  {
+    "en": "quite",
+    "vn": "khá",
+    "ipa": "kwˈaɪt"
+  },
+  {
+    "en": "rather",
+    "vn": "hơi",
+    "ipa": "rˈæð̆ɜː"
+  },
+  {
+    "en": "almost",
+    "vn": "hầu như",
+    "ipa": "ˈɔlmˌoʊst"
+  },
+  {
+    "en": "exactly",
+    "vn": "chính xác",
+    "ipa": "̆ɪɡzˈæktl̆iː"
+  },
+  {
+    "en": "approximately",
+    "vn": "xấp xỉ",
+    "ipa": "̆ʌprˈɑks̆ʌm̆ʌtl̆iː"
+  },
+  {
+    "en": "around",
+    "vn": "xung quanh",
+    "ipa": "̆ɜːˈaʊnd"
+  },
+  {
+    "en": "always",
+    "vn": "luôn luôn",
+    "ipa": "ˈɔlwˌeɪz"
+  },
+  {
+    "en": "usually",
+    "vn": "thường thường",
+    "ipa": "jˈuːʒ̆ʌw̆ʌl̆iː"
+  },
+  {
+    "en": "often",
+    "vn": "thường xuyên",
+    "ipa": "ˈɔf̆ʌn"
+  },
+  {
+    "en": "sometimes",
+    "vn": "thỉnh thoảng",
+    "ipa": "s̆ʌmtˈaɪmz"
+  },
+  {
+    "en": "rarely",
+    "vn": "hiếm khi",
+    "ipa": "rˈɛrl̆iː"
+  },
+  {
+    "en": "never",
+    "vn": "không bao giờ",
+    "ipa": "nˈɛv̆ɜː"
+  },
+  {
+    "en": "once",
+    "vn": "một lần",
+    "ipa": "wˈʌns"
+  },
+  {
+    "en": "twice",
+    "vn": "hai lần",
+    "ipa": "twˈaɪs"
+  },
+  {
+    "en": "again",
+    "vn": "lại",
+    "ipa": "̆ʌɡˈɛn"
+  },
+  {
+    "en": "still",
+    "vn": "vẫn",
+    "ipa": "stˈɪl"
+  },
+  {
+    "en": "already",
+    "vn": "đã...rồi",
+    "ipa": "̆ɔlrˈɛd̆iː"
+  },
+  {
+    "en": "yet",
+    "vn": "chưa",
+    "ipa": "jˈɛt"
+  },
+  {
+    "en": "now",
+    "vn": "bây giờ",
+    "ipa": "nˈaʊ"
+  },
+  {
+    "en": "then",
+    "vn": "sau đó",
+    "ipa": "ðˈɛn"
+  },
+  {
+    "en": "before",
+    "vn": "trước",
+    "ipa": "b̆ɪfˈɔr"
+  },
+  {
+    "en": "second",
+    "vn": "thứ hai",
+    "ipa": "sˈɛk̆ʌnd"
+  },
+  {
+    "en": "third",
+    "vn": "thứ ba",
+    "ipa": "θˈɜːd"
+  },
+  {
+    "en": "Monday",
+    "vn": "thứ hai",
+    "ipa": "mˈʌnd̆iː"
+  },
+  {
+    "en": "Tuesday",
+    "vn": "thứ ba",
+    "ipa": "tˈuːzd̆iː"
+  },
+  {
+    "en": "Wednesday",
+    "vn": "thứ tư",
+    "ipa": "wˈɛnzd̆iː"
+  },
+  {
+    "en": "Thursday",
+    "vn": "thứ năm",
+    "ipa": "θˈɜːzdˌeɪ"
+  },
+  {
+    "en": "Friday",
+    "vn": "thứ sáu",
+    "ipa": "frˈaɪd̆iː"
+  },
+  {
+    "en": "Saturday",
+    "vn": "thứ bảy",
+    "ipa": "sˈæt̆ɜːd̆iː"
+  },
+  {
+    "en": "Sunday",
+    "vn": "chủ nhật",
+    "ipa": "sˈʌndˌeɪ"
+  },
+  {
+    "en": "January",
+    "vn": "tháng một",
+    "ipa": "dʒˈænj̆uːˌɛr̆iː"
+  },
+  {
+    "en": "February",
+    "vn": "tháng hai",
+    "ipa": "fˈɛbj̆ʌwˌɛr̆iː"
+  },
+  {
+    "en": "March",
+    "vn": "tháng ba",
+    "ipa": "mˈɑrtʃ"
+  },
+  {
+    "en": "April",
+    "vn": "tháng tư",
+    "ipa": "ˈeɪpr̆ʌl"
+  },
+  {
+    "en": "May",
+    "vn": "tháng năm",
+    "ipa": "mˈeɪ"
+  },
+  {
+    "en": "June",
+    "vn": "tháng sáu",
+    "ipa": "dʒˈuːn"
+  },
+  {
+    "en": "July",
+    "vn": "tháng bảy",
+    "ipa": "dʒˌuːlˈaɪ"
+  },
+  {
+    "en": "August",
+    "vn": "tháng tám",
+    "ipa": "ˈɑɡ̆ʌst"
+  },
+  {
+    "en": "September",
+    "vn": "tháng chín",
+    "ipa": "s̆ɛptˈɛmb̆ɜː"
+  },
+  {
+    "en": "October",
+    "vn": "tháng mười",
+    "ipa": "̆ɑktˈoʊb̆ɜː"
+  },
+  {
+    "en": "November",
+    "vn": "tháng mười một",
+    "ipa": "n̆oʊvˈɛmb̆ɜː"
+  },
+  {
+    "en": "December",
+    "vn": "tháng mười hai",
+    "ipa": "d̆ɪsˈɛmb̆ɜː"
+  },
+  {
+    "en": "spring",
+    "vn": "mùa xuân",
+    "ipa": "sprˈɪŋ"
+  },
+  {
+    "en": "summer",
+    "vn": "mùa hè",
+    "ipa": "sˈʌm̆ɜː"
+  },
+  {
+    "en": "autumn",
+    "vn": "mùa thu",
+    "ipa": "ˈɔt̆ʌm"
+  },
+  {
+    "en": "winter",
+    "vn": "mùa đông",
+    "ipa": "wˈɪnt̆ɜː"
+  },
+  {
+    "en": "month",
+    "vn": "tháng",
+    "ipa": "mˈʌnθ"
+  },
+  {
+    "en": "hour",
+    "vn": "giờ",
+    "ipa": "ˈaʊ̆ɜː"
+  },
+  {
+    "en": "minute",
+    "vn": "phút",
+    "ipa": "mˈɪn̆ʌt"
+  },
+  {
+    "en": "morning",
+    "vn": "buổi sáng",
+    "ipa": "mˈɔrn̆ɪŋ"
+  },
+  {
+    "en": "afternoon",
+    "vn": "buổi chiều",
+    "ipa": "ˌæft̆ɜːnˈuːn"
+  },
+  {
+    "en": "evening",
+    "vn": "buổi tối",
+    "ipa": "ˈiːvn̆ɪŋ"
+  },
+  {
+    "en": "night",
+    "vn": "ban đêm",
+    "ipa": "nˈaɪt"
+  },
+  {
+    "en": "midnight",
+    "vn": "nửa đêm",
+    "ipa": "mˈɪdnˌaɪt"
+  },
+  {
+    "en": "noon",
+    "vn": "buổi trưa",
+    "ipa": "nˈuːn"
+  },
+  {
+    "en": "today",
+    "vn": "hôm nay",
+    "ipa": "t̆ʌdˈeɪ"
+  },
+  {
+    "en": "tomorrow",
+    "vn": "ngày mai",
+    "ipa": "t̆ʌmˈɑrˌoʊ"
+  },
+  {
+    "en": "yesterday",
+    "vn": "hôm qua",
+    "ipa": "jˈɛst̆ɜːdˌeɪ"
+  },
+  {
+    "en": "tonight",
+    "vn": "tối nay",
+    "ipa": "t̆ʌnˈaɪt"
+  },
+  {
+    "en": "silver",
+    "vn": "bạc",
+    "ipa": "sˈɪlv̆ɜː"
+  },
+  {
+    "en": "gold",
+    "vn": "vàng kim",
+    "ipa": "ɡˈoʊld"
+  },
+  {
+    "en": "zero",
+    "vn": "không",
+    "ipa": "zˈɪr̆oʊ"
+  },
+  {
+    "en": "two",
+    "vn": "hai",
+    "ipa": "tˈuː"
+  },
+  {
+    "en": "three",
+    "vn": "ba",
+    "ipa": "θrˈiː"
+  },
+  {
+    "en": "four",
+    "vn": "bốn",
+    "ipa": "fˈɔr"
+  },
+  {
+    "en": "five",
+    "vn": "năm",
+    "ipa": "fˈaɪv"
+  },
+  {
+    "en": "six",
+    "vn": "sáu",
+    "ipa": "sˈɪks"
+  },
+  {
+    "en": "seven",
+    "vn": "bảy",
+    "ipa": "sˈɛv̆ʌn"
+  },
+  {
+    "en": "eight",
+    "vn": "tám",
+    "ipa": "ˈeɪt"
+  },
+  {
+    "en": "nine",
+    "vn": "chín",
+    "ipa": "nˈaɪn"
+  },
+  {
+    "en": "ten",
+    "vn": "mười",
+    "ipa": "tˈɛn"
+  },
+  {
+    "en": "eleven",
+    "vn": "mười một",
+    "ipa": "̆ɪlˈɛv̆ʌn"
+  },
+  {
+    "en": "twelve",
+    "vn": "mười hai",
+    "ipa": "twˈɛlv"
+  },
+  {
+    "en": "twenty",
+    "vn": "hai mươi",
+    "ipa": "twˈɛnt̆iː"
+  },
+  {
+    "en": "thirty",
+    "vn": "ba mươi",
+    "ipa": "θˈɜːdˌiː"
+  },
+  {
+    "en": "forty",
+    "vn": "bốn mươi",
+    "ipa": "fˈɔrt̆iː"
+  },
+  {
+    "en": "fifty",
+    "vn": "năm mươi",
+    "ipa": "fˈɪft̆iː"
+  },
+  {
+    "en": "hundred",
+    "vn": "trăm",
+    "ipa": "hˈʌndr̆ʌd"
+  },
+  {
+    "en": "thousand",
+    "vn": "nghìn",
+    "ipa": "θˈaʊz̆ʌnd"
+  },
+  {
+    "en": "million",
+    "vn": "triệu",
+    "ipa": "mˈɪlj̆ʌn"
+  },
+  {
+    "en": "billion",
+    "vn": "tỷ",
+    "ipa": "bˈɪlj̆ʌn"
+  },
+  {
+    "en": "active",
+    "vn": "năng động",
+    "ipa": "ˈækt̆ɪv"
+  },
+  {
+    "en": "activity",
+    "vn": "hoạt động",
+    "ipa": "̆æktˈɪv̆ʌt̆iː"
+  },
+  {
+    "en": "actual",
+    "vn": "thực sự",
+    "ipa": "ˈæktʃ̆ʌw̆ʌl"
+  },
+  {
+    "en": "actually",
+    "vn": "thực sự",
+    "ipa": "ˈæktʃˌuː̆ʌl̆iː"
+  },
+  {
+    "en": "address",
+    "vn": "địa chỉ",
+    "ipa": "ˈædrˌɛs"
+  },
+  {
+    "en": "administration",
+    "vn": "sự quản lý",
+    "ipa": "̆ædmˌɪn̆ɪstrˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "adult",
+    "vn": "người lớn",
+    "ipa": "̆ʌdˈʌlt"
+  },
+  {
+    "en": "affect",
+    "vn": "ảnh hưởng",
+    "ipa": "̆ʌfˈɛkt"
+  },
+  {
+    "en": "against",
+    "vn": "chống lại",
+    "ipa": "̆ʌɡˈɛnst"
+  },
+  {
+    "en": "age",
+    "vn": "tuổi",
+    "ipa": "ˈeɪdʒ"
+  },
+  {
+    "en": "agency",
+    "vn": "đại lý",
+    "ipa": "ˈeɪdʒ̆ʌns̆iː"
+  },
+  {
+    "en": "agent",
+    "vn": "đại lý",
+    "ipa": "ˈeɪdʒ̆ʌnt"
+  },
+  {
+    "en": "ago",
+    "vn": "cách đây",
+    "ipa": "̆ʌɡˈoʊ"
+  },
+  {
+    "en": "ahead",
+    "vn": "phía trước",
+    "ipa": "̆ʌhˈɛd"
+  },
+  {
+    "en": "air",
+    "vn": "không khí",
+    "ipa": "ˈɛr"
+  },
+  {
+    "en": "allow",
+    "vn": "cho phép",
+    "ipa": "̆ʌlˈaʊ"
+  },
+  {
+    "en": "alone",
+    "vn": "một mình",
+    "ipa": "̆ʌlˈoʊn"
+  },
+  {
+    "en": "along",
+    "vn": "dọc theo",
+    "ipa": "̆ʌlˈɔŋ"
+  },
+  {
+    "en": "also",
+    "vn": "cũng",
+    "ipa": "ˈɔls̆oʊ"
+  },
+  {
+    "en": "although",
+    "vn": "mặc dù",
+    "ipa": "ˌɔlðˈoʊ"
+  },
+  {
+    "en": "American",
+    "vn": "người Mỹ",
+    "ipa": "̆ʌmˈɛr̆ʌk̆ʌn"
+  },
+  {
+    "en": "among",
+    "vn": "giữa",
+    "ipa": "̆ʌmˈʌŋ"
+  },
+  {
+    "en": "amount",
+    "vn": "số lượng",
+    "ipa": "̆ʌmˈaʊnt"
+  },
+  {
+    "en": "analysis",
+    "vn": "sự phân tích",
+    "ipa": "̆ʌnˈæl̆ʌs̆ʌs"
+  },
+  {
+    "en": "another",
+    "vn": "khác",
+    "ipa": "̆ʌnˈʌð̆ɜː"
+  },
+  {
+    "en": "any",
+    "vn": "bất kỳ",
+    "ipa": "ˈɛn̆iː"
+  },
+  {
+    "en": "anyone",
+    "vn": "bất cứ ai",
+    "ipa": "ˈɛn̆iːwˌʌn"
+  },
+  {
+    "en": "anything",
+    "vn": "bất cứ điều gì",
+    "ipa": "ˈɛn̆iːθˌɪŋ"
+  },
+  {
+    "en": "appear",
+    "vn": "xuất hiện",
+    "ipa": "̆ʌpˈɪr"
+  },
+  {
+    "en": "apply",
+    "vn": "áp dụng, nộp đơn",
+    "ipa": "̆ʌplˈaɪ"
+  },
+  {
+    "en": "approach",
+    "vn": "tiếp cận",
+    "ipa": "̆ʌprˈoʊtʃ"
+  },
+  {
+    "en": "area",
+    "vn": "khu vực",
+    "ipa": "ˈɛr̆iː̆ʌ"
+  },
+  {
+    "en": "article",
+    "vn": "bài báo",
+    "ipa": "ˈɑrt̆ʌk̆ʌl"
+  },
+  {
+    "en": "assume",
+    "vn": "giả định",
+    "ipa": "̆ʌsˈuːm"
+  },
+  {
+    "en": "attention",
+    "vn": "sự chú ý",
+    "ipa": "̆ʌtˈɛnʃ̆ʌn"
+  },
+  {
+    "en": "attorney",
+    "vn": "luật sư",
+    "ipa": "̆ʌtˈɜːn̆iː"
+  },
+  {
+    "en": "audience",
+    "vn": "khán giả",
+    "ipa": "ˈɑd̆iː̆ʌns"
+  },
+  {
+    "en": "author",
+    "vn": "tác giả",
+    "ipa": "ˈɔθ̆ɜː"
+  },
+  {
+    "en": "authority",
+    "vn": "chính quyền",
+    "ipa": "̆ʌθˈɔr̆ʌt̆iː"
+  },
+  {
+    "en": "avoid",
+    "vn": "tránh",
+    "ipa": "̆ʌvˈɔɪd"
+  },
+  {
+    "en": "away",
+    "vn": "xa",
+    "ipa": "̆ʌwˈeɪ"
+  },
+  {
+    "en": "baby",
+    "vn": "em bé",
+    "ipa": "bˈeɪb̆iː"
+  },
+  {
+    "en": "bar",
+    "vn": "quán bar",
+    "ipa": "bˈɑr"
+  },
+  {
+    "en": "base",
+    "vn": "cơ sở",
+    "ipa": "bˈeɪs"
+  },
+  {
+    "en": "beat",
+    "vn": "đánh bại",
+    "ipa": "bˈiːt"
+  },
+  {
+    "en": "because",
+    "vn": "bởi vì",
+    "ipa": "b̆ɪkˈɔz"
+  },
+  {
+    "en": "become",
+    "vn": "trở thành",
+    "ipa": "b̆ɪkˈʌm"
+  },
+  {
+    "en": "behavior",
+    "vn": "hành vi",
+    "ipa": "b̆ɪhˈeɪvj̆ɜː"
+  },
+  {
+    "en": "behind",
+    "vn": "đằng sau",
+    "ipa": "b̆ɪhˈaɪnd"
+  },
+  {
+    "en": "believe",
+    "vn": "tin",
+    "ipa": "b̆ɪlˈiːv"
+  },
+  {
+    "en": "benefit",
+    "vn": "lợi ích",
+    "ipa": "bˈɛn̆ʌf̆ɪt"
+  },
+  {
+    "en": "best",
+    "vn": "tốt nhất",
+    "ipa": "bˈɛst"
+  },
+  {
+    "en": "better",
+    "vn": "tốt hơn",
+    "ipa": "bˈɛt̆ɜː"
+  },
+  {
+    "en": "between",
+    "vn": "giữa",
+    "ipa": "b̆ɪtwˈiːn"
+  },
+  {
+    "en": "beyond",
+    "vn": "vượt quá",
+    "ipa": "b̆ɪˈɑnd"
+  },
+  {
+    "en": "bit",
+    "vn": "một chút",
+    "ipa": "bˈɪt"
+  },
+  {
+    "en": "born",
+    "vn": "sinh ra",
+    "ipa": "bˈɔrn"
+  },
+  {
+    "en": "both",
+    "vn": "cả hai",
+    "ipa": "bˈoʊθ"
+  },
+  {
+    "en": "box",
+    "vn": "hộp",
+    "ipa": "bˈɑks"
+  },
+  {
+    "en": "boy",
+    "vn": "con trai",
+    "ipa": "bˈɔɪ"
+  },
+  {
+    "en": "bring",
+    "vn": "mang lại",
+    "ipa": "brˈɪŋ"
+  },
+  {
+    "en": "budget",
+    "vn": "ngân sách",
+    "ipa": "bˈʌdʒ̆ɪt"
+  },
+  {
+    "en": "building",
+    "vn": "tòa nhà",
+    "ipa": "bˈɪld̆ɪŋ"
+  },
+  {
+    "en": "campaign",
+    "vn": "chiến dịch",
+    "ipa": "k̆æmpˈeɪn"
+  },
+  {
+    "en": "can",
+    "vn": "có thể, lon",
+    "ipa": "kˈæn"
+  },
+  {
+    "en": "cancer",
+    "vn": "ung thư",
+    "ipa": "kˈæns̆ɜː"
+  },
+  {
+    "en": "candidate",
+    "vn": "ứng viên",
+    "ipa": "kˈænd̆ʌd̆eɪt"
+  },
+  {
+    "en": "card",
+    "vn": "thẻ",
+    "ipa": "kˈɑrd"
+  },
+  {
+    "en": "cause",
+    "vn": "nguyên nhân",
+    "ipa": "kˈɑz"
+  },
+  {
+    "en": "cell",
+    "vn": "tế bào",
+    "ipa": "sˈɛl"
+  },
+  {
+    "en": "center",
+    "vn": "trung tâm",
+    "ipa": "sˈɛnt̆ɜː"
+  },
+  {
+    "en": "central",
+    "vn": "trung tâm",
+    "ipa": "sˈɛntr̆ʌl"
+  },
+  {
+    "en": "century",
+    "vn": "thế kỷ",
+    "ipa": "sˈɛntʃ̆ɜː̆iː"
+  },
+  {
+    "en": "certainly",
+    "vn": "chắc chắn",
+    "ipa": "sˈɜːt̆ʌnl̆iː"
+  },
+  {
+    "en": "challenge",
+    "vn": "thách thức",
+    "ipa": "tʃˈæl̆ʌndʒ"
+  },
+  {
+    "en": "chance",
+    "vn": "cơ hội",
+    "ipa": "tʃˈæns"
+  },
+  {
+    "en": "character",
+    "vn": "tính cách",
+    "ipa": "kˈɛr̆ɪkt̆ɜː"
+  },
+  {
+    "en": "check",
+    "vn": "kiểm tra",
+    "ipa": "tʃˈɛk"
+  },
+  {
+    "en": "church",
+    "vn": "nhà thờ",
+    "ipa": "tʃˈɜːtʃ"
+  },
+  {
+    "en": "citizen",
+    "vn": "công dân",
+    "ipa": "sˈɪt̆ʌz̆ʌn"
+  },
+  {
+    "en": "civil",
+    "vn": "dân sự",
+    "ipa": "sˈɪv̆ʌl"
+  },
+  {
+    "en": "claim",
+    "vn": "tuyên bố",
+    "ipa": "klˈeɪm"
+  },
+  {
+    "en": "clear",
+    "vn": "rõ ràng",
+    "ipa": "klˈɪr"
+  },
+  {
+    "en": "clearly",
+    "vn": "rõ ràng",
+    "ipa": "klˈɪrl̆iː"
+  },
+  {
+    "en": "coach",
+    "vn": "huấn luyện viên",
+    "ipa": "kˈoʊtʃ"
+  },
+  {
+    "en": "collection",
+    "vn": "bộ sưu tập",
+    "ipa": "k̆ʌlˈɛkʃ̆ʌn"
+  },
+  {
+    "en": "college",
+    "vn": "cao đẳng",
+    "ipa": "kˈɑl̆ɪdʒ"
+  },
+  {
+    "en": "commercial",
+    "vn": "thương mại",
+    "ipa": "k̆ʌmˈɜːʃ̆ʌl"
+  },
+  {
+    "en": "community",
+    "vn": "cộng đồng",
+    "ipa": "k̆ʌmjˈuːn̆ʌt̆iː"
+  },
+  {
+    "en": "concern",
+    "vn": "quan tâm",
+    "ipa": "k̆ʌnsˈɜːn"
+  },
+  {
+    "en": "condition",
+    "vn": "điều kiện",
+    "ipa": "k̆ʌndˈɪʃ̆ʌn"
+  },
+  {
+    "en": "conference",
+    "vn": "hội nghị",
+    "ipa": "kˈɑnf̆ɜː̆ʌns"
+  },
+  {
+    "en": "Congress",
+    "vn": "quốc hội",
+    "ipa": "kˈɑŋɡr̆ʌs"
+  },
+  {
+    "en": "consider",
+    "vn": "xem xét",
+    "ipa": "k̆ʌnsˈɪd̆ɜː"
+  },
+  {
+    "en": "consumer",
+    "vn": "người tiêu dùng",
+    "ipa": "k̆ʌnsˈuːm̆ɜː"
+  },
+  {
+    "en": "contain",
+    "vn": "chứa",
+    "ipa": "k̆ʌntˈeɪn"
+  },
+  {
+    "en": "control",
+    "vn": "kiểm soát",
+    "ipa": "k̆ʌntrˈoʊl"
+  },
+  {
+    "en": "could",
+    "vn": "có thể",
+    "ipa": "kˈʊd"
+  },
+  {
+    "en": "couple",
+    "vn": "cặp đôi",
+    "ipa": "kˈʌp̆ʌl"
+  },
+  {
+    "en": "course",
+    "vn": "khóa học",
+    "ipa": "kˈɔrs"
+  },
+  {
+    "en": "court",
+    "vn": "tòa án",
+    "ipa": "kˈɔrt"
+  },
+  {
+    "en": "cultural",
+    "vn": "văn hóa",
+    "ipa": "kˈʌltʃ̆ɜː̆ʌl"
+  },
+  {
+    "en": "culture",
+    "vn": "văn hóa",
+    "ipa": "kˈʌltʃ̆ɜː"
+  },
+  {
+    "en": "cup",
+    "vn": "cốc",
+    "ipa": "kˈʌp"
+  },
+  {
+    "en": "current",
+    "vn": "hiện tại, dòng điện",
+    "ipa": "kˈɜː̆ʌnt"
+  },
+  {
+    "en": "cut",
+    "vn": "cắt",
+    "ipa": "kˈʌt"
+  },
+  {
+    "en": "dark",
+    "vn": "tối",
+    "ipa": "dˈɑrk"
+  },
+  {
+    "en": "dead",
+    "vn": "chết",
+    "ipa": "dˈɛd"
+  },
+  {
+    "en": "deal",
+    "vn": "thỏa thuận",
+    "ipa": "dˈiːl"
+  },
+  {
+    "en": "death",
+    "vn": "cái chết",
+    "ipa": "dˈɛθ"
+  },
+  {
+    "en": "debate",
+    "vn": "tranh luận",
+    "ipa": "d̆ʌbˈeɪt"
+  },
+  {
+    "en": "decade",
+    "vn": "thập kỷ",
+    "ipa": "d̆ɛkˈeɪd"
+  },
+  {
+    "en": "defense",
+    "vn": "phòng thủ",
+    "ipa": "d̆ɪfˈɛns"
+  },
+  {
+    "en": "degree",
+    "vn": "bằng cấp, mức độ",
+    "ipa": "d̆ɪɡrˈiː"
+  },
+  {
+    "en": "Democrat",
+    "vn": "đảng dân chủ",
+    "ipa": "dˈɛm̆ʌkrˌæt"
+  },
+  {
+    "en": "democratic",
+    "vn": "dân chủ",
+    "ipa": "dˌɛm̆ʌkrˈæt̆ɪk"
+  },
+  {
+    "en": "describe",
+    "vn": "mô tả",
+    "ipa": "d̆ɪskrˈaɪb"
+  },
+  {
+    "en": "despite",
+    "vn": "mặc dù",
+    "ipa": "d̆ɪspˈaɪt"
+  },
+  {
+    "en": "detail",
+    "vn": "chi tiết",
+    "ipa": "d̆ɪtˈeɪl"
+  },
+  {
+    "en": "determine",
+    "vn": "xác định",
+    "ipa": "d̆ʌtˈɜːm̆ʌn"
+  },
+  {
+    "en": "develop",
+    "vn": "phát triển",
+    "ipa": "d̆ɪvˈɛl̆ʌp"
+  },
+  {
+    "en": "development",
+    "vn": "sự phát triển",
+    "ipa": "d̆ɪvˈɛl̆ʌpm̆ʌnt"
+  },
+  {
+    "en": "difference",
+    "vn": "sự khác biệt",
+    "ipa": "dˈɪf̆ɜː̆ʌns"
+  },
+  {
+    "en": "direction",
+    "vn": "hướng",
+    "ipa": "d̆ɜːˈɛkʃ̆ʌn"
+  },
+  {
+    "en": "director",
+    "vn": "giám đốc",
+    "ipa": "d̆ɜːˈɛkt̆ɜː"
+  },
+  {
+    "en": "discussion",
+    "vn": "cuộc thảo luận",
+    "ipa": "d̆ɪskˈʌʃ̆ʌn"
+  },
+  {
+    "en": "drive",
+    "vn": "lái xe",
+    "ipa": "drˈaɪv"
+  },
+  {
+    "en": "drug",
+    "vn": "thuốc",
+    "ipa": "drˈʌɡ"
+  },
+  {
+    "en": "during",
+    "vn": "trong suốt",
+    "ipa": "dˈʊr̆ɪŋ"
+  },
+  {
+    "en": "each",
+    "vn": "mỗi",
+    "ipa": "ˈiːtʃ"
+  },
+  {
+    "en": "east",
+    "vn": "đông",
+    "ipa": "ˈiːst"
+  },
+  {
+    "en": "economic",
+    "vn": "kinh tế",
+    "ipa": "ˌɛk̆ʌnˈɑm̆ɪk"
+  },
+  {
+    "en": "economy",
+    "vn": "nền kinh tế",
+    "ipa": "̆ɪkˈɑn̆ʌm̆iː"
+  },
+  {
+    "en": "edge",
+    "vn": "cạnh",
+    "ipa": "ˈɛdʒ"
+  },
+  {
+    "en": "effect",
+    "vn": "hiệu ứng",
+    "ipa": "̆ɪfˈɛkt"
+  },
+  {
+    "en": "either",
+    "vn": "cũng không",
+    "ipa": "ˈiːð̆ɜː"
+  },
+  {
+    "en": "election",
+    "vn": "cuộc bầu cử",
+    "ipa": "̆ɪlˈɛkʃ̆ʌn"
+  },
+  {
+    "en": "else",
+    "vn": "khác",
+    "ipa": "ˈɛls"
+  },
+  {
+    "en": "energy",
+    "vn": "năng lượng",
+    "ipa": "ˈɛn̆ɜːdʒ̆iː"
+  },
+  {
+    "en": "entire",
+    "vn": "toàn bộ",
+    "ipa": "̆ɪntˈaɪ̆ɜː"
+  },
+  {
+    "en": "environment",
+    "vn": "môi trường",
+    "ipa": "̆ɪnvˈaɪr̆ʌnm̆ʌnt"
+  },
+  {
+    "en": "environmental",
+    "vn": "thuộc môi trường",
+    "ipa": "̆ɪnvˌaɪr̆ʌnmˈɛnt̆ʌl"
+  },
+  {
+    "en": "especially",
+    "vn": "đặc biệt",
+    "ipa": "̆ʌspˈɛʃl̆iː"
+  },
+  {
+    "en": "establish",
+    "vn": "thành lập",
+    "ipa": "̆ɪstˈæbl̆ɪʃ"
+  },
+  {
+    "en": "even",
+    "vn": "thậm chí",
+    "ipa": "ˈiːv̆ɪn"
+  },
+  {
+    "en": "event",
+    "vn": "sự kiện",
+    "ipa": "̆ɪvˈɛnt"
+  },
+  {
+    "en": "ever",
+    "vn": "từng",
+    "ipa": "ˈɛv̆ɜː"
+  },
+  {
+    "en": "every",
+    "vn": "mỗi",
+    "ipa": "ˈɛv̆ɜː̆iː"
+  },
+  {
+    "en": "everybody",
+    "vn": "mọi người",
+    "ipa": "ˈɛvr̆iːbˌɑd̆iː"
+  },
+  {
+    "en": "everyone",
+    "vn": "mọi người",
+    "ipa": "ˈɛvr̆iːwˌʌn"
+  },
+  {
+    "en": "everything",
+    "vn": "mọi thứ",
+    "ipa": "ˈɛvr̆iːθˌɪŋ"
+  },
+  {
+    "en": "evidence",
+    "vn": "bằng chứng",
+    "ipa": "ˈɛv̆ʌd̆ʌns"
+  },
+  {
+    "en": "example",
+    "vn": "ví dụ",
+    "ipa": "̆ɪɡzˈæmp̆ʌl"
+  },
+  {
+    "en": "executive",
+    "vn": "điều hành",
+    "ipa": "̆ɪɡzˈɛkj̆ʌt̆ɪv"
+  },
+  {
+    "en": "experience",
+    "vn": "kinh nghiệm",
+    "ipa": "̆ɪkspˈɪr̆iː̆ʌns"
+  },
+  {
+    "en": "expert",
+    "vn": "chuyên gia",
+    "ipa": "ˈɛksp̆ɜːt"
+  },
+  {
+    "en": "explain",
+    "vn": "giải thích",
+    "ipa": "̆ɪksplˈeɪn"
+  },
+  {
+    "en": "factor",
+    "vn": "yếu tố",
+    "ipa": "fˈækt̆ɜː"
+  },
+  {
+    "en": "federal",
+    "vn": "liên bang",
+    "ipa": "fˈɛd̆ɜː̆ʌl"
+  },
+  {
+    "en": "feeling",
+    "vn": "cảm giác",
+    "ipa": "fˈiːl̆ɪŋ"
+  },
+  {
+    "en": "field",
+    "vn": "cánh đồng",
+    "ipa": "fˈiːld"
+  },
+  {
+    "en": "figure",
+    "vn": "con số",
+    "ipa": "fˈɪɡj̆ɜː"
+  },
+  {
+    "en": "fill",
+    "vn": "điền vào",
+    "ipa": "fˈɪl"
+  },
+  {
+    "en": "final",
+    "vn": "cuối cùng",
+    "ipa": "fˈaɪn̆ʌl"
+  },
+  {
+    "en": "finally",
+    "vn": "cuối cùng",
+    "ipa": "fˈaɪn̆ʌl̆iː"
+  },
+  {
+    "en": "financial",
+    "vn": "tài chính",
+    "ipa": "f̆ʌnˈænʃ̆ʌl"
+  },
+  {
+    "en": "fine",
+    "vn": "tốt",
+    "ipa": "fˈaɪn"
+  },
+  {
+    "en": "firm",
+    "vn": "công ty",
+    "ipa": "fˈɜːm"
+  },
+  {
+    "en": "fly",
+    "vn": "bay",
+    "ipa": "flˈaɪ"
+  },
+  {
+    "en": "focus",
+    "vn": "tập trung",
+    "ipa": "fˈoʊk̆ʌs"
+  },
+  {
+    "en": "follow",
+    "vn": "theo dõi",
+    "ipa": "fˈɑl̆oʊ"
+  },
+  {
+    "en": "force",
+    "vn": "lực lượng",
+    "ipa": "fˈɔrs"
+  },
+  {
+    "en": "foreign",
+    "vn": "nước ngoài",
+    "ipa": "fˈɔr̆ʌn"
+  },
+  {
+    "en": "form",
+    "vn": "hình thức",
+    "ipa": "fˈɔrm"
+  },
+  {
+    "en": "former",
+    "vn": "cũ",
+    "ipa": "fˈɔrm̆ɜː"
+  },
+  {
+    "en": "free",
+    "vn": "tự do",
+    "ipa": "frˈiː"
+  },
+  {
+    "en": "front",
+    "vn": "phía trước",
+    "ipa": "frˈʌnt"
+  },
+  {
+    "en": "fund",
+    "vn": "quỹ",
+    "ipa": "fˈʌnd"
+  },
+  {
+    "en": "gas",
+    "vn": "khí",
+    "ipa": "ɡˈæs"
+  },
+  {
+    "en": "general",
+    "vn": "chung",
+    "ipa": "dʒˈɛn̆ɜː̆ʌl"
+  },
+  {
+    "en": "generation",
+    "vn": "thế hệ",
+    "ipa": "dʒˌɛn̆ɜːˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "girl",
+    "vn": "cô gái",
+    "ipa": "ɡˈɜːl"
+  },
+  {
+    "en": "glass",
+    "vn": "kính",
+    "ipa": "ɡlˈæs"
+  },
+  {
+    "en": "ground",
+    "vn": "mặt đất",
+    "ipa": "ɡrˈaʊnd"
+  },
+  {
+    "en": "growth",
+    "vn": "sự tăng trưởng",
+    "ipa": "ɡrˈoʊθ"
+  },
+  {
+    "en": "guy",
+    "vn": "chàng trai",
+    "ipa": "ɡˈaɪ"
+  },
+  {
+    "en": "hang",
+    "vn": "treo",
+    "ipa": "hˈæŋ"
+  },
+  {
+    "en": "happen",
+    "vn": "xảy ra",
+    "ipa": "hˈæp̆ʌn"
+  },
+  {
+    "en": "happy",
+    "vn": "hạnh phúc",
+    "ipa": "hˈæp̆iː"
+  },
+  {
+    "en": "heat",
+    "vn": "nhiệt",
+    "ipa": "hˈiːt"
+  },
+  {
+    "en": "herself",
+    "vn": "chính cô ấy",
+    "ipa": "h̆ɜːsˈɛlf"
+  },
+  {
+    "en": "him",
+    "vn": "anh ấy",
+    "ipa": "hˈɪm"
+  },
+  {
+    "en": "himself",
+    "vn": "chính anh ấy",
+    "ipa": "h̆ɪmsˈɛlf"
+  },
+  {
+    "en": "how",
+    "vn": "như thế nào",
+    "ipa": "hˈaʊ"
+  },
+  {
+    "en": "however",
+    "vn": "tuy nhiên",
+    "ipa": "hˌaʊˈɛv̆ɜː"
+  },
+  {
+    "en": "human",
+    "vn": "con người",
+    "ipa": "hjˈuːm̆ʌn"
+  },
+  {
+    "en": "identify",
+    "vn": "xác định",
+    "ipa": "̆aɪdˈɛnt̆ʌfˌaɪ"
+  },
+  {
+    "en": "if",
+    "vn": "nếu",
+    "ipa": "ˈɪf"
+  },
+  {
+    "en": "imagine",
+    "vn": "tưởng tượng",
+    "ipa": "ˌɪmˈædʒ̆ʌn"
+  },
+  {
+    "en": "impact",
+    "vn": "tác động",
+    "ipa": "ˌɪmpˈækt"
+  },
+  {
+    "en": "improve",
+    "vn": "cải thiện",
+    "ipa": "ˌɪmprˈuːv"
+  },
+  {
+    "en": "include",
+    "vn": "bao gồm",
+    "ipa": "ˌɪnklˈuːd"
+  },
+  {
+    "en": "including",
+    "vn": "bao gồm",
+    "ipa": "ˌɪnklˈuːd̆ɪŋ"
+  },
+  {
+    "en": "indeed",
+    "vn": "thực sự",
+    "ipa": "ˌɪndˈiːd"
+  },
+  {
+    "en": "indicate",
+    "vn": "chỉ ra",
+    "ipa": "ˈɪnd̆ʌkˌeɪt"
+  },
+  {
+    "en": "individual",
+    "vn": "cá nhân",
+    "ipa": "ˌɪnd̆ʌvˈɪdʒ̆ʌw̆ʌl"
+  },
+  {
+    "en": "instead",
+    "vn": "thay vì",
+    "ipa": "ˌɪnstˈɛd"
+  },
+  {
+    "en": "institution",
+    "vn": "tổ chức",
+    "ipa": "ˌɪnst̆ɪtˈuːʃ̆ʌn"
+  },
+  {
+    "en": "interest",
+    "vn": "sự quan tâm",
+    "ipa": "ˈɪntr̆ʌst"
+  },
+  {
+    "en": "international",
+    "vn": "quốc tế",
+    "ipa": "ˌɪnt̆ɜːnˈæʃ̆ʌn̆ʌl"
+  },
+  {
+    "en": "interview",
+    "vn": "phỏng vấn",
+    "ipa": "ˈɪnt̆ɜːvjˌuː"
+  },
+  {
+    "en": "investment",
+    "vn": "đầu tư",
+    "ipa": "ˌɪnvˈɛstm̆ʌnt"
+  },
+  {
+    "en": "involve",
+    "vn": "liên quan",
+    "ipa": "ˌɪnvˈɑlv"
+  },
+  {
+    "en": "issue",
+    "vn": "vấn đề",
+    "ipa": "ˈɪʃ̆uː"
+  },
+  {
+    "en": "item",
+    "vn": "vật phẩm",
+    "ipa": "ˈaɪt̆ʌm"
+  },
+  {
+    "en": "its",
+    "vn": "của nó",
+    "ipa": "ˈɪts"
+  },
+  {
+    "en": "itself",
+    "vn": "chính nó",
+    "ipa": "ˌɪtsˈɛlf"
+  },
+  {
+    "en": "join",
+    "vn": "tham gia",
+    "ipa": "dʒˈɔɪn"
+  },
+  {
+    "en": "just",
+    "vn": "chỉ",
+    "ipa": "dʒˈʌst"
+  },
+  {
+    "en": "keep",
+    "vn": "giữ",
+    "ipa": "kˈiːp"
+  },
+  {
+    "en": "key",
+    "vn": "chìa khóa",
+    "ipa": "kˈiː"
+  },
+  {
+    "en": "kid",
+    "vn": "đứa trẻ",
+    "ipa": "kˈɪd"
+  },
+  {
+    "en": "kind",
+    "vn": "loại",
+    "ipa": "kˈaɪnd"
+  },
+  {
+    "en": "land",
+    "vn": "đất",
+    "ipa": "lˈænd"
+  },
+  {
+    "en": "later",
+    "vn": "sau đó",
+    "ipa": "lˈeɪt̆ɜː"
+  },
+  {
+    "en": "lay",
+    "vn": "đặt",
+    "ipa": "lˈeɪ"
+  },
+  {
+    "en": "lead",
+    "vn": "dẫn dắt",
+    "ipa": "lˈɛd"
+  },
+  {
+    "en": "leader",
+    "vn": "lãnh đạo",
+    "ipa": "lˈiːd̆ɜː"
+  },
+  {
+    "en": "legal",
+    "vn": "hợp pháp",
+    "ipa": "lˈiːɡ̆ʌl"
+  },
+  {
+    "en": "let",
+    "vn": "để",
+    "ipa": "lˈɛt"
+  },
+  {
+    "en": "level",
+    "vn": "mức độ",
+    "ipa": "lˈɛv̆ʌl"
+  },
+  {
+    "en": "line",
+    "vn": "đường dây",
+    "ipa": "lˈaɪn"
+  },
+  {
+    "en": "list",
+    "vn": "danh sách",
+    "ipa": "lˈɪst"
+  },
+  {
+    "en": "local",
+    "vn": "địa phương",
+    "ipa": "lˈoʊk̆ʌl"
+  },
+  {
+    "en": "lot",
+    "vn": "nhiều",
+    "ipa": "lˈɑt"
+  },
+  {
+    "en": "machine",
+    "vn": "máy móc",
+    "ipa": "m̆ʌʃˈiːn"
+  },
+  {
+    "en": "magazine",
+    "vn": "tạp chí",
+    "ipa": "mˈæɡ̆ʌzˌiːn"
+  },
+  {
+    "en": "main",
+    "vn": "chính",
+    "ipa": "mˈeɪn"
+  },
+  {
+    "en": "maintain",
+    "vn": "duy trì",
+    "ipa": "m̆eɪntˈeɪn"
+  },
+  {
+    "en": "majority",
+    "vn": "đa số",
+    "ipa": "m̆ʌdʒˈɔr̆ʌt̆iː"
+  },
+  {
+    "en": "manage",
+    "vn": "quản lý",
+    "ipa": "mˈæn̆ʌdʒ"
+  },
+  {
+    "en": "management",
+    "vn": "sự quản lý",
+    "ipa": "mˈæn̆ʌdʒm̆ʌnt"
+  },
+  {
+    "en": "material",
+    "vn": "vật liệu",
+    "ipa": "m̆ʌtˈɪr̆iː̆ʌl"
+  },
+  {
+    "en": "matter",
+    "vn": "vấn đề",
+    "ipa": "mˈæt̆ɜː"
+  },
+  {
+    "en": "may",
+    "vn": "có thể",
+    "ipa": "mˈeɪ"
+  },
+  {
+    "en": "maybe",
+    "vn": "có lẽ",
+    "ipa": "mˈeɪb̆iː"
+  },
+  {
+    "en": "me",
+    "vn": "tôi",
+    "ipa": "mˈiː"
+  },
+  {
+    "en": "mean",
+    "vn": "có nghĩa là",
+    "ipa": "mˈiːn"
+  },
+  {
+    "en": "media",
+    "vn": "truyền thông",
+    "ipa": "mˈiːd̆iː̆ʌ"
+  },
+  {
+    "en": "medical",
+    "vn": "thuộc y tế",
+    "ipa": "mˈɛd̆ʌk̆ʌl"
+  },
+  {
+    "en": "member",
+    "vn": "thành viên",
+    "ipa": "mˈɛmb̆ɜː"
+  },
+  {
+    "en": "mention",
+    "vn": "đề cập",
+    "ipa": "mˈɛnʃ̆ʌn"
+  },
+  {
+    "en": "method",
+    "vn": "phương pháp",
+    "ipa": "mˈɛθ̆ʌd"
+  },
+  {
+    "en": "middle",
+    "vn": "giữa",
+    "ipa": "mˈɪd̆ʌl"
+  },
+  {
+    "en": "might",
+    "vn": "có thể",
+    "ipa": "mˈaɪt"
+  },
+  {
+    "en": "military",
+    "vn": "quân sự",
+    "ipa": "mˈɪl̆ʌtˌɛr̆iː"
+  },
+  {
+    "en": "miss",
+    "vn": "nhớ, bỏ lỡ",
+    "ipa": "mˈɪs"
+  },
+  {
+    "en": "mission",
+    "vn": "sứ mệnh",
+    "ipa": "mˈɪʃ̆ʌn"
+  },
+  {
+    "en": "model",
+    "vn": "mô hình",
+    "ipa": "mˈɑd̆ʌl"
+  },
+  {
+    "en": "moment",
+    "vn": "khoảnh khắc",
+    "ipa": "mˈoʊm̆ʌnt"
+  },
+  {
+    "en": "movement",
+    "vn": "phong trào",
+    "ipa": "mˈuːvm̆ʌnt"
+  },
+  {
+    "en": "Mr",
+    "vn": "ông",
+    "ipa": "mˈɪst̆ɜː"
+  },
+  {
+    "en": "Mrs",
+    "vn": "bà",
+    "ipa": "mˈɪs̆ɪz"
+  },
+  {
+    "en": "must",
+    "vn": "phải",
+    "ipa": "mˈʌst"
+  },
+  {
+    "en": "myself",
+    "vn": "bản thân tôi",
+    "ipa": "mˌaɪsˈɛlf"
+  },
+  {
+    "en": "name",
+    "vn": "tên",
+    "ipa": "nˈeɪm"
+  },
+  {
+    "en": "nation",
+    "vn": "quốc gia",
+    "ipa": "nˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "national",
+    "vn": "thuộc quốc gia",
+    "ipa": "nˈæʃ̆ʌn̆ʌl"
+  },
+  {
+    "en": "nearly",
+    "vn": "gần như",
+    "ipa": "nˈɪrl̆iː"
+  },
+  {
+    "en": "news",
+    "vn": "tin tức",
+    "ipa": "nˈuːz"
+  },
+  {
+    "en": "newspaper",
+    "vn": "tờ báo",
+    "ipa": "nˈuːzpˌeɪp̆ɜː"
+  },
+  {
+    "en": "nice",
+    "vn": "đẹp",
+    "ipa": "nˈaɪs"
+  },
+  {
+    "en": "no",
+    "vn": "không",
+    "ipa": "nˈoʊ"
+  },
+  {
+    "en": "none",
+    "vn": "không ai",
+    "ipa": "nˈʌn"
+  },
+  {
+    "en": "nor",
+    "vn": "cũng không",
+    "ipa": "nˈɔr"
+  },
+  {
+    "en": "north",
+    "vn": "bắc",
+    "ipa": "nˈɔrθ"
+  },
+  {
+    "en": "note",
+    "vn": "ghi chú",
+    "ipa": "nˈoʊt"
+  },
+  {
+    "en": "nothing",
+    "vn": "không gì cả",
+    "ipa": "nˈʌθ̆ɪŋ"
+  },
+  {
+    "en": "occur",
+    "vn": "xảy ra",
+    "ipa": "̆ʌkˈɜː"
+  },
+  {
+    "en": "off",
+    "vn": "tắt",
+    "ipa": "ˈɔf"
+  },
+  {
+    "en": "office",
+    "vn": "văn phòng",
+    "ipa": "ˈɔf̆ɪs"
+  },
+  {
+    "en": "officer",
+    "vn": "sĩ quan",
+    "ipa": "ˈɔf̆ʌs̆ɜː"
+  },
+  {
+    "en": "official",
+    "vn": "chính thức",
+    "ipa": "̆ʌfˈɪʃ̆ʌl"
+  },
+  {
+    "en": "oh",
+    "vn": "ồ",
+    "ipa": "ˈoʊ"
+  },
+  {
+    "en": "ok",
+    "vn": "được",
+    "ipa": "ˈoʊkˈeɪ"
+  },
+  {
+    "en": "only",
+    "vn": "chỉ",
+    "ipa": "ˈoʊnl̆iː"
+  },
+  {
+    "en": "onto",
+    "vn": "lên trên",
+    "ipa": "ˈɑnt̆uː"
+  },
+  {
+    "en": "operation",
+    "vn": "hoạt động",
+    "ipa": "ˌɑp̆ɜːˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "opportunity",
+    "vn": "cơ hội",
+    "ipa": "ˌɑp̆ɜːtˈuːn̆ʌt̆iː"
+  },
+  {
+    "en": "option",
+    "vn": "lựa chọn",
+    "ipa": "ˈɑpʃ̆ʌn"
+  },
+  {
+    "en": "order",
+    "vn": "trật tự",
+    "ipa": "ˈɔrd̆ɜː"
+  },
+  {
+    "en": "organization",
+    "vn": "tổ chức",
+    "ipa": "ˌɔrɡ̆ʌn̆ʌzˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "others",
+    "vn": "những người khác",
+    "ipa": "ˈʌð̆ɜːz"
+  },
+  {
+    "en": "our",
+    "vn": "của chúng tôi",
+    "ipa": "ˈaʊ̆ɜː"
+  },
+  {
+    "en": "owner",
+    "vn": "chủ sở hữu",
+    "ipa": "ˈoʊn̆ɜː"
+  },
+  {
+    "en": "painting",
+    "vn": "bức tranh",
+    "ipa": "pˈeɪnt̆ɪŋ"
+  },
+  {
+    "en": "participant",
+    "vn": "người tham gia",
+    "ipa": "p̆ɑrtˈɪs̆ʌp̆ʌnt"
+  },
+  {
+    "en": "particular",
+    "vn": "cụ thể",
+    "ipa": "p̆ɜːtˈɪkj̆ʌl̆ɜː"
+  },
+  {
+    "en": "particularly",
+    "vn": "đặc biệt",
+    "ipa": "pˌɑrtˈɪkj̆ʌl̆ɜːl̆iː"
+  },
+  {
+    "en": "pass",
+    "vn": "vượt qua",
+    "ipa": "pˈæs"
+  },
+  {
+    "en": "pattern",
+    "vn": "mẫu",
+    "ipa": "pˈæt̆ɜːn"
+  },
+  {
+    "en": "people",
+    "vn": "mọi người",
+    "ipa": "pˈiːp̆ʌl"
+  },
+  {
+    "en": "per",
+    "vn": "mỗi",
+    "ipa": "pˈɜː"
+  },
+  {
+    "en": "perform",
+    "vn": "biểu diễn",
+    "ipa": "p̆ɜːfˈɔrm"
+  },
+  {
+    "en": "performance",
+    "vn": "hiệu suất",
+    "ipa": "p̆ɜːfˈɔrm̆ʌns"
+  },
+  {
+    "en": "perhaps",
+    "vn": "có lẽ",
+    "ipa": "p̆ɜːhˈæps"
+  },
+  {
+    "en": "period",
+    "vn": "giai đoạn",
+    "ipa": "pˈɪr̆iː̆ʌd"
+  },
+  {
+    "en": "personal",
+    "vn": "cá nhân",
+    "ipa": "pˈɜːs̆ɪn̆ʌl"
+  },
+  {
+    "en": "physical",
+    "vn": "vật lý",
+    "ipa": "fˈɪz̆ɪk̆ʌl"
+  },
+  {
+    "en": "piece",
+    "vn": "mảnh",
+    "ipa": "pˈiːs"
+  },
+  {
+    "en": "policy",
+    "vn": "chính sách",
+    "ipa": "pˈɑl̆ʌs̆iː"
+  },
+  {
+    "en": "political",
+    "vn": "chính trị",
+    "ipa": "p̆ʌlˈɪt̆ʌk̆ʌl"
+  },
+  {
+    "en": "population",
+    "vn": "dân số",
+    "ipa": "pˌɑpj̆ʌlˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "position",
+    "vn": "vị trí",
+    "ipa": "p̆ʌzˈɪʃ̆ʌn"
+  },
+  {
+    "en": "positive",
+    "vn": "tích cực",
+    "ipa": "pˈɑz̆ʌt̆ɪv"
+  },
+  {
+    "en": "power",
+    "vn": "sức mạnh",
+    "ipa": "pˈaʊ̆ɜː"
+  },
+  {
+    "en": "president",
+    "vn": "tổng thống",
+    "ipa": "prˈɛz̆ʌdˌɛnt"
+  },
+  {
+    "en": "pressure",
+    "vn": "áp lực",
+    "ipa": "prˈɛʃ̆ɜː"
+  },
+  {
+    "en": "prevent",
+    "vn": "ngăn ngừa",
+    "ipa": "pr̆ɪvˈɛnt"
+  },
+  {
+    "en": "probably",
+    "vn": "có lẽ",
+    "ipa": "prˈɑb̆ʌblˌiː"
+  },
+  {
+    "en": "process",
+    "vn": "quá trình",
+    "ipa": "prˈɑsˌɛs"
+  },
+  {
+    "en": "produce",
+    "vn": "sản xuất",
+    "ipa": "pr̆ʌdˈuːs"
+  },
+  {
+    "en": "production",
+    "vn": "sản xuất",
+    "ipa": "pr̆ʌdˈʌkʃ̆ʌn"
+  },
+  {
+    "en": "professional",
+    "vn": "chuyên nghiệp",
+    "ipa": "pr̆ʌfˈɛʃ̆ʌn̆ʌl"
+  },
+  {
+    "en": "professor",
+    "vn": "giáo sư",
+    "ipa": "pr̆ʌfˈɛs̆ɜː"
+  },
+  {
+    "en": "program",
+    "vn": "chương trình",
+    "ipa": "prˈoʊɡrˌæm"
+  },
+  {
+    "en": "property",
+    "vn": "tài sản",
+    "ipa": "prˈɑp̆ɜːt̆iː"
+  },
+  {
+    "en": "prove",
+    "vn": "chứng minh",
+    "ipa": "prˈuːv"
+  },
+  {
+    "en": "purpose",
+    "vn": "mục đích",
+    "ipa": "pˈɜːp̆ʌs"
+  },
+  {
+    "en": "put",
+    "vn": "đặt",
+    "ipa": "pˈʊt"
+  },
+  {
+    "en": "quality",
+    "vn": "chất lượng",
+    "ipa": "kwˈɑl̆ʌt̆iː"
+  },
+  {
+    "en": "quickly",
+    "vn": "nhanh chóng",
+    "ipa": "kwˈɪkl̆iː"
+  },
+  {
+    "en": "race",
+    "vn": "cuộc đua",
+    "ipa": "rˈeɪs"
+  },
+  {
+    "en": "raise",
+    "vn": "nâng lên",
+    "ipa": "rˈeɪz"
+  },
+  {
+    "en": "range",
+    "vn": "phạm vi",
+    "ipa": "rˈeɪndʒ"
+  },
+  {
+    "en": "rate",
+    "vn": "tỷ lệ",
+    "ipa": "rˈeɪt"
+  },
+  {
+    "en": "reality",
+    "vn": "thực tế",
+    "ipa": "rˌiːˈæl̆ʌtˌiː"
+  },
+  {
+    "en": "really",
+    "vn": "thực sự",
+    "ipa": "rˈɪl̆iː"
+  },
+  {
+    "en": "reason",
+    "vn": "lý do",
+    "ipa": "rˈiːz̆ʌn"
+  },
+  {
+    "en": "recently",
+    "vn": "gần đây",
+    "ipa": "rˈiːs̆ʌntl̆iː"
+  },
+  {
+    "en": "record",
+    "vn": "kỷ lục",
+    "ipa": "r̆ʌkˈɔrd"
+  },
+  {
+    "en": "reduce",
+    "vn": "giảm",
+    "ipa": "r̆ʌdˈuːs"
+  },
+  {
+    "en": "reflect",
+    "vn": "phản chiếu",
+    "ipa": "r̆ɪflˈɛkt"
+  },
+  {
+    "en": "region",
+    "vn": "khu vực",
+    "ipa": "rˈiːdʒ̆ʌn"
+  },
+  {
+    "en": "relate",
+    "vn": "liên quan",
+    "ipa": "r̆ɪlˈeɪt"
+  },
+  {
+    "en": "religious",
+    "vn": "tôn giáo",
+    "ipa": "r̆ɪlˈɪdʒ̆ʌs"
+  },
+  {
+    "en": "remain",
+    "vn": "còn lại",
+    "ipa": "r̆ɪmˈeɪn"
+  },
+  {
+    "en": "remove",
+    "vn": "loại bỏ",
+    "ipa": "r̆iːmˈuːv"
+  },
+  {
+    "en": "represent",
+    "vn": "đại diện",
+    "ipa": "rˌɛpr̆ɪzˈɛnt"
+  },
+  {
+    "en": "Republican",
+    "vn": "đảng cộng hòa",
+    "ipa": "r̆ɪpˈʌbl̆ɪk̆ʌn"
+  },
+  {
+    "en": "research",
+    "vn": "nghiên cứu",
+    "ipa": "r̆iːsˈɜːtʃ"
+  },
+  {
+    "en": "resource",
+    "vn": "tài nguyên",
+    "ipa": "rˈiːs̆ɔrs"
+  },
+  {
+    "en": "respond",
+    "vn": "phản hồi",
+    "ipa": "r̆ɪspˈɑnd"
+  },
+  {
+    "en": "response",
+    "vn": "phản hồi",
+    "ipa": "r̆ɪspˈɑns"
+  },
+  {
+    "en": "responsibility",
+    "vn": "trách nhiệm",
+    "ipa": "r̆iːspˌɑns̆ʌbˈɪl̆ʌt̆iː"
+  },
+  {
+    "en": "rise",
+    "vn": "tăng",
+    "ipa": "rˈaɪz"
+  },
+  {
+    "en": "role",
+    "vn": "vai trò",
+    "ipa": "rˈoʊl"
+  },
+  {
+    "en": "rule",
+    "vn": "quy tắc",
+    "ipa": "rˈuːl"
+  },
+  {
+    "en": "scene",
+    "vn": "cảnh",
+    "ipa": "sˈiːn"
+  },
+  {
+    "en": "scientist",
+    "vn": "nhà khoa học",
+    "ipa": "sˈaɪ̆ʌnt̆ɪst"
+  },
+  {
+    "en": "season",
+    "vn": "mùa",
+    "ipa": "sˈiːz̆ʌn"
+  },
+  {
+    "en": "seat",
+    "vn": "chỗ ngồi",
+    "ipa": "sˈiːt"
+  },
+  {
+    "en": "section",
+    "vn": "phần",
+    "ipa": "sˈɛkʃ̆ʌn"
+  },
+  {
+    "en": "security",
+    "vn": "an ninh",
+    "ipa": "s̆ɪkjˈʊr̆ʌt̆iː"
+  },
+  {
+    "en": "seek",
+    "vn": "tìm kiếm",
+    "ipa": "sˈiːk"
+  },
+  {
+    "en": "send",
+    "vn": "gửi",
+    "ipa": "sˈɛnd"
+  },
+  {
+    "en": "senior",
+    "vn": "người lớn tuổi",
+    "ipa": "sˈiːnj̆ɜː"
+  },
+  {
+    "en": "sense",
+    "vn": "giác quan",
+    "ipa": "sˈɛns"
+  },
+  {
+    "en": "series",
+    "vn": "loạt",
+    "ipa": "sˈɪr̆iːz"
+  },
+  {
+    "en": "serve",
+    "vn": "phục vụ",
+    "ipa": "sˈɜːv"
+  },
+  {
+    "en": "set",
+    "vn": "thiết lập",
+    "ipa": "sˈɛt"
+  },
+  {
+    "en": "several",
+    "vn": "một vài",
+    "ipa": "sˈɛvr̆ʌl"
+  },
+  {
+    "en": "sex",
+    "vn": "giới tính",
+    "ipa": "sˈɛks"
+  },
+  {
+    "en": "sexual",
+    "vn": "thuộc giới tính",
+    "ipa": "sˈɛkʃ̆uː̆ʌl"
+  },
+  {
+    "en": "shake",
+    "vn": "lắc",
+    "ipa": "ʃˈeɪk"
+  },
+  {
+    "en": "shoot",
+    "vn": "bắn",
+    "ipa": "ʃˈuːt"
+  },
+  {
+    "en": "shot",
+    "vn": "bức ảnh",
+    "ipa": "ʃˈɑt"
+  },
+  {
+    "en": "should",
+    "vn": "nên",
+    "ipa": "ʃˈʊd"
+  },
+  {
+    "en": "side",
+    "vn": "bên",
+    "ipa": "sˈaɪd"
+  },
+  {
+    "en": "sign",
+    "vn": "biển báo",
+    "ipa": "sˈaɪn"
+  },
+  {
+    "en": "similar",
+    "vn": "tương tự",
+    "ipa": "sˈɪm̆ʌl̆ɜː"
+  },
+  {
+    "en": "simply",
+    "vn": "đơn giản",
+    "ipa": "sˈɪmpl̆iː"
+  },
+  {
+    "en": "since",
+    "vn": "kể từ",
+    "ipa": "sˈɪns"
+  },
+  {
+    "en": "single",
+    "vn": "đơn",
+    "ipa": "sˈɪŋɡ̆ʌl"
+  },
+  {
+    "en": "site",
+    "vn": "vị trí",
+    "ipa": "sˈaɪt"
+  },
+  {
+    "en": "situation",
+    "vn": "tình huống",
+    "ipa": "sˌɪtʃ̆uːˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "size",
+    "vn": "kích thước",
+    "ipa": "sˈaɪz"
+  },
+  {
+    "en": "so",
+    "vn": "vì vậy",
+    "ipa": "sˈoʊ"
+  },
+  {
+    "en": "social",
+    "vn": "xã hội",
+    "ipa": "sˈoʊʃ̆ʌl"
+  },
+  {
+    "en": "society",
+    "vn": "xã hội",
+    "ipa": "s̆ʌsˈaɪ̆ʌt̆iː"
+  },
+  {
+    "en": "somebody",
+    "vn": "ai đó",
+    "ipa": "sˈʌmbˌɑd̆iː"
+  },
+  {
+    "en": "someone",
+    "vn": "ai đó",
+    "ipa": "sˈʌmwˌʌn"
+  },
+  {
+    "en": "something",
+    "vn": "điều gì đó",
+    "ipa": "sˈʌmθ̆ɪŋ"
+  },
+  {
+    "en": "soon",
+    "vn": "sớm",
+    "ipa": "sˈuːn"
+  },
+  {
+    "en": "sort",
+    "vn": "loại",
+    "ipa": "sˈɔrt"
+  },
+  {
+    "en": "sound",
+    "vn": "âm thanh",
+    "ipa": "sˈaʊnd"
+  },
+  {
+    "en": "source",
+    "vn": "nguồn",
+    "ipa": "sˈɔrs"
+  },
+  {
+    "en": "south",
+    "vn": "nam",
+    "ipa": "sˈaʊθ"
+  },
+  {
+    "en": "southern",
+    "vn": "thuộc miền nam",
+    "ipa": "sˈʌð̆ɜːn"
+  },
+  {
+    "en": "space",
+    "vn": "không gian",
+    "ipa": "spˈeɪs"
+  },
+  {
+    "en": "special",
+    "vn": "đặc biệt",
+    "ipa": "spˈɛʃ̆ʌl"
+  },
+  {
+    "en": "specific",
+    "vn": "cụ thể",
+    "ipa": "sp̆ʌsˈɪf̆ɪk"
+  },
+  {
+    "en": "speech",
+    "vn": "bài phát biểu",
+    "ipa": "spˈiːtʃ"
+  },
+  {
+    "en": "staff",
+    "vn": "nhân viên",
+    "ipa": "stˈæf"
+  },
+  {
+    "en": "standard",
+    "vn": "tiêu chuẩn",
+    "ipa": "stˈænd̆ɜːd"
+  },
+  {
+    "en": "state",
+    "vn": "bang",
+    "ipa": "stˈeɪt"
+  },
+  {
+    "en": "statement",
+    "vn": "tuyên bố",
+    "ipa": "stˈeɪtm̆ʌnt"
+  },
+  {
+    "en": "step",
+    "vn": "bước",
+    "ipa": "stˈɛp"
+  },
+  {
+    "en": "stock",
+    "vn": "cổ phiếu",
+    "ipa": "stˈɑk"
+  },
+  {
+    "en": "story",
+    "vn": "câu chuyện",
+    "ipa": "stˈɔr̆iː"
+  },
+  {
+    "en": "structure",
+    "vn": "cấu trúc",
+    "ipa": "strˈʌktʃ̆ɜː"
+  },
+  {
+    "en": "stuff",
+    "vn": "thứ",
+    "ipa": "stˈʌf"
+  },
+  {
+    "en": "style",
+    "vn": "phong cách",
+    "ipa": "stˈaɪl"
+  },
+  {
+    "en": "subject",
+    "vn": "chủ đề",
+    "ipa": "s̆ʌbdʒˈɛkt"
+  },
+  {
+    "en": "successful",
+    "vn": "thành công",
+    "ipa": "s̆ʌksˈɛsf̆ʌl"
+  },
+  {
+    "en": "such",
+    "vn": "như vậy",
+    "ipa": "sˈʌtʃ"
+  },
+  {
+    "en": "suddenly",
+    "vn": "đột nhiên",
+    "ipa": "sˈʌd̆ʌnl̆iː"
+  },
+  {
+    "en": "suffer",
+    "vn": "chịu đựng",
+    "ipa": "sˈʌf̆ɜː"
+  },
+  {
+    "en": "surface",
+    "vn": "bề mặt",
+    "ipa": "sˈɜːf̆ʌs"
+  },
+  {
+    "en": "system",
+    "vn": "hệ thống",
+    "ipa": "sˈɪst̆ʌm"
+  },
+  {
+    "en": "task",
+    "vn": "nhiệm vụ",
+    "ipa": "tˈæsk"
+  },
+  {
+    "en": "tend",
+    "vn": "có xu hướng",
+    "ipa": "tˈɛnd"
+  },
+  {
+    "en": "term",
+    "vn": "thuật ngữ",
+    "ipa": "tˈɜːm"
+  },
+  {
+    "en": "than",
+    "vn": "hơn",
+    "ipa": "ðˈæn"
+  },
+  {
+    "en": "thank",
+    "vn": "cảm ơn",
+    "ipa": "θˈæŋk"
+  },
+  {
+    "en": "them",
+    "vn": "họ",
+    "ipa": "ðˈɛm"
+  },
+  {
+    "en": "themselves",
+    "vn": "bản thân họ",
+    "ipa": "ð̆ɛmsˈɛlvz"
+  },
+  {
+    "en": "theory",
+    "vn": "lý thuyết",
+    "ipa": "θˈɪr̆iː"
+  },
+  {
+    "en": "these",
+    "vn": "những",
+    "ipa": "ðˈiːz"
+  },
+  {
+    "en": "those",
+    "vn": "những",
+    "ipa": "ðˈoʊz"
+  },
+  {
+    "en": "though",
+    "vn": "mặc dù",
+    "ipa": "ðˈoʊ"
+  },
+  {
+    "en": "threat",
+    "vn": "mối đe dọa",
+    "ipa": "θrˈɛt"
+  },
+  {
+    "en": "through",
+    "vn": "thông qua",
+    "ipa": "θrˈuː"
+  },
+  {
+    "en": "throughout",
+    "vn": "xuyên suốt",
+    "ipa": "θr̆uːˈaʊt"
+  },
+  {
+    "en": "thus",
+    "vn": "do đó",
+    "ipa": "ðˈʌs"
+  },
+  {
+    "en": "together",
+    "vn": "cùng nhau",
+    "ipa": "t̆ʌɡˈɛð̆ɜː"
+  },
+  {
+    "en": "top",
+    "vn": "đỉnh",
+    "ipa": "tˈɑp"
+  },
+  {
+    "en": "total",
+    "vn": "tổng cộng",
+    "ipa": "tˈoʊt̆ʌl"
+  },
+  {
+    "en": "tough",
+    "vn": "khó khăn",
+    "ipa": "tˈʌf"
+  },
+  {
+    "en": "toward",
+    "vn": "hướng tới",
+    "ipa": "t̆ʌwˈɔrd"
+  },
+  {
+    "en": "traditional",
+    "vn": "truyền thống",
+    "ipa": "tr̆ʌdˈɪʃ̆ʌn̆ʌl"
+  },
+  {
+    "en": "training",
+    "vn": "đào tạo",
+    "ipa": "trˈeɪn̆ɪŋ"
+  },
+  {
+    "en": "treatment",
+    "vn": "sự điều trị",
+    "ipa": "trˈiːtm̆ʌnt"
+  },
+  {
+    "en": "trial",
+    "vn": "thử nghiệm",
+    "ipa": "trˈaɪ̆ʌl"
+  },
+  {
+    "en": "trouble",
+    "vn": "rắc rối",
+    "ipa": "trˈʌb̆ʌl"
+  },
+  {
+    "en": "TV",
+    "vn": "tivi",
+    "ipa": "tˈiːvˈiː"
+  },
+  {
+    "en": "type",
+    "vn": "loại",
+    "ipa": "tˈaɪp"
+  },
+  {
+    "en": "unit",
+    "vn": "đơn vị",
+    "ipa": "jˈuːn̆ʌt"
+  },
+  {
+    "en": "until",
+    "vn": "cho đến khi",
+    "ipa": "̆ʌntˈɪl"
+  },
+  {
+    "en": "upon",
+    "vn": "trên",
+    "ipa": "̆ʌpˈɑn"
+  },
+  {
+    "en": "us",
+    "vn": "chúng tôi",
+    "ipa": "ˈʌs"
+  },
+  {
+    "en": "various",
+    "vn": "nhiều loại",
+    "ipa": "vˈɛr̆iː̆ʌs"
+  },
+  {
+    "en": "victim",
+    "vn": "nạn nhân",
+    "ipa": "vˈɪkt̆ʌm"
+  },
+  {
+    "en": "view",
+    "vn": "quan điểm",
+    "ipa": "vjˈuː"
+  },
+  {
+    "en": "violence",
+    "vn": "bạo lực",
+    "ipa": "vˈaɪ̆ʌl̆ʌns"
+  },
+  {
+    "en": "voice",
+    "vn": "giọng nói",
+    "ipa": "vˈɔɪs"
+  },
+  {
+    "en": "vote",
+    "vn": "bầu cử",
+    "ipa": "vˈoʊt"
+  },
+  {
+    "en": "we",
+    "vn": "chúng tôi",
+    "ipa": "wˈiː"
+  },
+  {
+    "en": "wear",
+    "vn": "mặc",
+    "ipa": "wˈɛr"
+  },
+  {
+    "en": "weight",
+    "vn": "trọng lượng",
+    "ipa": "wˈeɪt"
+  },
+  {
+    "en": "well",
+    "vn": "tốt",
+    "ipa": "wˈɛl"
+  },
+  {
+    "en": "west",
+    "vn": "tây",
+    "ipa": "wˈɛst"
+  },
+  {
+    "en": "western",
+    "vn": "miền tây",
+    "ipa": "wˈɛst̆ɜːn"
+  },
+  {
+    "en": "what",
+    "vn": "cái gì",
+    "ipa": "wˈʌt"
+  },
+  {
+    "en": "whatever",
+    "vn": "bất cứ điều gì",
+    "ipa": "wˌʌtˈɛv̆ɜː"
+  },
+  {
+    "en": "when",
+    "vn": "khi nào",
+    "ipa": "wˈɛn"
+  },
+  {
+    "en": "where",
+    "vn": "ở đâu",
+    "ipa": "wˈɛr"
+  },
+  {
+    "en": "whether",
+    "vn": "liệu",
+    "ipa": "wˈɛð̆ɜː"
+  },
+  {
+    "en": "which",
+    "vn": "cái nào",
+    "ipa": "wˈɪtʃ"
+  },
+  {
+    "en": "while",
+    "vn": "trong khi",
+    "ipa": "wˈaɪl"
+  },
+  {
+    "en": "who",
+    "vn": "ai",
+    "ipa": "hˈuː"
+  },
+  {
+    "en": "whom",
+    "vn": "ai",
+    "ipa": "hˈuːm"
+  },
+  {
+    "en": "whose",
+    "vn": "của ai",
+    "ipa": "hˈuːz"
+  },
+  {
+    "en": "why",
+    "vn": "tại sao",
+    "ipa": "wˈaɪ"
+  },
+  {
+    "en": "within",
+    "vn": "trong vòng",
+    "ipa": "w̆ɪðˈɪn"
+  },
+  {
+    "en": "without",
+    "vn": "mà không",
+    "ipa": "w̆ɪθˈaʊt"
+  },
+  {
+    "en": "wonder",
+    "vn": "tự hỏi",
+    "ipa": "wˈʌnd̆ɜː"
+  },
+  {
+    "en": "worry",
+    "vn": "lo lắng",
+    "ipa": "wˈɜː̆iː"
+  },
+  {
+    "en": "yeah",
+    "vn": "vâng",
+    "ipa": "jˈæ"
+  },
+  {
+    "en": "yes",
+    "vn": "có",
+    "ipa": "jˈɛs"
+  },
+  {
+    "en": "your",
+    "vn": "của bạn",
+    "ipa": "jˈɔr"
+  },
+  {
+    "en": "yourself",
+    "vn": "chính bạn",
+    "ipa": "j̆ɜːsˈɛlf"
+  },
+  {
+    "en": "abroad",
+    "vn": "nước ngoài",
+    "ipa": "̆ʌbrˈɔd"
+  },
+  {
+    "en": "access",
+    "vn": "truy cập",
+    "ipa": "ˈæksˌɛs"
+  },
+  {
+    "en": "accident",
+    "vn": "tai nạn",
+    "ipa": "ˈæks̆ʌd̆ʌnt"
+  },
+  {
+    "en": "account",
+    "vn": "tài khoản",
+    "ipa": "̆ʌkˈaʊnt"
+  },
+  {
+    "en": "accurate",
+    "vn": "chính xác",
+    "ipa": "ˈækj̆ɜː̆ʌt"
+  },
+  {
+    "en": "acknowledge",
+    "vn": "thừa nhận",
+    "ipa": "̆æknˈɑl̆ɪdʒ"
+  },
+  {
+    "en": "acquire",
+    "vn": "đạt được, thu được",
+    "ipa": "̆ʌkwˈaɪ̆ɜː"
+  },
+  {
+    "en": "adapt",
+    "vn": "thích nghi",
+    "ipa": "̆ʌdˈæpt"
+  },
+  {
+    "en": "adjust",
+    "vn": "điều chỉnh",
+    "ipa": "̆ʌdʒˈʌst"
+  },
+  {
+    "en": "admire",
+    "vn": "ngưỡng mộ",
+    "ipa": "̆ædmˈaɪr"
+  },
+  {
+    "en": "adopt",
+    "vn": "chấp nhận, nhận nuôi",
+    "ipa": "̆ʌdˈɑpt"
+  },
+  {
+    "en": "advance",
+    "vn": "tiến bộ",
+    "ipa": "̆ʌdvˈæns"
+  },
+  {
+    "en": "advantage",
+    "vn": "lợi thế",
+    "ipa": "̆ædvˈænt̆ɪdʒ"
+  },
+  {
+    "en": "advertise",
+    "vn": "quảng cáo",
+    "ipa": "ˈædv̆ɜːtˌaɪz"
+  },
+  {
+    "en": "affair",
+    "vn": "công việc, vấn đề",
+    "ipa": "̆ʌfˈɛr"
+  },
+  {
+    "en": "afford",
+    "vn": "đủ khả năng",
+    "ipa": "̆ʌfˈɔrd"
+  },
+  {
+    "en": "afraid",
+    "vn": "sợ",
+    "ipa": "̆ʌfrˈeɪd"
+  },
+  {
+    "en": "aid",
+    "vn": "viện trợ",
+    "ipa": "ˈeɪd"
+  },
+  {
+    "en": "aim",
+    "vn": "mục tiêu",
+    "ipa": "ˈeɪm"
+  },
+  {
+    "en": "aircraft",
+    "vn": "máy bay",
+    "ipa": "ˈɛrkrˌæft"
+  },
+  {
+    "en": "alarm",
+    "vn": "báo thức",
+    "ipa": "̆ʌlˈɑrm"
+  },
+  {
+    "en": "alcohol",
+    "vn": "rượu",
+    "ipa": "ˈælk̆ʌhˌɑl"
+  },
+  {
+    "en": "alter",
+    "vn": "thay đổi",
+    "ipa": "ˈɔlt̆ɜː"
+  },
+  {
+    "en": "altogether",
+    "vn": "hoàn toàn",
+    "ipa": "ˌɔlt̆ʌɡˈɛð̆ɜː"
+  },
+  {
+    "en": "ambition",
+    "vn": "tham vọng",
+    "ipa": "̆æmbˈɪʃ̆ʌn"
+  },
+  {
+    "en": "ambitious",
+    "vn": "đầy tham vọng",
+    "ipa": "̆æmbˈɪʃ̆ʌs"
+  },
+  {
+    "en": "analyse",
+    "vn": "phân tích",
+    "ipa": "ˈænəlaɪz"
+  },
+  {
+    "en": "angle",
+    "vn": "góc",
+    "ipa": "ˈæŋɡ̆ʌl"
+  },
+  {
+    "en": "angry",
+    "vn": "tức giận",
+    "ipa": "ˈæŋɡr̆iː"
+  },
+  {
+    "en": "anniversary",
+    "vn": "ngày kỷ niệm",
+    "ipa": "ˌæn̆ʌvˈɜːs̆ɜː̆iː"
+  },
+  {
+    "en": "announce",
+    "vn": "thông báo",
+    "ipa": "̆ʌnˈaʊns"
+  },
+  {
+    "en": "annoy",
+    "vn": "làm phiền",
+    "ipa": "̆ʌnˈɔɪ"
+  },
+  {
+    "en": "annual",
+    "vn": "hàng năm",
+    "ipa": "ˈænj̆uː̆ʌl"
+  },
+  {
+    "en": "anxious",
+    "vn": "lo lắng",
+    "ipa": "ˈæŋkʃ̆ʌs"
+  },
+  {
+    "en": "anybody",
+    "vn": "bất cứ ai",
+    "ipa": "ˈɛn̆iːb̆ʌd̆iː"
+  },
+  {
+    "en": "anyway",
+    "vn": "dù sao",
+    "ipa": "ˈɛn̆iːwˌeɪ"
+  },
+  {
+    "en": "anywhere",
+    "vn": "bất cứ đâu",
+    "ipa": "ˈɛn̆iːwˌɛr"
+  },
+  {
+    "en": "apart",
+    "vn": "riêng rẽ",
+    "ipa": "̆ʌpˈɑrt"
+  },
+  {
+    "en": "apologise",
+    "vn": "xin lỗi",
+    "ipa": "̆ʌpˈɑl̆ʌdʒˌaɪz"
+  },
+  {
+    "en": "apparent",
+    "vn": "rõ ràng",
+    "ipa": "̆ʌpˈɛr̆ʌnt"
+  },
+  {
+    "en": "appeal",
+    "vn": "kháng cáo, hấp dẫn",
+    "ipa": "̆ʌpˈiːl"
+  },
+  {
+    "en": "application",
+    "vn": "ứng dụng",
+    "ipa": "ˌæpl̆ʌkˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "appoint",
+    "vn": "bổ nhiệm",
+    "ipa": "̆ʌpˈɔɪnt"
+  },
+  {
+    "en": "appreciate",
+    "vn": "đánh giá cao",
+    "ipa": "̆ʌprˈiːʃ̆iːˌeɪt"
+  },
+  {
+    "en": "appropriate",
+    "vn": "phù hợp",
+    "ipa": "̆ʌprˈoʊpr̆iː̆ʌt"
+  },
+  {
+    "en": "approval",
+    "vn": "sự chấp thuận",
+    "ipa": "̆ʌprˈuːv̆ʌl"
+  },
+  {
+    "en": "approve",
+    "vn": "chấp thuận",
+    "ipa": "̆ʌprˈuːv"
+  },
+  {
+    "en": "argument",
+    "vn": "tranh luận",
+    "ipa": "ˈɑrɡj̆ʌm̆ʌnt"
+  },
+  {
+    "en": "arise",
+    "vn": "phát sinh",
+    "ipa": "̆ɜːˈaɪz"
+  },
+  {
+    "en": "arrangement",
+    "vn": "sự sắp xếp",
+    "ipa": "̆ɜːˈeɪndʒm̆ʌnt"
+  },
+  {
+    "en": "arrest",
+    "vn": "bắt giữ",
+    "ipa": "̆ɜːˈɛst"
+  },
+  {
+    "en": "arrival",
+    "vn": "sự đến",
+    "ipa": "̆ɜːˈaɪv̆ʌl"
+  },
+  {
+    "en": "ashamed",
+    "vn": "xấu hổ",
+    "ipa": "̆ʌʃˈeɪmd"
+  },
+  {
+    "en": "aside",
+    "vn": "sang một bên",
+    "ipa": "̆ʌsˈaɪd"
+  },
+  {
+    "en": "asleep",
+    "vn": "đang ngủ",
+    "ipa": "̆ʌslˈiːp"
+  },
+  {
+    "en": "aspect",
+    "vn": "khía cạnh",
+    "ipa": "ˈæspˌɛkt"
+  },
+  {
+    "en": "assess",
+    "vn": "đánh giá",
+    "ipa": "̆ʌsˈɛs"
+  },
+  {
+    "en": "assignment",
+    "vn": "bài tập",
+    "ipa": "̆ʌsˈaɪnm̆ʌnt"
+  },
+  {
+    "en": "assist",
+    "vn": "hỗ trợ",
+    "ipa": "̆ʌsˈɪst"
+  },
+  {
+    "en": "assistance",
+    "vn": "sự hỗ trợ",
+    "ipa": "̆ʌsˈɪst̆ʌns"
+  },
+  {
+    "en": "assistant",
+    "vn": "trợ lý",
+    "ipa": "̆ʌsˈɪst̆ʌnt"
+  },
+  {
+    "en": "associate",
+    "vn": "kết hợp",
+    "ipa": "̆ʌsˈoʊs̆iː̆ʌt"
+  },
+  {
+    "en": "association",
+    "vn": "hiệp hội",
+    "ipa": "̆ʌsˌoʊs̆iːˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "assure",
+    "vn": "đảm bảo",
+    "ipa": "̆ʌʃˈʊr"
+  },
+  {
+    "en": "astonishing",
+    "vn": "đáng kinh ngạc",
+    "ipa": "̆ʌstˈɑn̆ɪʃ̆ɪŋ"
+  },
+  {
+    "en": "atmosphere",
+    "vn": "bầu không khí",
+    "ipa": "ˈætm̆ʌsfˌɪr"
+  },
+  {
+    "en": "attach",
+    "vn": "đính kèm",
+    "ipa": "̆ʌtˈætʃ"
+  },
+  {
+    "en": "attend",
+    "vn": "tham dự",
+    "ipa": "̆ʌtˈɛnd"
+  },
+  {
+    "en": "attitude",
+    "vn": "thái độ",
+    "ipa": "ˈæt̆ʌtˌuːd"
+  },
+  {
+    "en": "attract",
+    "vn": "thu hút",
+    "ipa": "̆ʌtrˈækt"
+  },
+  {
+    "en": "attraction",
+    "vn": "sự thu hút",
+    "ipa": "̆ʌtrˈækʃ̆ʌn"
+  },
+  {
+    "en": "average",
+    "vn": "trung bình",
+    "ipa": "ˈæv̆ɜː̆ɪdʒ"
+  },
+  {
+    "en": "award",
+    "vn": "giải thưởng",
+    "ipa": "̆ʌwˈɔrd"
+  },
+  {
+    "en": "aware",
+    "vn": "nhận thức",
+    "ipa": "̆ʌwˈɛr"
+  },
+  {
+    "en": "background",
+    "vn": "nền tảng",
+    "ipa": "bˈækɡrˌaʊnd"
+  },
+  {
+    "en": "badly",
+    "vn": "tệ",
+    "ipa": "bˈædl̆iː"
+  },
+  {
+    "en": "balance",
+    "vn": "cân bằng",
+    "ipa": "bˈæl̆ʌns"
+  },
+  {
+    "en": "ban",
+    "vn": "cấm",
+    "ipa": "bˈæn"
+  },
+  {
+    "en": "band",
+    "vn": "ban nhạc",
+    "ipa": "bˈænd"
+  },
+  {
+    "en": "barely",
+    "vn": "hầu như không",
+    "ipa": "bˈɛrl̆iː"
+  },
+  {
+    "en": "barrier",
+    "vn": "rào cản",
+    "ipa": "bˈær̆iː̆ɜː"
+  },
+  {
+    "en": "basic",
+    "vn": "cơ bản",
+    "ipa": "bˈeɪs̆ɪk"
+  },
+  {
+    "en": "basically",
+    "vn": "về cơ bản",
+    "ipa": "bˈeɪs̆ɪkl̆iː"
+  },
+  {
+    "en": "basis",
+    "vn": "nền tảng",
+    "ipa": "bˈeɪs̆ʌs"
+  },
+  {
+    "en": "beauty",
+    "vn": "vẻ đẹp",
+    "ipa": "bjˈuːt̆iː"
+  },
+  {
+    "en": "beginning",
+    "vn": "sự bắt đầu",
+    "ipa": "b̆ɪɡˈɪn̆ɪŋ"
+  },
+  {
+    "en": "behave",
+    "vn": "cư xử",
+    "ipa": "b̆ɪhˈeɪv"
+  },
+  {
+    "en": "behaviour",
+    "vn": "hành vi",
+    "ipa": "b̆ɪhˈeɪvj̆ɜː"
+  },
+  {
+    "en": "belong",
+    "vn": "thuộc về",
+    "ipa": "b̆ɪlˈɔŋ"
+  },
+  {
+    "en": "below",
+    "vn": "bên dưới",
+    "ipa": "b̆ɪlˈoʊ"
+  },
+  {
+    "en": "bend",
+    "vn": "uốn cong",
+    "ipa": "bˈɛnd"
+  },
+  {
+    "en": "beside",
+    "vn": "bên cạnh",
+    "ipa": "b̆ɪsˈaɪd"
+  },
+  {
+    "en": "besides",
+    "vn": "ngoài ra",
+    "ipa": "b̆ɪsˈaɪdz"
+  },
+  {
+    "en": "bet",
+    "vn": "cá cược",
+    "ipa": "bˈɛt"
+  },
+  {
+    "en": "betray",
+    "vn": "phản bội",
+    "ipa": "b̆ɪtrˈeɪ"
+  },
+  {
+    "en": "bike",
+    "vn": "xe đạp",
+    "ipa": "bˈaɪk"
+  },
+  {
+    "en": "bind",
+    "vn": "ràng buộc",
+    "ipa": "bˈaɪnd"
+  },
+  {
+    "en": "birth",
+    "vn": "sự sinh ra",
+    "ipa": "bˈɜːθ"
+  },
+  {
+    "en": "birthday",
+    "vn": "sinh nhật",
+    "ipa": "bˈɜːθdˌeɪ"
+  },
+  {
+    "en": "bite",
+    "vn": "cắn",
+    "ipa": "bˈaɪt"
+  },
+  {
+    "en": "bitter",
+    "vn": "đắng",
+    "ipa": "bˈɪt̆ɜː"
+  },
+  {
+    "en": "blind",
+    "vn": "mù",
+    "ipa": "blˈaɪnd"
+  },
+  {
+    "en": "block",
+    "vn": "khối, chặn",
+    "ipa": "blˈɑk"
+  },
+  {
+    "en": "blow",
+    "vn": "thổi",
+    "ipa": "blˈoʊ"
+  },
+  {
+    "en": "boast",
+    "vn": "khoe khoang",
+    "ipa": "bˈoʊst"
+  },
+  {
+    "en": "bold",
+    "vn": "táo bạo",
+    "ipa": "bˈoʊld"
+  },
+  {
+    "en": "bond",
+    "vn": "trái phiếu, mối liên kết",
+    "ipa": "bˈɑnd"
+  },
+  {
+    "en": "bonus",
+    "vn": "tiền thưởng",
+    "ipa": "bˈoʊn̆ʌs"
+  },
+  {
+    "en": "boost",
+    "vn": "thúc đẩy",
+    "ipa": "bˈuːst"
+  },
+  {
+    "en": "border",
+    "vn": "biên giới",
+    "ipa": "bˈɔrd̆ɜː"
+  },
+  {
+    "en": "bore",
+    "vn": "làm chán",
+    "ipa": "bˈɔr"
+  },
+  {
+    "en": "boss",
+    "vn": "sếp",
+    "ipa": "bˈɑs"
+  },
+  {
+    "en": "bother",
+    "vn": "làm phiền",
+    "ipa": "bˈɑð̆ɜː"
+  },
+  {
+    "en": "bottle",
+    "vn": "chai",
+    "ipa": "bˈɑt̆ʌl"
+  },
+  {
+    "en": "bottom",
+    "vn": "đáy",
+    "ipa": "bˈɑt̆ʌm"
+  },
+  {
+    "en": "bound",
+    "vn": "bị ràng buộc",
+    "ipa": "bˈaʊnd"
+  },
+  {
+    "en": "boundary",
+    "vn": "ranh giới",
+    "ipa": "bˈaʊnd̆ɜː̆iː"
+  },
+  {
+    "en": "bow",
+    "vn": "cúi chào",
+    "ipa": "bˈaʊ"
+  },
+  {
+    "en": "bowl",
+    "vn": "bát",
+    "ipa": "bˈoʊl"
+  },
+  {
+    "en": "branch",
+    "vn": "chi nhánh",
+    "ipa": "brˈæntʃ"
+  },
+  {
+    "en": "brave",
+    "vn": "dũng cảm",
+    "ipa": "brˈeɪv"
+  },
+  {
+    "en": "breast",
+    "vn": "ngực",
+    "ipa": "brˈɛst"
+  },
+  {
+    "en": "breath",
+    "vn": "hơi thở",
+    "ipa": "brˈɛθ"
+  },
+  {
+    "en": "breed",
+    "vn": "giống, nuôi",
+    "ipa": "brˈiːd"
+  },
+  {
+    "en": "brick",
+    "vn": "gạch",
+    "ipa": "brˈɪk"
+  },
+  {
+    "en": "brief",
+    "vn": "ngắn gọn",
+    "ipa": "brˈiːf"
+  },
+  {
+    "en": "bright",
+    "vn": "sáng sủa",
+    "ipa": "brˈaɪt"
+  },
+  {
+    "en": "brilliant",
+    "vn": "rực rỡ",
+    "ipa": "brˈɪlj̆ʌnt"
+  },
+  {
+    "en": "broad",
+    "vn": "rộng",
+    "ipa": "brˈɔd"
+  },
+  {
+    "en": "broken",
+    "vn": "bị hỏng",
+    "ipa": "brˈoʊk̆ʌn"
+  },
+  {
+    "en": "brush",
+    "vn": "chải, bàn chải",
+    "ipa": "brˈʌʃ"
+  },
+  {
+    "en": "bubble",
+    "vn": "bong bóng",
+    "ipa": "bˈʌb̆ʌl"
+  },
+  {
+    "en": "bullet",
+    "vn": "đạn",
+    "ipa": "bˈʊl̆ʌt"
+  },
+  {
+    "en": "bunch",
+    "vn": "bó, chùm",
+    "ipa": "bˈʌntʃ"
+  },
+  {
+    "en": "burden",
+    "vn": "gánh nặng",
+    "ipa": "bˈɜːd̆ʌn"
+  },
+  {
+    "en": "burn",
+    "vn": "đốt cháy",
+    "ipa": "bˈɜːn"
+  },
+  {
+    "en": "burst",
+    "vn": "nổ tung",
+    "ipa": "bˈɜːst"
+  },
+  {
+    "en": "bury",
+    "vn": "chôn cất",
+    "ipa": "bˈɛr̆iː"
+  },
+  {
+    "en": "bush",
+    "vn": "bụi cây",
+    "ipa": "bˈʊʃ"
+  },
+  {
+    "en": "busy",
+    "vn": "bận rộn",
+    "ipa": "bˈɪz̆iː"
+  },
+  {
+    "en": "button",
+    "vn": "nút",
+    "ipa": "bˈʌt̆ʌn"
+  },
+  {
+    "en": "cabinet",
+    "vn": "tủ",
+    "ipa": "kˈæb̆ʌn̆ʌt"
+  },
+  {
+    "en": "cable",
+    "vn": "cáp",
+    "ipa": "kˈeɪb̆ʌl"
+  },
+  {
+    "en": "camp",
+    "vn": "cắm trại",
+    "ipa": "kˈæmp"
+  },
+  {
+    "en": "campus",
+    "vn": "khuôn viên trường",
+    "ipa": "kˈæmp̆ʌs"
+  },
+  {
+    "en": "candle",
+    "vn": "nến",
+    "ipa": "kˈænd̆ʌl"
+  },
+  {
+    "en": "capable",
+    "vn": "có khả năng",
+    "ipa": "kˈeɪp̆ʌb̆ʌl"
+  },
+  {
+    "en": "capacity",
+    "vn": "năng lực",
+    "ipa": "k̆ʌpˈæs̆ʌt̆iː"
+  },
+  {
+    "en": "capture",
+    "vn": "bắt giữ",
+    "ipa": "kˈæptʃ̆ɜː"
+  },
+  {
+    "en": "careful",
+    "vn": "cẩn thận",
+    "ipa": "kˈɛrf̆ʌl"
+  },
+  {
+    "en": "careless",
+    "vn": "bất cẩn",
+    "ipa": "kˈɛrl̆ʌs"
+  },
+  {
+    "en": "cargo",
+    "vn": "hàng hóa",
+    "ipa": "kˈɑrɡˌoʊ"
+  },
+  {
+    "en": "carpet",
+    "vn": "thảm",
+    "ipa": "kˈɑrp̆ʌt"
+  },
+  {
+    "en": "carrot",
+    "vn": "cà rốt",
+    "ipa": "kˈær̆ʌt"
+  },
+  {
+    "en": "cartoon",
+    "vn": "hoạt hình",
+    "ipa": "k̆ɑrtˈuːn"
+  },
+  {
+    "en": "cast",
+    "vn": "phân vai, đúc",
+    "ipa": "kˈæst"
+  },
+  {
+    "en": "castle",
+    "vn": "lâu đài",
+    "ipa": "kˈæs̆ʌl"
+  },
+  {
+    "en": "casual",
+    "vn": "bình thường",
+    "ipa": "kˈæʒ̆ʌw̆ʌl"
+  },
+  {
+    "en": "category",
+    "vn": "danh mục",
+    "ipa": "kˈæt̆ʌɡˌɔr̆iː"
+  },
+  {
+    "en": "caution",
+    "vn": "thận trọng",
+    "ipa": "kˈɑʃ̆ʌn"
+  },
+  {
+    "en": "cautious",
+    "vn": "thận trọng",
+    "ipa": "kˈɔʃ̆ʌs"
+  },
+  {
+    "en": "cave",
+    "vn": "hang động",
+    "ipa": "kˈeɪv"
+  },
+  {
+    "en": "cease",
+    "vn": "ngừng",
+    "ipa": "sˈiːs"
+  },
+  {
+    "en": "celebrate",
+    "vn": "kỷ niệm",
+    "ipa": "sˈɛl̆ʌbrˌeɪt"
+  },
+  {
+    "en": "celebration",
+    "vn": "lễ kỷ niệm",
+    "ipa": "sˌɛl̆ʌbrˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "cent",
+    "vn": "xu",
+    "ipa": "sˈɛnt"
+  },
+  {
+    "en": "ceremony",
+    "vn": "buổi lễ",
+    "ipa": "sˈɛr̆ʌmˌoʊn̆iː"
+  },
+  {
+    "en": "chain",
+    "vn": "dây xích",
+    "ipa": "tʃˈeɪn"
+  },
+  {
+    "en": "chairman",
+    "vn": "chủ tịch",
+    "ipa": "tʃˈɛrm̆ʌn"
+  },
+  {
+    "en": "chamber",
+    "vn": "phòng",
+    "ipa": "tʃˈeɪmb̆ɜː"
+  },
+  {
+    "en": "champion",
+    "vn": "nhà vô địch",
+    "ipa": "tʃˈæmp̆iː̆ʌn"
+  },
+  {
+    "en": "championship",
+    "vn": "chức vô địch",
+    "ipa": "tʃˈæmp̆iː̆ʌnʃˌɪp"
+  },
+  {
+    "en": "channel",
+    "vn": "kênh",
+    "ipa": "tʃˈæn̆ʌl"
+  },
+  {
+    "en": "chaos",
+    "vn": "hỗn loạn",
+    "ipa": "kˈeɪ̆ɑs"
+  },
+  {
+    "en": "characteristic",
+    "vn": "đặc điểm",
+    "ipa": "kˌɛr̆ʌkt̆ɜːˈɪst̆ɪk"
+  },
+  {
+    "en": "charity",
+    "vn": "từ thiện",
+    "ipa": "tʃˈɛr̆ɪt̆iː"
+  },
+  {
+    "en": "charm",
+    "vn": "sự quyến rũ",
+    "ipa": "tʃˈɑrm"
+  },
+  {
+    "en": "chart",
+    "vn": "biểu đồ",
+    "ipa": "tʃˈɑrt"
+  },
+  {
+    "en": "chase",
+    "vn": "đuổi theo",
+    "ipa": "tʃˈeɪs"
+  },
+  {
+    "en": "cheat",
+    "vn": "gian lận",
+    "ipa": "tʃˈiːt"
+  },
+  {
+    "en": "cheek",
+    "vn": "má",
+    "ipa": "tʃˈiːk"
+  },
+  {
+    "en": "cheer",
+    "vn": "cổ vũ",
+    "ipa": "tʃˈɪr"
+  },
+  {
+    "en": "chef",
+    "vn": "đầu bếp",
+    "ipa": "ʃˈɛf"
+  },
+  {
+    "en": "chemical",
+    "vn": "hóa chất",
+    "ipa": "kˈɛm̆ʌk̆ʌl"
+  },
+  {
+    "en": "cheque",
+    "vn": "séc",
+    "ipa": "tʃˈɛk"
+  },
+  {
+    "en": "chess",
+    "vn": "cờ vua",
+    "ipa": "tʃˈɛs"
+  },
+  {
+    "en": "chew",
+    "vn": "nhai",
+    "ipa": "tʃˈuː"
+  },
+  {
+    "en": "chief",
+    "vn": "trưởng, chính",
+    "ipa": "tʃˈiːf"
+  },
+  {
+    "en": "chip",
+    "vn": "khoai tây chiên, vi mạch",
+    "ipa": "tʃˈɪp"
+  },
+  {
+    "en": "chop",
+    "vn": "chặt",
+    "ipa": "tʃˈɑp"
+  },
+  {
+    "en": "Christian",
+    "vn": "Kitô giáo",
+    "ipa": "krˈɪstʃ̆ʌn"
+  },
+  {
+    "en": "Christmas",
+    "vn": "Giáng sinh",
+    "ipa": "krˈɪsm̆ʌs"
+  },
+  {
+    "en": "cigarette",
+    "vn": "thuốc lá",
+    "ipa": "sˌɪɡ̆ɜːˈɛt"
+  },
+  {
+    "en": "circle",
+    "vn": "hình tròn",
+    "ipa": "sˈɜːk̆ʌl"
+  },
+  {
+    "en": "circuit",
+    "vn": "mạch",
+    "ipa": "sˈɜːk̆ʌt"
+  },
+  {
+    "en": "circular",
+    "vn": "hình tròn",
+    "ipa": "sˈɜːkj̆ʌl̆ɜː"
+  },
+  {
+    "en": "circulate",
+    "vn": "lưu thông",
+    "ipa": "sˈɜːkj̆ʌlˌeɪt"
+  },
+  {
+    "en": "circumstance",
+    "vn": "hoàn cảnh",
+    "ipa": "sˈɜːk̆ʌmstˌæns"
+  },
+  {
+    "en": "cite",
+    "vn": "trích dẫn",
+    "ipa": "sˈaɪt"
+  },
+  {
+    "en": "civilian",
+    "vn": "thường dân",
+    "ipa": "s̆ʌvˈɪlj̆ʌn"
+  },
+  {
+    "en": "civilization",
+    "vn": "nền văn minh",
+    "ipa": "sˌɪv̆ʌl̆ɪzˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "clap",
+    "vn": "vỗ tay",
+    "ipa": "klˈæp"
+  },
+  {
+    "en": "clarify",
+    "vn": "làm rõ",
+    "ipa": "klˈɛr̆ʌfˌaɪ"
+  },
+  {
+    "en": "classic",
+    "vn": "kinh điển",
+    "ipa": "klˈæs̆ɪk"
+  },
+  {
+    "en": "classical",
+    "vn": "cổ điển",
+    "ipa": "klˈæs̆ɪk̆ʌl"
+  },
+  {
+    "en": "classroom",
+    "vn": "phòng học",
+    "ipa": "klˈæsrˌuːm"
+  },
+  {
+    "en": "clause",
+    "vn": "mệnh đề",
+    "ipa": "klˈɔz"
+  },
+  {
+    "en": "clerk",
+    "vn": "nhân viên văn phòng",
+    "ipa": "klˈɜːk"
+  },
+  {
+    "en": "click",
+    "vn": "nhấp chuột",
+    "ipa": "klˈɪk"
+  },
+  {
+    "en": "cliff",
+    "vn": "vách đá",
+    "ipa": "klˈɪf"
+  },
+  {
+    "en": "climate",
+    "vn": "khí hậu",
+    "ipa": "klˈaɪm̆ʌt"
+  },
+  {
+    "en": "closely",
+    "vn": "chặt chẽ",
+    "ipa": "klˈoʊsl̆iː"
+  },
+  {
+    "en": "closet",
+    "vn": "tủ quần áo",
+    "ipa": "klˈɑz̆ʌt"
+  },
+  {
+    "en": "cloth",
+    "vn": "vải",
+    "ipa": "klˈɔθ"
+  },
+  {
+    "en": "clothing",
+    "vn": "quần áo",
+    "ipa": "klˈoʊð̆ɪŋ"
+  },
+  {
+    "en": "club",
+    "vn": "câu lạc bộ",
+    "ipa": "klˈʌb"
+  },
+  {
+    "en": "clue",
+    "vn": "manh mối",
+    "ipa": "klˈuː"
+  },
+  {
+    "en": "coal",
+    "vn": "than đá",
+    "ipa": "kˈoʊl"
+  },
+  {
+    "en": "coast",
+    "vn": "bờ biển",
+    "ipa": "kˈoʊst"
+  },
+  {
+    "en": "code",
+    "vn": "mã",
+    "ipa": "kˈoʊd"
+  },
+  {
+    "en": "collapse",
+    "vn": "sụp đổ",
+    "ipa": "k̆ʌlˈæps"
+  },
+  {
+    "en": "collect",
+    "vn": "thu thập",
+    "ipa": "k̆ʌlˈɛkt"
+  },
+  {
+    "en": "column",
+    "vn": "cột",
+    "ipa": "kˈɑl̆ʌm"
+  },
+  {
+    "en": "comb",
+    "vn": "lược",
+    "ipa": "kˈoʊm"
+  },
+  {
+    "en": "combat",
+    "vn": "chiến đấu",
+    "ipa": "kˈɑmb̆æt"
+  },
+  {
+    "en": "combination",
+    "vn": "sự kết hợp",
+    "ipa": "kˌɑmb̆ʌnˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "combine",
+    "vn": "kết hợp",
+    "ipa": "kˈɑmb̆aɪn"
+  },
+  {
+    "en": "comedy",
+    "vn": "hài kịch",
+    "ipa": "kˈɑm̆ʌd̆iː"
+  },
+  {
+    "en": "comfortable",
+    "vn": "thoải mái",
+    "ipa": "kˈʌmf̆ɜːt̆ʌb̆ʌl"
+  },
+  {
+    "en": "comic",
+    "vn": "truyện tranh",
+    "ipa": "kˈɑm̆ɪk"
+  },
+  {
+    "en": "command",
+    "vn": "ra lệnh",
+    "ipa": "k̆ʌmˈænd"
+  },
+  {
+    "en": "comment",
+    "vn": "bình luận",
+    "ipa": "kˈɑm̆ɛnt"
+  },
+  {
+    "en": "commission",
+    "vn": "hoa hồng",
+    "ipa": "k̆ʌmˈɪʃ̆ʌn"
+  },
+  {
+    "en": "commit",
+    "vn": "cam kết",
+    "ipa": "k̆ʌmˈɪt"
+  },
+  {
+    "en": "commitment",
+    "vn": "cam kết",
+    "ipa": "k̆ʌmˈɪtm̆ʌnt"
+  },
+  {
+    "en": "committee",
+    "vn": "ủy ban",
+    "ipa": "k̆ʌmˈɪt̆iː"
+  },
+  {
+    "en": "communicate",
+    "vn": "giao tiếp",
+    "ipa": "k̆ʌmjˈuːn̆ʌkˌeɪt"
+  },
+  {
+    "en": "communication",
+    "vn": "giao tiếp",
+    "ipa": "k̆ʌmjˌuːn̆ʌkˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "comparison",
+    "vn": "sự so sánh",
+    "ipa": "k̆ʌmpˈɛr̆ʌs̆ʌn"
+  },
+  {
+    "en": "compete",
+    "vn": "cạnh tranh",
+    "ipa": "k̆ʌmpˈiːt"
+  },
+  {
+    "en": "competition",
+    "vn": "cuộc thi",
+    "ipa": "kˌɑmp̆ʌtˈɪʃ̆ʌn"
+  },
+  {
+    "en": "competitive",
+    "vn": "cạnh tranh",
+    "ipa": "k̆ʌmpˈɛt̆ʌt̆ɪv"
+  },
+  {
+    "en": "competitor",
+    "vn": "đối thủ",
+    "ipa": "k̆ʌmpˈɛt̆ʌt̆ɜː"
+  },
+  {
+    "en": "complaint",
+    "vn": "lời phàn nàn",
+    "ipa": "k̆ʌmplˈeɪnt"
+  },
+  {
+    "en": "completely",
+    "vn": "hoàn toàn",
+    "ipa": "k̆ʌmplˈiːtl̆iː"
+  },
+  {
+    "en": "complicated",
+    "vn": "phức tạp",
+    "ipa": "kˈɑmpl̆ʌkˌeɪt̆ʌd"
+  },
+  {
+    "en": "component",
+    "vn": "thành phần",
+    "ipa": "k̆ʌmpˈoʊn̆ʌnt"
+  },
+  {
+    "en": "compose",
+    "vn": "sáng tác",
+    "ipa": "k̆ʌmpˈoʊz"
+  },
+  {
+    "en": "composition",
+    "vn": "bài luận",
+    "ipa": "kˌɑmp̆ʌzˈɪʃ̆ʌn"
+  },
+  {
+    "en": "comprehensive",
+    "vn": "toàn diện",
+    "ipa": "kˌɑmpr̆iːhˈɛns̆ɪv"
+  },
+  {
+    "en": "compromise",
+    "vn": "thỏa hiệp",
+    "ipa": "kˈɑmpr̆ʌmˌaɪz"
+  },
+  {
+    "en": "compulsory",
+    "vn": "bắt buộc",
+    "ipa": "k̆ʌmpˈʌls̆ɜː̆iː"
+  },
+  {
+    "en": "concentrate",
+    "vn": "tập trung",
+    "ipa": "kˈɑns̆ʌntrˌeɪt"
+  },
+  {
+    "en": "concentration",
+    "vn": "sự tập trung",
+    "ipa": "kˌɑns̆ʌntrˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "concept",
+    "vn": "khái niệm",
+    "ipa": "kˈɑns̆ɛpt"
+  },
+  {
+    "en": "concerned",
+    "vn": "lo lắng",
+    "ipa": "k̆ʌnsˈɜːnd"
+  },
+  {
+    "en": "concert",
+    "vn": "buổi hòa nhạc",
+    "ipa": "kˈɑns̆ɜːt"
+  },
+  {
+    "en": "conclude",
+    "vn": "kết luận",
+    "ipa": "k̆ʌnklˈuːd"
+  },
+  {
+    "en": "conclusion",
+    "vn": "kết luận",
+    "ipa": "k̆ʌnklˈuːʒ̆ʌn"
+  },
+  {
+    "en": "concrete",
+    "vn": "cụ thể, bê tông",
+    "ipa": "k̆ʌnkrˈiːt"
+  },
+  {
+    "en": "conduct",
+    "vn": "thực hiện",
+    "ipa": "kˈɑnd̆ʌkt"
+  },
+  {
+    "en": "confidence",
+    "vn": "sự tự tin",
+    "ipa": "kˈɑnf̆ʌd̆ʌns"
+  },
+  {
+    "en": "confident",
+    "vn": "tự tin",
+    "ipa": "kˈɑnf̆ʌd̆ʌnt"
+  },
+  {
+    "en": "confirm",
+    "vn": "xác nhận",
+    "ipa": "k̆ʌnfˈɜːm"
+  },
+  {
+    "en": "conflict",
+    "vn": "xung đột",
+    "ipa": "kˈɑnfl̆ɪkt"
+  },
+  {
+    "en": "confront",
+    "vn": "đối mặt",
+    "ipa": "k̆ʌnfrˈʌnt"
+  },
+  {
+    "en": "confuse",
+    "vn": "làm bối rối",
+    "ipa": "k̆ʌnfjˈuːz"
+  },
+  {
+    "en": "confusion",
+    "vn": "sự bối rối",
+    "ipa": "k̆ʌnfjˈuːʒ̆ʌn"
+  },
+  {
+    "en": "congratulate",
+    "vn": "chúc mừng",
+    "ipa": "k̆ʌnɡrˈætʃ̆ʌlˌeɪt"
+  },
+  {
+    "en": "connect",
+    "vn": "kết nối",
+    "ipa": "k̆ʌnˈɛkt"
+  },
+  {
+    "en": "connection",
+    "vn": "kết nối",
+    "ipa": "k̆ʌnˈɛkʃ̆ʌn"
+  },
+  {
+    "en": "conscious",
+    "vn": "có ý thức",
+    "ipa": "kˈɑnʃ̆ʌs"
+  },
+  {
+    "en": "consciousness",
+    "vn": "ý thức",
+    "ipa": "kˈɑnʃ̆ʌsn̆ʌs"
+  },
+  {
+    "en": "consensus",
+    "vn": "sự đồng thuận",
+    "ipa": "k̆ʌnsˈɛns̆ʌs"
+  },
+  {
+    "en": "consent",
+    "vn": "đồng ý",
+    "ipa": "k̆ʌnsˈɛnt"
+  },
+  {
+    "en": "consequence",
+    "vn": "hậu quả",
+    "ipa": "kˈɑns̆ʌkw̆ʌns"
+  },
+  {
+    "en": "conservative",
+    "vn": "bảo thủ",
+    "ipa": "k̆ʌnsˈɜːv̆ʌt̆ɪv"
+  },
+  {
+    "en": "considerable",
+    "vn": "đáng kể",
+    "ipa": "k̆ʌnsˈɪd̆ɜː̆ʌb̆ʌl"
+  },
+  {
+    "en": "consideration",
+    "vn": "sự cân nhắc",
+    "ipa": "k̆ʌnsˌɪd̆ɜːˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "consist",
+    "vn": "bao gồm",
+    "ipa": "k̆ʌnsˈɪst"
+  },
+  {
+    "en": "consistent",
+    "vn": "nhất quán",
+    "ipa": "k̆ʌnsˈɪst̆ʌnt"
+  },
+  {
+    "en": "constant",
+    "vn": "không đổi",
+    "ipa": "kˈɑnst̆ʌnt"
+  },
+  {
+    "en": "constantly",
+    "vn": "liên tục",
+    "ipa": "kˈɑnst̆ʌntl̆iː"
+  },
+  {
+    "en": "construct",
+    "vn": "xây dựng",
+    "ipa": "k̆ʌnstrˈʌkt"
+  },
+  {
+    "en": "construction",
+    "vn": "xây dựng",
+    "ipa": "k̆ʌnstrˈʌkʃ̆ʌn"
+  },
+  {
+    "en": "consult",
+    "vn": "tham khảo",
+    "ipa": "k̆ʌnsˈʌlt"
+  },
+  {
+    "en": "consume",
+    "vn": "tiêu thụ",
+    "ipa": "k̆ʌnsˈuːm"
+  },
+  {
+    "en": "contact",
+    "vn": "liên hệ",
+    "ipa": "kˈɑntˌækt"
+  },
+  {
+    "en": "container",
+    "vn": "thùng chứa",
+    "ipa": "k̆ʌntˈeɪn̆ɜː"
+  },
+  {
+    "en": "contemporary",
+    "vn": "đương đại",
+    "ipa": "k̆ʌntˈɛmp̆ɜːˌɛr̆iː"
+  },
+  {
+    "en": "content",
+    "vn": "nội dung",
+    "ipa": "kˈɑnt̆ɛnt"
+  },
+  {
+    "en": "contest",
+    "vn": "cuộc thi",
+    "ipa": "kˈɑnt̆ɛst"
+  },
+  {
+    "en": "context",
+    "vn": "bối cảnh",
+    "ipa": "kˈɑnt̆ɛkst"
+  },
+  {
+    "en": "continent",
+    "vn": "lục địa",
+    "ipa": "kˈɑnt̆ʌn̆ʌnt"
+  },
+  {
+    "en": "continuous",
+    "vn": "liên tục",
+    "ipa": "k̆ʌntˈɪnj̆uː̆ʌs"
+  },
+  {
+    "en": "contribute",
+    "vn": "đóng góp",
+    "ipa": "k̆ʌntrˈɪbj̆uːt"
+  },
+  {
+    "en": "contribution",
+    "vn": "sự đóng góp",
+    "ipa": "kˌɑntr̆ʌbjˈuːʃ̆ʌn"
+  },
+  {
+    "en": "controversial",
+    "vn": "gây tranh cãi",
+    "ipa": "kˌɑntr̆ʌvˈɜːʃ̆ʌl"
+  },
+  {
+    "en": "convenient",
+    "vn": "thuận tiện",
+    "ipa": "k̆ʌnvˈiːnj̆ʌnt"
+  },
+  {
+    "en": "conventional",
+    "vn": "thông thường",
+    "ipa": "k̆ʌnvˈɛnʃ̆ʌn̆ʌl"
+  },
+  {
+    "en": "conversation",
+    "vn": "cuộc trò chuyện",
+    "ipa": "kˌɑnv̆ɜːsˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "convert",
+    "vn": "chuyển đổi",
+    "ipa": "kˈɑnv̆ɜːt"
+  },
+  {
+    "en": "convince",
+    "vn": "thuyết phục",
+    "ipa": "k̆ʌnvˈɪns"
+  },
+  {
+    "en": "cookie",
+    "vn": "bánh quy",
+    "ipa": "kˈʊk̆iː"
+  },
+  {
+    "en": "cooking",
+    "vn": "nấu ăn",
+    "ipa": "kˈʊk̆ɪŋ"
+  },
+  {
+    "en": "copy",
+    "vn": "sao chép",
+    "ipa": "kˈɑp̆iː"
+  },
+  {
+    "en": "core",
+    "vn": "lõi",
+    "ipa": "kˈɔr"
+  },
+  {
+    "en": "corn",
+    "vn": "ngô",
+    "ipa": "kˈɔrn"
+  },
+  {
+    "en": "corner",
+    "vn": "góc",
+    "ipa": "kˈɔrn̆ɜː"
+  },
+  {
+    "en": "corporate",
+    "vn": "thuộc công ty",
+    "ipa": "kˈɔrp̆ɜː̆ʌt"
+  },
+  {
+    "en": "corporation",
+    "vn": "tập đoàn",
+    "ipa": "kˌɔrp̆ɜːˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "correction",
+    "vn": "sự sửa chữa",
+    "ipa": "k̆ɜːˈɛkʃ̆ʌn"
+  },
+  {
+    "en": "correspond",
+    "vn": "tương ứng",
+    "ipa": "kˌɔr̆ʌspˈɑnd"
+  },
+  {
+    "en": "costume",
+    "vn": "trang phục",
+    "ipa": "k̆ɑstˈuːm"
+  },
+  {
+    "en": "cottage",
+    "vn": "nhà tranh",
+    "ipa": "kˈɑt̆ʌdʒ"
+  },
+  {
+    "en": "cotton",
+    "vn": "bông",
+    "ipa": "kˈɑt̆ʌn"
+  },
+  {
+    "en": "council",
+    "vn": "hội đồng",
+    "ipa": "kˈaʊns̆ʌl"
+  },
+  {
+    "en": "counsel",
+    "vn": "tư vấn",
+    "ipa": "kˈaʊns̆ʌl"
+  },
+  {
+    "en": "counter",
+    "vn": "quầy",
+    "ipa": "kˈaʊnt̆ɜː"
+  },
+  {
+    "en": "countryside",
+    "vn": "nông thôn",
+    "ipa": "kˈʌntr̆iːsˌaɪd"
+  },
+  {
+    "en": "county",
+    "vn": "quận",
+    "ipa": "kˈaʊnt̆iː"
+  },
+  {
+    "en": "courage",
+    "vn": "lòng can đảm",
+    "ipa": "kˈɜː̆ʌdʒ"
+  },
+  {
+    "en": "crack",
+    "vn": "vết nứt",
+    "ipa": "krˈæk"
+  },
+  {
+    "en": "craft",
+    "vn": "thủ công",
+    "ipa": "krˈæft"
+  },
+  {
+    "en": "crash",
+    "vn": "va chạm",
+    "ipa": "krˈæʃ"
+  },
+  {
+    "en": "cream",
+    "vn": "kem",
+    "ipa": "krˈiːm"
+  },
+  {
+    "en": "creation",
+    "vn": "sự sáng tạo",
+    "ipa": "kr̆iːˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "creative",
+    "vn": "sáng tạo",
+    "ipa": "kr̆iːˈeɪt̆ɪv"
+  },
+  {
+    "en": "creature",
+    "vn": "sinh vật",
+    "ipa": "krˈiːtʃ̆ɜː"
+  },
+  {
+    "en": "credit",
+    "vn": "tín dụng",
+    "ipa": "krˈɛd̆ʌt"
+  },
+  {
+    "en": "crew",
+    "vn": "thủy thủ đoàn",
+    "ipa": "krˈuː"
+  },
+  {
+    "en": "criminal",
+    "vn": "tội phạm",
+    "ipa": "krˈɪm̆ʌn̆ʌl"
+  },
+  {
+    "en": "crisis",
+    "vn": "khủng hoảng",
+    "ipa": "krˈaɪs̆ʌs"
+  },
+  {
+    "en": "criterion",
+    "vn": "tiêu chí",
+    "ipa": "kr̆aɪtˈɪr̆iː̆ʌn"
+  },
+  {
+    "en": "critic",
+    "vn": "nhà phê bình",
+    "ipa": "krˈɪt̆ɪk"
+  },
+  {
+    "en": "critical",
+    "vn": "quan trọng, phê bình",
+    "ipa": "krˈɪt̆ɪk̆ʌl"
+  },
+  {
+    "en": "criticism",
+    "vn": "sự phê bình",
+    "ipa": "krˈɪt̆ɪsˌɪz̆ʌm"
+  },
+  {
+    "en": "crop",
+    "vn": "cây trồng",
+    "ipa": "krˈɑp"
+  },
+  {
+    "en": "cross",
+    "vn": "băng qua",
+    "ipa": "krˈɔs"
+  },
+  {
+    "en": "crowd",
+    "vn": "đám đông",
+    "ipa": "krˈaʊd"
+  },
+  {
+    "en": "crucial",
+    "vn": "quan trọng",
+    "ipa": "krˈuːʃ̆ʌl"
+  },
+  {
+    "en": "cruel",
+    "vn": "tàn nhẫn",
+    "ipa": "krˈuː̆ʌl"
+  },
+  {
+    "en": "cruise",
+    "vn": "du thuyền",
+    "ipa": "krˈuːz"
+  },
+  {
+    "en": "crush",
+    "vn": "nghiền nát",
+    "ipa": "krˈʌʃ"
+  },
+  {
+    "en": "cupboard",
+    "vn": "tủ chén",
+    "ipa": "kˈʌb̆ɜːd"
+  },
+  {
+    "en": "curiosity",
+    "vn": "sự tò mò",
+    "ipa": "kjˌʊr̆iːˈɑs̆ʌt̆iː"
+  },
+  {
+    "en": "curious",
+    "vn": "tò mò",
+    "ipa": "kjˈʊr̆iː̆ʌs"
+  },
+  {
+    "en": "curl",
+    "vn": "xoăn",
+    "ipa": "kˈɜːl"
+  },
+  {
+    "en": "curriculum",
+    "vn": "chương trình học",
+    "ipa": "k̆ɜːˈɪkj̆ʌl̆ʌm"
+  },
+  {
+    "en": "curtain",
+    "vn": "rèm cửa",
+    "ipa": "kˈɜːt̆ʌn"
+  },
+  {
+    "en": "curve",
+    "vn": "đường cong",
+    "ipa": "kˈɜːv"
+  },
+  {
+    "en": "cushion",
+    "vn": "đệm",
+    "ipa": "kˈʊʃ̆ʌn"
+  },
+  {
+    "en": "custom",
+    "vn": "phong tục",
+    "ipa": "kˈʌst̆ʌm"
+  },
+  {
+    "en": "cycle",
+    "vn": "chu kỳ, đạp xe",
+    "ipa": "sˈaɪk̆ʌl"
+  },
+  {
+    "en": "dad",
+    "vn": "bố",
+    "ipa": "dˈæd"
+  },
+  {
+    "en": "daily",
+    "vn": "hàng ngày",
+    "ipa": "dˈeɪl̆iː"
+  },
+  {
+    "en": "danger",
+    "vn": "nguy hiểm",
+    "ipa": "dˈeɪndʒ̆ɜː"
+  },
+  {
+    "en": "date",
+    "vn": "ngày tháng",
+    "ipa": "dˈeɪt"
+  },
+  {
+    "en": "dawn",
+    "vn": "bình minh",
+    "ipa": "dˈɔn"
+  },
+  {
+    "en": "deadline",
+    "vn": "hạn chót",
+    "ipa": "dˈɛdlˌaɪn"
+  },
+  {
+    "en": "dear",
+    "vn": "thân yêu",
+    "ipa": "dˈɪr"
+  },
+  {
+    "en": "debt",
+    "vn": "nợ",
+    "ipa": "dˈɛt"
+  },
+  {
+    "en": "declare",
+    "vn": "tuyên bố",
+    "ipa": "d̆ɪklˈɛr"
+  },
+  {
+    "en": "decline",
+    "vn": "giảm, từ chối",
+    "ipa": "d̆ɪklˈaɪn"
+  },
+  {
+    "en": "decorate",
+    "vn": "trang trí",
+    "ipa": "dˈɛk̆ɜːˌeɪt"
+  },
+  {
+    "en": "decoration",
+    "vn": "đồ trang trí",
+    "ipa": "dˌɛk̆ɜːˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "deeply",
+    "vn": "sâu sắc",
+    "ipa": "dˈiːpl̆iː"
+  },
+  {
+    "en": "deer",
+    "vn": "hươu",
+    "ipa": "dˈɪr"
+  },
+  {
+    "en": "defeat",
+    "vn": "đánh bại",
+    "ipa": "d̆ɪfˈiːt"
+  },
+  {
+    "en": "defence",
+    "vn": "phòng thủ",
+    "ipa": "d̆ɪfˈɛns"
+  },
+  {
+    "en": "define",
+    "vn": "định nghĩa",
+    "ipa": "d̆ɪfˈaɪn"
+  },
+  {
+    "en": "definite",
+    "vn": "chắc chắn",
+    "ipa": "dˈɛf̆ʌn̆ʌt"
+  },
+  {
+    "en": "definitely",
+    "vn": "chắc chắn",
+    "ipa": "dˈɛf̆ʌn̆ʌtl̆iː"
+  },
+  {
+    "en": "definition",
+    "vn": "định nghĩa",
+    "ipa": "dˌɛf̆ʌnˈɪʃ̆ʌn"
+  },
+  {
+    "en": "delegate",
+    "vn": "đại biểu",
+    "ipa": "dˈɛl̆ʌɡˌeɪt"
+  },
+  {
+    "en": "delete",
+    "vn": "xóa",
+    "ipa": "d̆ɪlˈiːt"
+  },
+  {
+    "en": "deliberate",
+    "vn": "cố ý",
+    "ipa": "d̆ɪlˈɪb̆ɜː̆ʌt"
+  },
+  {
+    "en": "delicate",
+    "vn": "tinh tế",
+    "ipa": "dˈɛl̆ʌk̆ʌt"
+  },
+  {
+    "en": "delicious",
+    "vn": "ngon",
+    "ipa": "d̆ɪlˈɪʃ̆ʌs"
+  },
+  {
+    "en": "delight",
+    "vn": "niềm vui thích",
+    "ipa": "d̆ɪlˈaɪt"
+  },
+  {
+    "en": "deliver",
+    "vn": "giao hàng",
+    "ipa": "d̆ɪlˈɪv̆ɜː"
+  },
+  {
+    "en": "delivery",
+    "vn": "sự giao hàng",
+    "ipa": "d̆ɪlˈɪv̆ɜː̆iː"
+  },
+  {
+    "en": "democracy",
+    "vn": "dân chủ",
+    "ipa": "d̆ɪmˈɑkr̆ʌs̆iː"
+  },
+  {
+    "en": "demonstrate",
+    "vn": "chứng minh",
+    "ipa": "dˈɛm̆ʌnstrˌeɪt"
+  },
+  {
+    "en": "dense",
+    "vn": "dày đặc",
+    "ipa": "dˈɛns"
+  },
+  {
+    "en": "density",
+    "vn": "mật độ",
+    "ipa": "dˈɛns̆ʌt̆iː"
+  },
+  {
+    "en": "department",
+    "vn": "phòng ban",
+    "ipa": "d̆ɪpˈɑrtm̆ʌnt"
+  },
+  {
+    "en": "departure",
+    "vn": "khởi hành",
+    "ipa": "d̆ɪpˈɑrtʃ̆ɜː"
+  },
+  {
+    "en": "depend",
+    "vn": "phụ thuộc",
+    "ipa": "d̆ɪpˈɛnd"
+  },
+  {
+    "en": "dependent",
+    "vn": "phụ thuộc",
+    "ipa": "d̆ɪpˈɛnd̆ʌnt"
+  },
+  {
+    "en": "deposit",
+    "vn": "tiền gửi",
+    "ipa": "d̆ʌpˈɑz̆ɪt"
+  },
+  {
+    "en": "depress",
+    "vn": "làm chán nản",
+    "ipa": "d̆ɪprˈɛs"
+  },
+  {
+    "en": "depression",
+    "vn": "trầm cảm",
+    "ipa": "d̆ɪprˈɛʃ̆ʌn"
+  },
+  {
+    "en": "depth",
+    "vn": "độ sâu",
+    "ipa": "dˈɛpθ"
+  },
+  {
+    "en": "deputy",
+    "vn": "phó",
+    "ipa": "dˈɛpj̆ʌt̆iː"
+  },
+  {
+    "en": "derive",
+    "vn": "bắt nguồn",
+    "ipa": "d̆ɜːˈaɪv"
+  },
+  {
+    "en": "descend",
+    "vn": "xuống dốc",
+    "ipa": "d̆ɪsˈɛnd"
+  },
+  {
+    "en": "description",
+    "vn": "mô tả",
+    "ipa": "d̆ɪskrˈɪpʃ̆ʌn"
+  },
+  {
+    "en": "desert",
+    "vn": "sa mạc",
+    "ipa": "dˈɛz̆ɜːt"
+  },
+  {
+    "en": "deserve",
+    "vn": "xứng đáng",
+    "ipa": "d̆ɪzˈɜːv"
+  },
+  {
+    "en": "designer",
+    "vn": "nhà thiết kế",
+    "ipa": "d̆ɪzˈaɪn̆ɜː"
+  },
+  {
+    "en": "desire",
+    "vn": "mong muốn",
+    "ipa": "d̆ɪzˈaɪ̆ɜː"
+  },
+  {
+    "en": "desk",
+    "vn": "bàn làm việc",
+    "ipa": "dˈɛsk"
+  },
+  {
+    "en": "desperate",
+    "vn": "tuyệt vọng",
+    "ipa": "dˈɛspr̆ɪt"
+  },
+  {
+    "en": "destination",
+    "vn": "điểm đến",
+    "ipa": "dˌɛst̆ʌnˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "destruction",
+    "vn": "sự phá hủy",
+    "ipa": "d̆ɪstrˈʌkʃ̆ʌn"
+  },
+  {
+    "en": "detailed",
+    "vn": "chi tiết",
+    "ipa": "d̆ɪtˈeɪld"
+  },
+  {
+    "en": "detect",
+    "vn": "phát hiện",
+    "ipa": "d̆ɪtˈɛkt"
+  },
+  {
+    "en": "detective",
+    "vn": "thám tử",
+    "ipa": "d̆ɪtˈɛkt̆ɪv"
+  },
+  {
+    "en": "determination",
+    "vn": "quyết tâm",
+    "ipa": "d̆ɪtˌɜːm̆ʌnˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "device",
+    "vn": "thiết bị",
+    "ipa": "d̆ɪvˈaɪs"
+  },
+  {
+    "en": "devil",
+    "vn": "quỷ",
+    "ipa": "dˈɛv̆ʌl"
+  },
+  {
+    "en": "devote",
+    "vn": "cống hiến",
+    "ipa": "d̆ɪvˈoʊt"
+  },
+  {
+    "en": "diagram",
+    "vn": "biểu đồ",
+    "ipa": "dˈaɪ̆ʌɡrˌæm"
+  },
+  {
+    "en": "dialogue",
+    "vn": "đối thoại",
+    "ipa": "dˈaɪ̆ʌlˌɔɡ"
+  },
+  {
+    "en": "diamond",
+    "vn": "kim cương",
+    "ipa": "dˈaɪm̆ʌnd"
+  },
+  {
+    "en": "diary",
+    "vn": "nhật ký",
+    "ipa": "dˈaɪ̆ɜː̆iː"
+  },
+  {
+    "en": "dictation",
+    "vn": "bài chính tả",
+    "ipa": "d̆ɪktˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "dictionary",
+    "vn": "từ điển",
+    "ipa": "dˈɪkʃ̆ʌnˌɛr̆iː"
+  },
+  {
+    "en": "diet",
+    "vn": "chế độ ăn uống",
+    "ipa": "dˈaɪ̆ʌt"
+  },
+  {
+    "en": "difficulty",
+    "vn": "khó khăn",
+    "ipa": "dˈɪf̆ʌk̆ʌlt̆iː"
+  },
+  {
+    "en": "dig",
+    "vn": "đào",
+    "ipa": "dˈɪɡ"
+  },
+  {
+    "en": "digital",
+    "vn": "kỹ thuật số",
+    "ipa": "dˈɪdʒ̆ʌt̆ʌl"
+  },
+  {
+    "en": "dignity",
+    "vn": "phẩm giá",
+    "ipa": "dˈɪɡn̆ʌt̆iː"
+  },
+  {
+    "en": "dilemma",
+    "vn": "tình thế khó xử",
+    "ipa": "d̆ɪlˈɛm̆ʌ"
+  },
+  {
+    "en": "dimension",
+    "vn": "kích thước",
+    "ipa": "d̆ɪmˈɛnʃ̆ʌn"
+  },
+  {
+    "en": "dip",
+    "vn": "nhúng",
+    "ipa": "dˈɪp"
+  },
+  {
+    "en": "diploma",
+    "vn": "bằng cấp",
+    "ipa": "d̆ɪplˈoʊm̆ɑ"
+  },
+  {
+    "en": "direct",
+    "vn": "trực tiếp",
+    "ipa": "d̆ɜːˈɛkt"
+  },
+  {
+    "en": "directly",
+    "vn": "trực tiếp",
+    "ipa": "d̆ɜːˈɛktl̆iː"
+  },
+  {
+    "en": "dirt",
+    "vn": "bụi bẩn",
+    "ipa": "dˈɜːt"
+  },
+  {
+    "en": "disable",
+    "vn": "vô hiệu hóa",
+    "ipa": "d̆ɪsˈeɪb̆ʌl"
+  },
+  {
+    "en": "disadvantage",
+    "vn": "bất lợi",
+    "ipa": "dˌɪs̆ʌdvˈænt̆ɪdʒ"
+  },
+  {
+    "en": "disappear",
+    "vn": "biến mất",
+    "ipa": "dˌɪs̆ʌpˈɪr"
+  },
+  {
+    "en": "disappoint",
+    "vn": "làm thất vọng",
+    "ipa": "dˌɪs̆ʌpˈɔɪnt"
+  },
+  {
+    "en": "disaster",
+    "vn": "thảm họa",
+    "ipa": "d̆ɪzˈæst̆ɜː"
+  },
+  {
+    "en": "disc",
+    "vn": "đĩa",
+    "ipa": "dˈɪsk"
+  },
+  {
+    "en": "discipline",
+    "vn": "kỷ luật",
+    "ipa": "dˈɪs̆ʌpl̆ʌn"
+  },
+  {
+    "en": "discourage",
+    "vn": "làm nản lòng",
+    "ipa": "d̆ɪskˈɜː̆ɪdʒ"
+  },
+  {
+    "en": "discovery",
+    "vn": "sự khám phá",
+    "ipa": "d̆ɪskˈʌv̆ɜː̆iː"
+  },
+  {
+    "en": "discrimination",
+    "vn": "phân biệt đối xử",
+    "ipa": "d̆ɪskrˌɪm̆ʌnˈeɪʃ̆ʌn"
+  },
+  {
+    "en": "dish",
+    "vn": "đĩa, món ăn",
+    "ipa": "dˈɪʃ"
+  },
+  {
+    "en": "dismiss",
+    "vn": "sa thải",
+    "ipa": "d̆ɪsmˈɪs"
+  },
+  {
+    "en": "disorder",
+    "vn": "rối loạn",
+    "ipa": "d̆ɪsˈɔrd̆ɜː"
+  },
+  {
+    "en": "dispute",
+    "vn": "tranh chấp",
+    "ipa": "d̆ɪspjˈuːt"
+  }
+]
