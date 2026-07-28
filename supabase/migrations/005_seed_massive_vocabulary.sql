@@ -1,0 +1,92 @@
+-- Migration: Seed Massive Vocabulary (A1 to C2)
+-- This file inserts hundreds of new words into the vocabulary table for 50 stages.
+
+INSERT INTO public.vocabulary (word, level, meaning_vi) VALUES
+-- Level A1
+('CAT', 'A1', 'Con mèo'), ('DOG', 'A1', 'Con chó'), ('SUN', 'A1', 'Mặt trời'), ('MOON', 'A1', 'Mặt trăng'),
+('WATER', 'A1', 'Nước'), ('FIRE', 'A1', 'Lửa'), ('EARTH', 'A1', 'Trái đất'), ('WIND', 'A1', 'Gió'),
+('BOOK', 'A1', 'Quyển sách'), ('PEN', 'A1', 'Cái bút'), ('DESK', 'A1', 'Bàn học'), ('CHAIR', 'A1', 'Cái ghế'),
+('HOUSE', 'A1', 'Ngôi nhà'), ('DOOR', 'A1', 'Cửa ra vào'), ('WINDOW', 'A1', 'Cửa sổ'), ('ROOM', 'A1', 'Căn phòng'),
+('APPLE', 'A1', 'Quả táo'), ('BANANA', 'A1', 'Quả chuối'), ('MILK', 'A1', 'Sữa'), ('BREAD', 'A1', 'Bánh mì'),
+('RICE', 'A1', 'Cơm'), ('MEAT', 'A1', 'Thịt'), ('FISH', 'A1', 'Con cá'), ('BIRD', 'A1', 'Con chim'),
+('TREE', 'A1', 'Cái cây'), ('FLOWER', 'A1', 'Bông hoa'), ('GRASS', 'A1', 'Cỏ'), ('LEAF', 'A1', 'Chiếc lá'),
+('CAR', 'A1', 'Xe hơi'), ('BUS', 'A1', 'Xe buýt'), ('TRAIN', 'A1', 'Tàu hỏa'), ('BIKE', 'A1', 'Xe đạp'),
+('ROAD', 'A1', 'Con đường'), ('STREET', 'A1', 'Đường phố'), ('CITY', 'A1', 'Thành phố'), ('TOWN', 'A1', 'Thị trấn'),
+('BOY', 'A1', 'Cậu bé'), ('GIRL', 'A1', 'Cô bé'), ('MAN', 'A1', 'Đàn ông'), ('WOMAN', 'A1', 'Phụ nữ'),
+('MOTHER', 'A1', 'Mẹ'), ('FATHER', 'A1', 'Cha'), ('SISTER', 'A1', 'Chị/em gái'), ('BROTHER', 'A1', 'Anh/em trai'),
+('HAND', 'A1', 'Bàn tay'), ('FOOT', 'A1', 'Bàn chân'), ('EYE', 'A1', 'Mắt'), ('EAR', 'A1', 'Tai'),
+('NOSE', 'A1', 'Mũi'), ('MOUTH', 'A1', 'Miệng'), ('HEAD', 'A1', 'Đầu'), ('FACE', 'A1', 'Khuôn mặt'),
+
+-- Level A2
+('MOUNTAIN', 'A2', 'Ngọn núi'), ('RIVER', 'A2', 'Dòng sông'), ('OCEAN', 'A2', 'Đại dương'), ('BEACH', 'A2', 'Bãi biển'),
+('CLOUD', 'A2', 'Đám mây'), ('STORM', 'A2', 'Cơn bão'), ('SNOW', 'A2', 'Tuyết'), ('RAIN', 'A2', 'Mưa'),
+('FARMER', 'A2', 'Nông dân'), ('DOCTOR', 'A2', 'Bác sĩ'), ('NURSE', 'A2', 'Y tá'), ('POLICE', 'A2', 'Cảnh sát'),
+('TEACHER', 'A2', 'Giáo viên'), ('STUDENT', 'A2', 'Học sinh'), ('DRIVER', 'A2', 'Tài xế'), ('SINGER', 'A2', 'Ca sĩ'),
+('ANIMAL', 'A2', 'Động vật'), ('TIGER', 'A2', 'Con hổ'), ('LION', 'A2', 'Con sư tử'), ('BEAR', 'A2', 'Con gấu'),
+('MONKEY', 'A2', 'Con khỉ'), ('SNAKE', 'A2', 'Con rắn'), ('HORSE', 'A2', 'Con ngựa'), ('SHEEP', 'A2', 'Con cừu'),
+('WINTER', 'A2', 'Mùa đông'), ('SUMMER', 'A2', 'Mùa hè'), ('SPRING', 'A2', 'Mùa xuân'), ('AUTUMN', 'A2', 'Mùa thu'),
+('MORNING', 'A2', 'Buổi sáng'), ('EVENING', 'A2', 'Buổi tối'), ('NIGHT', 'A2', 'Ban đêm'), ('AFTERNOON', 'A2', 'Buổi chiều'),
+('TICKET', 'A2', 'Vé'), ('FLIGHT', 'A2', 'Chuyến bay'), ('AIRPORT', 'A2', 'Sân bay'), ('STATION', 'A2', 'Nhà ga'),
+('HOTEL', 'A2', 'Khách sạn'), ('RESTAURANT', 'A2', 'Nhà hàng'), ('HOSPITAL', 'A2', 'Bệnh viện'), ('MARKET', 'A2', 'Chợ'),
+('MONEY', 'A2', 'Tiền'), ('PRICE', 'A2', 'Giá cả'), ('CHEAP', 'A2', 'Rẻ'), ('EXPENSIVE', 'A2', 'Đắt'),
+('BEAUTIFUL', 'A2', 'Xinh đẹp'), ('UGLY', 'A2', 'Xấu xí'), ('CLEAN', 'A2', 'Sạch sẽ'), ('DIRTY', 'A2', 'Dơ bẩn'),
+('QUICK', 'A2', 'Nhanh'), ('SLOW', 'A2', 'Chậm'), ('STRONG', 'A2', 'Mạnh'), ('WEAK', 'A2', 'Yếu'),
+
+-- Level B1
+('FREEDOM', 'B1', 'Sự tự do'), ('JOURNEY', 'B1', 'Hành trình'), ('ADVENTURE', 'B1', 'Chuyến phiêu lưu'), ('HOLIDAY', 'B1', 'Kỳ nghỉ'),
+('WEATHER', 'B1', 'Thời tiết'), ('CLIMATE', 'B1', 'Khí hậu'), ('NATURE', 'B1', 'Thiên nhiên'), ('ENVIRONMENT', 'B1', 'Môi trường'),
+('SOCIETY', 'B1', 'Xã hội'), ('CULTURE', 'B1', 'Văn hóa'), ('HISTORY', 'B1', 'Lịch sử'), ('TRADITION', 'B1', 'Truyền thống'),
+('SCIENCE', 'B1', 'Khoa học'), ('TECHNOLOGY', 'B1', 'Công nghệ'), ('MACHINE', 'B1', 'Máy móc'), ('COMPUTER', 'B1', 'Máy tính'),
+('FACTORY', 'B1', 'Nhà máy'), ('INDUSTRY', 'B1', 'Công nghiệp'), ('BUSINESS', 'B1', 'Kinh doanh'), ('COMPANY', 'B1', 'Công ty'),
+('OFFICE', 'B1', 'Văn phòng'), ('MANAGER', 'B1', 'Quản lý'), ('EMPLOYEE', 'B1', 'Nhân viên'), ('CUSTOMER', 'B1', 'Khách hàng'),
+('PRODUCT', 'B1', 'Sản phẩm'), ('SERVICE', 'B1', 'Dịch vụ'), ('QUALITY', 'B1', 'Chất lượng'), ('QUANTITY', 'B1', 'Số lượng'),
+('EDUCATION', 'B1', 'Giáo dục'), ('KNOWLEDGE', 'B1', 'Kiến thức'), ('UNIVERSITY', 'B1', 'Đại học'), ('COLLEGE', 'B1', 'Cao đẳng'),
+('LANGUAGE', 'B1', 'Ngôn ngữ'), ('DICTIONARY', 'B1', 'Từ điển'), ('GRAMMAR', 'B1', 'Ngữ pháp'), ('VOCABULARY', 'B1', 'Từ vựng'),
+('SENTENCE', 'B1', 'Câu'), ('PARAGRAPH', 'B1', 'Đoạn văn'), ('DOCUMENT', 'B1', 'Tài liệu'), ('ARTICLE', 'B1', 'Bài báo'),
+('MESSAGE', 'B1', 'Tin nhắn'), ('LETTER', 'B1', 'Lá thư'), ('PACKAGE', 'B1', 'Gói hàng'), ('DELIVERY', 'B1', 'Sự giao hàng'),
+('SUCCESS', 'B1', 'Thành công'), ('FAILURE', 'B1', 'Thất bại'), ('MISTAKE', 'B1', 'Lỗi lầm'), ('PROBLEM', 'B1', 'Vấn đề'),
+('SOLUTION', 'B1', 'Giải pháp'), ('DECISION', 'B1', 'Quyết định'), ('CHOICE', 'B1', 'Sự lựa chọn'), ('OPINION', 'B1', 'Ý kiến'),
+
+-- Level B2
+('PHILOSOPHY', 'B2', 'Triết học'), ('PSYCHOLOGY', 'B2', 'Tâm lý học'), ('BIOLOGY', 'B2', 'Sinh học'), ('CHEMISTRY', 'B2', 'Hóa học'),
+('INNOVATION', 'B2', 'Sự đổi mới'), ('INVENTION', 'B2', 'Sự phát minh'), ('DISCOVERY', 'B2', 'Sự khám phá'), ('RESEARCH', 'B2', 'Nghiên cứu'),
+('SUSTAINABLE', 'B2', 'Bền vững'), ('RENEWABLE', 'B2', 'Có thể tái tạo'), ('POLLUTION', 'B2', 'Sự ô nhiễm'), ('CONSERVATION', 'B2', 'Sự bảo tồn'),
+('GOVERNMENT', 'B2', 'Chính phủ'), ('PARLIAMENT', 'B2', 'Nghị viện'), ('DEMOCRACY', 'B2', 'Dân chủ'), ('REPUBLIC', 'B2', 'Cộng hòa'),
+('AGRICULTURE', 'B2', 'Nông nghiệp'), ('ARCHITECTURE', 'B2', 'Kiến trúc'), ('LITERATURE', 'B2', 'Văn học'), ('SCULPTURE', 'B2', 'Điêu khắc'),
+('REVOLUTION', 'B2', 'Cuộc cách mạng'), ('INDEPENDENCE', 'B2', 'Sự độc lập'), ('CONSTITUTION', 'B2', 'Hiến pháp'), ('AGREEMENT', 'B2', 'Hiệp định'),
+('INVESTMENT', 'B2', 'Sự đầu tư'), ('MANAGEMENT', 'B2', 'Sự quản lý'), ('STRATEGY', 'B2', 'Chiến lược'), ('CAMPAIGN', 'B2', 'Chiến dịch'),
+('POTENTIAL', 'B2', 'Tiềm năng'), ('SIGNIFICANT', 'B2', 'Đáng kể'), ('APPROPRIATE', 'B2', 'Thích hợp'), ('ALTERNATIVE', 'B2', 'Sự thay thế'),
+('PERSPECTIVE', 'B2', 'Quan điểm'), ('CONSEQUENCE', 'B2', 'Hậu quả'), ('CONTRIBUTION', 'B2', 'Sự đóng góp'), ('CHALLENGE', 'B2', 'Thử thách'),
+('OPPORTUNITY', 'B2', 'Cơ hội'), ('ACHIEVEMENT', 'B2', 'Thành tựu'), ('EXPERIENCE', 'B2', 'Kinh nghiệm'), ('EVIDENCE', 'B2', 'Bằng chứng'),
+('HYPOTHESIS', 'B2', 'Giả thuyết'), ('PHENOMENON', 'B2', 'Hiện tượng'), ('STATISTICS', 'B2', 'Thống kê'), ('ANALYSIS', 'B2', 'Sự phân tích'),
+('PERCEPTION', 'B2', 'Sự nhận thức'), ('AWARENESS', 'B2', 'Sự nhận thức'), ('CONSCIOUSNESS', 'B2', 'Ý thức'), ('INTUITION', 'B2', 'Trực giác'),
+('RESISTANCE', 'B2', 'Sự kháng cự'), ('TOLERANCE', 'B2', 'Sự khoan dung'), ('PREJUDICE', 'B2', 'Định kiến'), ('DISCRIMINATION', 'B2', 'Sự phân biệt'),
+
+-- Level C1
+('UBIQUITOUS', 'C1', 'Có mặt khắp nơi'), ('EPHEMERAL', 'C1', 'Phù du, chóng tàn'), ('METICULOUS', 'C1', 'Tỉ mỉ, cẩn thận'), ('PRAGMATIC', 'C1', 'Thực dụng'),
+('ELOQUENT', 'C1', 'Có tài hùng biện'), ('RESILIENT', 'C1', 'Kiên cường, mau phục hồi'), ('LUCID', 'C1', 'Minh mẫn, rõ ràng'), ('PROLIFIC', 'C1', 'Sinh sản nhiều, sáng tác nhiều'),
+('AMBIGUOUS', 'C1', 'Mơ hồ, nhập nhằng'), ('ANOMALY', 'C1', 'Sự dị thường'), ('DICHOTOMY', 'C1', 'Sự phân đôi, đối lập'), ('PARADIGM', 'C1', 'Mô hình, kiểu mẫu'),
+('CONUNDRUM', 'C1', 'Câu đố, vấn đề nan giải'), ('ENIGMA', 'C1', 'Điều bí ẩn'), ('SYNERGY', 'C1', 'Sự hiệp lực'), ('CATALYST', 'C1', 'Chất xúc tác'),
+('VINDICATE', 'C1', 'Minh oan, bào chữa'), ('EXACERBATE', 'C1', 'Làm trầm trọng thêm'), ('MITIGATE', 'C1', 'Làm dịu bớt'), ('ALLEVIATE', 'C1', 'Làm giảm nhẹ'),
+('ASTUTE', 'C1', 'Sắc sảo, tinh khôn'), ('AUSTERE', 'C1', 'Khắc khổ, mộc mạc'), ('BENEVOLENT', 'C1', 'Nhân từ, rộng lượng'), ('CAPRICIOUS', 'C1', 'Thất thường'),
+('CHRONIC', 'C1', 'Mãn tính, kinh niên'), ('COGNITIVE', 'C1', 'Thuộc về nhận thức'), ('COMPREHENSIVE', 'C1', 'Toàn diện'), ('DETRIMENTAL', 'C1', 'Có hại'),
+('EMPIRICAL', 'C1', 'Dựa trên kinh nghiệm'), ('FEASIBLE', 'C1', 'Khả thi'), ('HETEROGENEOUS', 'C1', 'Hỗn tạp, không đồng nhất'), ('HOMOGENEOUS', 'C1', 'Đồng nhất'),
+('IMPLICIT', 'C1', 'Ngầm hiểu'), ('EXPLICIT', 'C1', 'Rõ ràng, dứt khoát'), ('INTRINSIC', 'C1', 'Bản chất, thực chất'), ('EXTRINSIC', 'C1', 'Ngoại lai, bên ngoài'),
+('MUNDANE', 'C1', 'Trần tục, tầm thường'), ('NOSTALGIA', 'C1', 'Sự hoài niệm'), ('OBSOLETE', 'C1', 'Lỗi thời, cũ kỹ'), ('PERVASIVE', 'C1', 'Tỏa khắp, lan tràn'),
+('PLAUSIBLE', 'C1', 'Có vẻ hợp lý'), ('PRECARIOUS', 'C1', 'Bấp bênh, chông chênh'), ('REDUNDANT', 'C1', 'Dư thừa'), ('SCRUTINIZE', 'C1', 'Nhìn chăm chú, xem xét kỹ lưỡng'),
+('TANGIBLE', 'C1', 'Hữu hình, có thể sờ mó được'), ('TENTATIVE', 'C1', 'Dự kiến, ngập ngừng'), ('UNPRECEDENTED', 'C1', 'Chưa từng thấy, chưa từng có'), ('VIABLE', 'C1', 'Có thể tồn tại, khả thi'),
+
+-- Level C2
+('SERENDIPITY', 'C2', 'Sự tình cờ may mắn'), ('QUINTESSENTIAL', 'C2', 'Tinh túy, hoàn hảo nhất'), ('MELLIFLUOUS', 'C2', 'Ngọt ngào, êm tai'), ('INEFFABLE', 'C2', 'Không thể tả xiết'),
+('OBFUSCATE', 'C2', 'Làm mờ mịt, gây bối rối'), ('PERSPICACIOUS', 'C2', 'Sáng suốt, nhạy bén'), ('EQUANIMITY', 'C2', 'Sự bình thản, điềm đạm'), ('FASTIDIOUS', 'C2', 'Khó tính, tỉ mỉ'),
+('ESOTERIC', 'C2', 'Bí truyền, khó hiểu'), ('CACOPHONY', 'C2', 'Âm thanh chói tai'), ('SYCOPHANT', 'C2', 'Kẻ nịnh hót'), ('IDIOSYNCRASY', 'C2', 'Khí chất đặc thù, kỳ quặc'),
+('BELLIGERENT', 'C2', 'Hiếu chiến'), ('MAGNANIMOUS', 'C2', 'Hào hiệp, cao thượng'), ('SUPERFLUOUS', 'C2', 'Thừa thãi, không cần thiết'), ('PANDEMONIUM', 'C2', 'Sự hỗn loạn, ồn ào'),
+('RECALCITRANT', 'C2', 'Ngoan cố, cứng đầu'), ('GRANDILOQUENT', 'C2', 'Khoa trương, nói chữ'), ('DEFENESTRATION', 'C2', 'Hành động ném ai ra khỏi cửa'), ('FLUMMOXED', 'C2', 'Bối rối, lúng túng'),
+('EPITOME', 'C2', 'Tấm gương hoàn hảo, hình ảnh thu nhỏ'), ('INEFFABLY', 'C2', 'Một cách không thể diễn tả'), ('MUNIFICENT', 'C2', 'Vô cùng hào phóng'), ('OBSTREPEROUS', 'C2', 'Ngỗ ngược, ồn ào'),
+('PAUCITY', 'C2', 'Sự khan hiếm, thiếu thốn'), ('PUSILLANIMOUS', 'C2', 'Nhát gan, hèn nhát'), ('QUERULOUS', 'C2', 'Hay cằn nhằn, than phiền'), ('SAGACIOUS', 'C2', 'Thông minh, minh mẫn'),
+('TREPIDATION', 'C2', 'Sự lo âu, sợ hãi'), ('VOCIFEROUS', 'C2', 'Om sòm, to tiếng'), ('ZEALOUS', 'C2', 'Hăng hái, nhiệt huyết'), ('ACRIMONIOUS', 'C2', 'Chua cay, gay gắt'),
+('ALACRITY', 'C2', 'Sự sốt sắng, hoạt bát'), ('AMELIORATE', 'C2', 'Làm tốt hơn, cải thiện'), ('ANACHRONISM', 'C2', 'Sự sai năm tháng, lỗi thời'), ('BIFURCATE', 'C2', 'Chia hai nhánh'),
+('CHICANERY', 'C2', 'Sự dùng mánh khóe, lừa lọc'), ('COGENT', 'C2', 'Có sức thuyết phục'), ('DELETERIOUS', 'C2', 'Có hại, độc'), ('EBULLIENT', 'C2', 'Sôi nổi, hăng hái'),
+('EGREGIOUS', 'C2', 'Tồi tệ, trắng trợn'), ('FACETIOUS', 'C2', 'Khôi hài, đùa cợt'), ('GARRULOUS', 'C2', 'Nói nhiều, ba hoa'), ('HACKNEYED', 'C2', 'Nhàm chán, sáo rỗng'),
+('ICONOCLAST', 'C2', 'Người đả phá những tín ngưỡng lâu đời'), ('JUXTAPOSITION', 'C2', 'Sự đặt cạnh nhau'), ('LACONIC', 'C2', 'Vắn tắt, súc tích'), ('MAVERICK', 'C2', 'Người độc lập, không theo khuôn phép')
+ON CONFLICT (word) DO NOTHING;
